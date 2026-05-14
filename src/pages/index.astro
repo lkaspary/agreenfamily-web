@@ -1,0 +1,95 @@
+---
+import Layout from '../layouts/Layout.astro';
+import FeaturedCarousel from '../components/FeaturedCarousel.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('articles', ({ data }) => !data.draft);
+allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const featuredArticles = allArticles
+  .filter(a => a.data.featured)
+  .slice(0, 3)
+  .map(a => ({
+    title: a.data.title,
+    description: a.data.description,
+    slug: a.slug,
+    date: a.data.date,
+    tags: a.data.tags,
+    image: a.data.image,
+    imageAlt: a.data.imageAlt,
+  }));
+
+const latestArticles = allArticles.slice(0, 6);
+---
+
+<Layout title="A Green Family" description="Practical eco-friendly habits for families who want to live greener — without turning their lives upside down.">
+
+  <!-- Hero -->
+  <section class="max-w-5xl mx-auto px-6 pt-12 pb-6">
+    <div class="text-center mb-10">
+      <p class="text-leaf font-medium text-sm uppercase tracking-widest mb-3">A Green Family</p>
+      <h1 class="font-serif text-4xl md:text-5xl text-forest leading-tight mb-4">
+        Greener habits for<br class="hidden md:block" /> the whole family
+      </h1>
+      <p class="text-ink-muted text-lg max-w-xl mx-auto leading-relaxed">
+        Practical, affordable tips that actually fit family life — no perfection required.
+      </p>
+    </div>
+
+    <!-- Featured carousel -->
+    {featuredArticles.length > 0 && (
+      <FeaturedCarousel articles={featuredArticles} />
+    )}
+  </section>
+
+  <!-- Latest articles -->
+  <section class="max-w-5xl mx-auto px-6 py-12">
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="font-serif text-2xl text-forest">Latest Articles</h2>
+      <a href="/articles" class="text-sm text-leaf hover:text-forest font-medium">View all →</a>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {latestArticles.map(article => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          slug={article.slug}
+          date={article.data.date}
+          tags={article.data.tags}
+          image={article.data.image}
+          imageAlt={article.data.imageAlt}
+          featured={article.data.featured}
+        />
+      ))}
+    </div>
+  </section>
+
+  <!-- Value props -->
+  <section class="bg-sky py-14">
+    <div class="max-w-5xl mx-auto px-6">
+      <h2 class="font-serif text-2xl text-forest text-center mb-10">Why green habits matter for families</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        {[
+          { emoji: '🌍', title: 'Real impact', text: 'Families are responsible for a significant share of household carbon. Small daily habits add up.' },
+          { emoji: '💰', title: 'Actually saves money', text: 'Most eco swaps cost less over time — buying less, wasting less, reusing more.' },
+          { emoji: '👧', title: 'Teaches kids values', text: 'Children who grow up with green habits carry them for life. It starts at home.' },
+        ].map(card => (
+          <div class="text-center p-6 bg-white rounded-xl border border-stone">
+            <div class="text-4xl mb-3">{card.emoji}</div>
+            <h3 class="font-serif text-lg text-forest mb-2">{card.title}</h3>
+            <p class="text-sm text-ink-muted leading-relaxed">{card.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <div class="max-w-5xl mx-auto px-6">
+    <NewsletterSignup />
+  </div>
+
+</Layout>

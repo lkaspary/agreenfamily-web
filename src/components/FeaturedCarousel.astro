@@ -1,0 +1,131 @@
+---
+export interface Props {
+  articles: {
+    title: string;
+    description: string;
+    slug: string;
+    date: Date;
+    tags: string[];
+    image?: string;
+    imageAlt?: string;
+  }[];
+}
+
+const { articles } = Astro.props;
+---
+
+<div class="relative overflow-hidden" id="carousel">
+
+  <!-- Slides -->
+  <div id="carousel-track" class="flex transition-transform duration-500 ease-in-out">
+    {articles.map((article, i) => (
+      <div
+        class="min-w-full relative"
+        data-slide={i}
+      >
+        <!-- Background image or gradient -->
+        <div class="relative h-[480px] md:h-[540px] overflow-hidden rounded-2xl">
+          {article.image ? (
+            <img
+              src={article.image}
+              alt={article.imageAlt ?? article.title}
+              class="absolute inset-0 w-full h-full object-cover"
+            />
+          ) : (
+            <div class="absolute inset-0 bg-gradient-to-br from-forest to-leaf"></div>
+          )}
+
+          <!-- Overlay -->
+          <div class="absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/40 to-transparent"></div>
+
+          <!-- Content -->
+          <div class="absolute bottom-0 left-0 right-0 p-8 md:p-12">
+            <div class="flex flex-wrap gap-2 mb-3">
+              {article.tags.slice(0, 2).map(tag => (
+                <span class="inline-block text-xs font-medium bg-sage/30 text-cream border border-sage/40 px-2.5 py-1 rounded-full uppercase tracking-wide">
+                  {tag}
+                </span>
+              ))}
+            </div>
+            <h2 class="font-serif text-2xl md:text-4xl text-cream leading-tight mb-3 max-w-2xl">
+              {article.title}
+            </h2>
+            <p class="text-cream/80 text-sm md:text-base mb-6 max-w-xl leading-relaxed">
+              {article.description}
+            </p>
+            <a
+              href={`/articles/${article.slug}`}
+              class="inline-block bg-cream text-forest font-medium px-6 py-3 rounded-lg hover:bg-sky transition-colors"
+            >
+              Read Article →
+            </a>
+          </div>
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <!-- Dots navigation -->
+  {articles.length > 1 && (
+    <div class="flex justify-center gap-2 mt-5" id="carousel-dots">
+      {articles.map((_, i) => (
+        <button
+          class={`w-2.5 h-2.5 rounded-full transition-colors duration-200 ${i === 0 ? 'bg-leaf' : 'bg-stone'}`}
+          data-dot={i}
+          aria-label={`Go to slide ${i + 1}`}
+        ></button>
+      ))}
+    </div>
+  )}
+
+  <!-- Prev / Next arrows -->
+  {articles.length > 1 && (
+    <>
+      <button
+        id="carousel-prev"
+        class="absolute left-4 top-1/2 -translate-y-1/2 bg-cream/20 hover:bg-cream/40 text-cream rounded-full w-10 h-10 flex items-center justify-center backdrop-blur-sm transition-colors"
+        aria-label="Previous slide"
+      >‹</button>
+      <button
+        id="carousel-next"
+        class="absolute right-4 top-1/2 -translate-y-1/2 bg-cream/20 hover:bg-cream/40 text-cream rounded-full w-10 h-10 flex items-center justify-center backdrop-blur-sm transition-colors"
+        aria-label="Next slide"
+      >›</button>
+    </>
+  )}
+
+</div>
+
+<script>
+  const track = document.getElementById('carousel-track') as HTMLElement;
+  const dots = document.querySelectorAll('[data-dot]');
+  const total = dots.length;
+  let current = 0;
+  let timer: ReturnType<typeof setInterval>;
+
+  function goTo(index: number) {
+    current = (index + total) % total;
+    track.style.transform = `translateX(-${current * 100}%)`;
+    dots.forEach((dot, i) => {
+      (dot as HTMLElement).style.backgroundColor = i === current ? '#4A7C59' : '#D4CFC9';
+    });
+  }
+
+  function startAuto() {
+    timer = setInterval(() => goTo(current + 1), 5000);
+  }
+
+  function resetAuto() {
+    clearInterval(timer);
+    startAuto();
+  }
+
+  dots.forEach((dot, i) => {
+    dot.addEventListener('click', () => { goTo(i); resetAuto(); });
+  });
+
+  document.getElementById('carousel-prev')?.addEventListener('click', () => { goTo(current - 1); resetAuto(); });
+  document.getElementById('carousel-next')?.addEventListener('click', () => { goTo(current + 1); resetAuto(); });
+
+  if (total > 1) startAuto();
+</script>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img">
+  <title>A Green Family</title>
+
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#2D5016"/>
+
+  <!-- Pine tree tiers -->
+  <!-- Top tier -->
+  <polygon points="32,6 22,24 42,24" fill="#E8F4EA"/>
+  <!-- Mid tier -->
+  <polygon points="32,16 18,40 46,40" fill="#8BAE8A"/>
+  <!-- Bottom tier -->
+  <polygon points="32,28 12,56 52,56" fill="#E8F4EA" opacity="0.9"/>
+
+  <!-- Trunk -->
+  <rect x="29" y="56" width="6" height="7" rx="1.5" fill="#6B5B3E"/>
+
+  <!-- Family figures (small, cream) -->
+  <circle cx="11" cy="51" r="2.5" fill="#E8F4EA"/>
+  <circle cx="19" cy="52" r="2" fill="#E8F4EA"/>
+  <circle cx="45" cy="52" r="2" fill="#E8F4EA"/>
+  <circle cx="53" cy="53" r="1.8" fill="#E8F4EA"/>
+
+</svg>

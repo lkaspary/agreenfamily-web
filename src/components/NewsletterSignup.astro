@@ -1,0 +1,38 @@
+---
+// Future: replace the form action with your Beehiiv embed URL
+// or Web3Forms action key
+---
+
+<section class="bg-forest rounded-2xl px-8 py-10 text-center my-12">
+  <div class="max-w-md mx-auto">
+    <p class="text-3xl mb-3">🌱</p>
+    <h2 class="font-serif text-2xl text-cream mb-2">One tip a week, zero overwhelm</h2>
+    <p class="text-sage text-sm mb-6 leading-relaxed">
+      Join families making small, real changes. We send one practical green tip every Wednesday — no spam, unsubscribe anytime.
+    </p>
+
+    <!-- Web3Forms form — update access_key when ready -->
+    <form
+      action="https://api.web3forms.com/submit"
+      method="POST"
+      class="flex flex-col sm:flex-row gap-3"
+    >
+      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY_HERE" />
+      <input type="hidden" name="subject" content="New newsletter subscriber" />
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="your@email.com"
+        class="flex-1 px-4 py-2.5 rounded-lg text-ink text-sm focus:outline-none focus:ring-2 focus:ring-sage"
+      />
+      <button
+        type="submit"
+        class="bg-leaf hover:bg-sage text-white font-medium px-5 py-2.5 rounded-lg transition-colors text-sm whitespace-nowrap"
+      >
+        Subscribe Free
+      </button>
+    </form>
+    <p class="text-xs text-sage/70 mt-3">No spam. Unsubscribe anytime.</p>
+  </div>
+</section>

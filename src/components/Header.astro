@@ -1,0 +1,68 @@
+---
+const navLinks = [
+  { href: '/articles', label: 'Articles' },
+  { href: '/about',    label: 'About' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="w-full border-b border-stone bg-cream sticky top-0 z-50 shadow-sm">
+  <div class="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
+
+    <!-- Logo -->
+    <a href="/" class="flex items-center group opacity-90 hover:opacity-100 transition-opacity">
+      <img src="/logo.svg" alt="A Green Family" class="h-12 w-auto" />
+    </a>
+
+    <!-- Desktop nav -->
+    <nav class="hidden md:flex items-center gap-8">
+      {navLinks.map(link => (
+        <a
+          href={link.href}
+          class={`text-sm font-medium transition-colors ${
+            currentPath.startsWith(link.href)
+              ? 'text-leaf'
+              : 'text-ink-muted hover:text-leaf'
+          }`}
+        >
+          {link.label}
+        </a>
+      ))}
+      <a
+        href="/articles"
+        class="btn-primary text-sm py-2 px-4"
+      >
+        Start Reading
+      </a>
+    </nav>
+
+    <!-- Mobile menu button -->
+    <button
+      id="mobile-menu-btn"
+      class="md:hidden flex flex-col gap-1.5 p-2"
+      aria-label="Toggle menu"
+    >
+      <span class="block w-5 h-0.5 bg-ink"></span>
+      <span class="block w-5 h-0.5 bg-ink"></span>
+      <span class="block w-5 h-0.5 bg-ink"></span>
+    </button>
+
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden md:hidden border-t border-stone bg-cream px-6 py-4 flex flex-col gap-4">
+    {navLinks.map(link => (
+      <a href={link.href} class="text-sm font-medium text-ink-muted hover:text-leaf">{link.label}</a>
+    ))}
+    <a href="/articles" class="btn-primary text-sm text-center">Start Reading</a>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => {
+    menu?.classList.toggle('hidden');
+  });
+</script>

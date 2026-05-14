@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 100" role="img">
+  <title>A Green Family</title>
+  <desc>Pine tree with family figures beneath, alongside the wordmark A Green Family</desc>
+
+  <!-- === PINE TREE ICON === -->
+
+  <!-- Top tier -->
+  <polygon points="60,8 44,40 76,40" fill="#2D5016"/>
+  <!-- Mid tier -->
+  <polygon points="60,24 36,64 84,64" fill="#4A7C59"/>
+  <!-- Bottom tier -->
+  <polygon points="60,44 28,88 92,88" fill="#2D5016"/>
+
+  <!-- Trunk -->
+  <rect x="56" y="88" width="8" height="10" rx="1.5" fill="#6B5B3E"/>
+
+  <!-- Family figures -->
+  <!-- Adult 1 -->
+  <circle cx="22" cy="81" r="4" fill="#2D5016"/>
+  <rect x="18.5" y="86" width="7" height="9" rx="2" fill="#4A7C59"/>
+  <!-- Adult 2 -->
+  <circle cx="35" cy="83" r="3.5" fill="#2D5016"/>
+  <rect x="31.5" y="87" width="7" height="8" rx="2" fill="#4A7C59"/>
+  <!-- Child 1 -->
+  <circle cx="85" cy="83" r="3.5" fill="#2D5016"/>
+  <rect x="81.5" y="87" width="7" height="8" rx="2" fill="#4A7C59"/>
+  <!-- Child 2 -->
+  <circle cx="97" cy="84" r="3" fill="#2D5016"/>
+  <rect x="94" y="88" width="6" height="7" rx="2" fill="#4A7C59"/>
+
+  <!-- Ground line -->
+  <line x1="14" y1="96" x2="106" y2="96" stroke="#8BAE8A" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Divider -->
+  <line x1="118" y1="12" x2="118" y2="92" stroke="#D4CFC9" stroke-width="0.75"/>
+
+  <!-- === WORDMARK === -->
+  <text x="130" y="52" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="700" fill="#2D5016">A Green</text>
+  <text x="130" y="80" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="700" fill="#4A7C59">Family</text>
+</svg>

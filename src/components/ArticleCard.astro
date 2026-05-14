@@ -1,0 +1,67 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  date: Date;
+  tags: string[];
+  image?: string;
+  imageAlt?: string;
+  featured?: boolean;
+}
+
+const { title, description, slug, date, tags, image, imageAlt, featured } = Astro.props;
+
+const formattedDate = date.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric',
+});
+---
+
+<a href={`/articles/${slug}`} class="card flex flex-col group h-full">
+
+  <!-- Image -->
+  {image ? (
+    <div class="overflow-hidden h-48">
+      <img
+        src={image}
+        alt={imageAlt ?? title}
+        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+      />
+    </div>
+  ) : (
+    <div class="h-48 bg-sky flex items-center justify-center text-4xl">🌿</div>
+  )}
+
+  <!-- Content -->
+  <div class="p-5 flex flex-col flex-1">
+    <!-- Tags -->
+    <div class="flex flex-wrap gap-1.5 mb-3">
+      {tags.slice(0, 2).map(tag => (
+        <span class="tag">{tag}</span>
+      ))}
+      {featured && (
+        <span class="inline-block text-xs font-medium bg-earth text-cream px-2.5 py-1 rounded-full uppercase tracking-wide">
+          Featured
+        </span>
+      )}
+    </div>
+
+    <!-- Title -->
+    <h3 class="font-serif text-lg text-forest leading-snug mb-2 group-hover:text-leaf transition-colors">
+      {title}
+    </h3>
+
+    <!-- Description -->
+    <p class="text-sm text-ink-muted leading-relaxed flex-1 mb-4">
+      {description}
+    </p>
+
+    <!-- Date -->
+    <time class="text-xs text-stone" datetime={date.toISOString()}>
+      {formattedDate}
+    </time>
+  </div>
+
+</a>

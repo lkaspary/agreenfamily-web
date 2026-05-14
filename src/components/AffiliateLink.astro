@@ -1,0 +1,41 @@
+---
+export interface Props {
+  name: string;
+  url: string;
+  store: 'amazon' | 'walmart';
+  description?: string;
+}
+
+const { name, url, store, description } = Astro.props;
+
+const storeConfig = {
+  amazon: {
+    label: 'Amazon',
+    emoji: '📦',
+    btnClass: 'bg-[#FF9900] hover:bg-[#e68900] text-ink',
+  },
+  walmart: {
+    label: 'Walmart',
+    emoji: '🛒',
+    btnClass: 'bg-[#0071DC] hover:bg-[#005bb5] text-white',
+  },
+};
+
+const config = storeConfig[store];
+---
+
+<div class="flex items-center justify-between gap-4 bg-white rounded-lg border border-stone p-4">
+  <div class="flex-1 min-w-0">
+    <p class="font-medium text-ink text-sm truncate">{name}</p>
+    {description && <p class="text-xs text-ink-muted mt-0.5">{description}</p>}
+    <p class="text-xs text-sage mt-1">{config.emoji} {config.label} affiliate link</p>
+  </div>
+  <a
+    href={url}
+    target="_blank"
+    rel="noopener noreferrer sponsored"
+    class={`flex-shrink-0 text-xs font-semibold px-4 py-2 rounded-lg transition-colors ${config.btnClass}`}
+  >
+    View on {config.label}
+  </a>
+</div>
