@@ -10,19 +10,19 @@ featured: false
 draft: false
 affiliateProducts:
   - name: "Tru Earth Eco-Strips Laundry Detergent"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B07SPVZLVQ/?tag=agreenfamily-20"
     store: "amazon"
     description: "Plastic-free, zero-waste detergent strips — works in any machine"
   - name: "Wool Dryer Balls (Set of 6)"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B00GA9P5P0/?tag=agreenfamily-20"
     store: "amazon"
     description: "Replace dryer sheets permanently, cuts drying time by 25%"
   - name: "Foldable Drying Rack"
-    url: "https://www.walmart.com/PLACEHOLDER"
+    url: "https://www.walmart.com/ip/IRIS-USA-Foldable-Clothes-Drying-Rack-with-Extendable-Rods-for-Large-Laundry-Loads/915759008"
     store: "walmart"
     description: "Sturdy indoor drying rack for air-drying clothes year-round"
   - name: "Mesh Laundry Bags (Set of 3)"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B0BGH8HNYG/?tag=agreenfamily-20"
     store: "amazon"
     description: "Catches microplastic fibres from synthetic fabrics"
 ---

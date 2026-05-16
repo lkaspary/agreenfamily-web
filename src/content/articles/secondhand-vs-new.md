@@ -9,16 +9,12 @@ imageAlt: "A rack of neatly organised secondhand children's clothing"
 featured: false
 draft: false
 affiliateProducts:
-  - name: "ThredUp Gift Card"
-    url: "https://amzn.to/PLACEHOLDER"
-    store: "amazon"
-    description: "Online secondhand store for kids and adult clothing — huge selection"
   - name: "Reusable Shopping Tote (3-pack)"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B06XNLWB3B/?tag=agreenfamily-20"
     store: "amazon"
     description: "For charity shop and market runs — foldable, sturdy"
   - name: "Fabric Steamer"
-    url: "https://www.walmart.com/PLACEHOLDER"
+    url: "https://www.walmart.com/ip/Conair-Handheld-Garment-Steamer-for-Clothes-ExtremeSteam-1200W-Portable-Handheld-Design-White-Blue-GS237RXWM/588827857"
     store: "walmart"
     description: "Freshen and sanitise secondhand clothing and soft furnishings quickly"
 ---

@@ -10,19 +10,19 @@ featured: false
 draft: false
 affiliateProducts:
   - name: "AeroGarden Harvest Indoor Garden"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B07CKK8Z78/?tag=agreenfamily-20"
     store: "amazon"
     description: "Self-watering indoor herb garden with grow light — no soil needed"
   - name: "Herb Starter Seed Kit (6 varieties)"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B07GH8XFG6/?tag=agreenfamily-20"
     store: "amazon"
     description: "Basil, parsley, chives, cilantro, dill, and thyme — non-GMO seeds"
   - name: "Self-Watering Herb Planter (3-pot)"
-    url: "https://www.walmart.com/PLACEHOLDER"
+    url: "https://www.walmart.com/ip/3-5-Aquaphoric-Self-Watering-Mini-Planter-3-Pack-Purple/428576628"
     store: "walmart"
     description: "Compact windowsill planter with built-in water reservoir"
   - name: "Indoor Grow Light for Plants"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B085CDPSMR/?tag=agreenfamily-20"
     store: "amazon"
     description: "Full-spectrum LED for growing herbs in low-light kitchens"
 ---

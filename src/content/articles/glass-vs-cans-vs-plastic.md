@@ -10,15 +10,15 @@ featured: false
 draft: false
 affiliateProducts:
   - name: "Glass Food Storage Jars (12 pack)"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B07V8MTF13/?tag=agreenfamily-20"
     store: "amazon"
     description: "Airtight mason jars for pantry storage and buying in bulk"
   - name: "Reusable Stainless Steel Water Bottle"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B09R8KRRDX/?tag=agreenfamily-20"
     store: "amazon"
     description: "Replaces single-use cans and plastic bottles for drinks"
   - name: "Reusable Shopping Bags (5 pack)"
-    url: "https://www.walmart.com/PLACEHOLDER"
+    url: "https://www.walmart.com/ip/Reusable-Grocery-Bags-5-Pack-Black-Hold-40-lbs-Extra-Large-Super-Strong-Heavy-Duty-Shopping-Tote-Bag-Reinforced-Handles-Thick-Plastic-Bottom-Strength/778353014"
     store: "walmart"
     description: "For buying loose produce and avoiding packaged alternatives"
 ---
@@ -67,12 +67,4 @@ For us, this means avoiding plastic packaging where there's a reasonable alterna
 
 **For dry goods:** Buying in bulk with your own container beats all packaging — no manufacturing, no waste, and usually cheaper per unit. We buy loose-leaf tea this way, from [Full Leaf Tea Company](https://fullleafteacompany.com) — genuinely one of the things I'd recommend to anyone without needing an affiliate link to make me say it, which is good because I don't have one (they have no idea I exist). The tea comes with minimal packaging and here's where the container question gets interesting: we store it in metal tins rather than glass, because tea is sensitive to light and tins seal better for keeping the aroma in. Glass is the right answer for most dry goods — rice, beans, dried chiles, spices — but for tea, the tin wins. We've had the same three tins for years.
 
-**For produce:** Loose, without packaging, is always better. We bring our own bags to the market.
-
-## The thing that actually helped us most
-
-Thinking less about the packaging and more about what we're buying. When we cook from scratch — which we do most days — we're buying raw ingredients with minimal packaging. A head of garlic. A bunch of cilantro. Dried beans. Rice. Onions. None of these come in complicated packaging.
-
-The packaged food problem gets worse the more processed the food is. The more we cook, the less we deal with the packaging question at all.
-
-That said — we're a real family, not a food blog. There are cans in our pantry and plastic i
+**For produce:**

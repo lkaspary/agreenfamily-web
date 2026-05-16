@@ -10,15 +10,15 @@ featured: true
 draft: false
 affiliateProducts:
   - name: "OXO Good Grips Compost Bin for Kitchen Counter"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B07ZDRTFYN/?tag=agreenfamily-20"
     store: "amazon"
     description: "Compact, odor-reducing bin for collecting scraps before taking them outside"
   - name: "FCMP Outdoor Tumbling Composter"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B009378AG2/?tag=agreenfamily-20"
     store: "amazon"
     description: "Easy rotating bin — no pitchfork required"
   - name: "Outdoor Compost Bin"
-    url: "https://www.walmart.com/PLACEHOLDER"
+    url: "https://www.walmart.com/ip/Redmon-65-Gallon-Black-Plastic-Compost-Bin-with-Air-Vents/20966191"
     store: "walmart"
     description: "Simple, budget-friendly outdoor bin"
 ---
@@ -51,9 +51,11 @@ This part matters. In our kitchen, we compost:
 
 We don't compost meat, fish, bones, or anything oily or heavily seasoned. Those attract animals and create odors. In a Latin kitchen this is worth remembering — the leftover sofrito, the braised chicken, the beans — those go in the regular bin.
 
-## The two-container setup
+## Our three-bin system
 
-The system that works for us is simple: a small bin on the counter, and a larger one outside.
+Before we get to the composting setup, it helps to understand how we think about waste in general. We run three bins in this house: recycling, compost, and regular trash. Getting those three sorted properly was its own project — and honestly, once it clicked, the compost bin felt like the most natural thing in the world. Most of what used to go to landfill either gets recycled or composted now. The regular trash bin fills up slowly. Sometimes that's still surprising.
+
+For the composting itself, the system is simple: a small bin on the counter, and a larger one outside.
 
 The counter bin lives next to the sink. While we're cooking, scraps go in there. My kids know this — even the little ones. When it's full (usually every day or two), someone takes it outside to the big bin. We gave our youngest this job and she takes it very seriously.
 
@@ -74,10 +76,4 @@ My daughter asked once if the banana peels "go to heaven" when they become soil.
 
 A healthy compost doesn't smell bad — it smells like earth, like a garden after rain. If yours smells rotten, two things: too much wet food scraps (add dry cardboard), or it needs turning (poke it or spin the tumbler). We've never had a serious smell problem with the tumbling composter we use — it stays closed and the spinning keeps it aerated.
 
-## When is it ready?
-
-You'll know. It turns dark, crumbly, and smells like garden soil rather than food. You can't identify individual ingredients anymore. For us that takes about two months in warm weather, longer in winter.
-
-We mix it into our herb pots and spread it on our small garden bed. Every time we do it, I think about all the vegetable peels that went into it and feel genuinely good about that.
-
-It's one of those habits that once you have it, you can't believe you didn't do it sooner.
+## When is it ready

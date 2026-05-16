@@ -10,17 +10,17 @@ featured: true
 draft: false
 affiliateProducts:
   - name: "PlanetBox Rover Lunchbox"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B09YMX8TCV/?tag=agreenfamily-20"
     store: "amazon"
     description: "Stainless steel bento-style lunchbox — kids love the compartments"
   - name: "Dixon Ticonderoga Unfinished Wood Pencils"
-    url: "https://amzn.to/PLACEHOLDER"
+    url: "https://www.amazon.com/dp/B011KH4Z7U/?tag=agreenfamily-20"
     store: "amazon"
     description: "Classic quality pencils with sustainably sourced wood"
-  - name: "Yoobi Recycled Spiral Notebooks"
-    url: "https://www.walmart.com/PLACEHOLDER"
+  - name: "Yoobi Spiral Notebooks"
+    url: "https://www.walmart.com/ip/Yoobi-Notebook-1-Subject-Spiral-Paper-Cover-9-x-11-College-Ruled-100-sheets-Boom-Box/519385452"
     store: "walmart"
-    description: "Made from recycled materials, bright colors kids love"
+    description: "PVC-free notebooks from an eco-minded brand that donates supplies to classrooms"
 ---
 
 Back-to-school season in our house is a whole thing. The lists, the shopping, the kids convinced they need things they absolutely don't need. We've been through it enough times now that we've figured out what actually matters — and where the easy eco swaps are hiding.
