@@ -5,7 +5,7 @@ date: 2026-05-08
 author: "Leandro Kaspary"
 tags: ["garden", "kitchen", "food", "plastic-free"]
 image: "/images/herb-cube-garden.jpg"
-imageAlt: "A compact herb garden cube on a kitchen windowsill with basil, rosemary, and thyme"
+imageAlt: "A compact herb garden on a kitchen windowsill with basil, cilantro, and parsley"
 featured: false
 draft: false
 affiliateProducts:
@@ -27,81 +27,58 @@ affiliateProducts:
     description: "Full-spectrum LED for growing herbs in low-light kitchens"
 ---
 
-Every time you buy a bunch of fresh basil at the supermarket, you're paying $3–4 for something that took seconds to package in plastic, was likely flown in from hundreds of miles away, and will go limp in your fridge within a week.
+If you cook Latin food at home — really cook it, from scratch — you know how important fresh herbs are. Cilantro in almost everything. Parsley for the chimichurri. Culantro if you can find it. Fresh oregano for the beans. These aren't garnishes. They're fundamental.
 
-A small herb garden changes all of that. For the cost of two or three supermarket herb bunches, you can grow a continuous supply of fresh herbs on your kitchen windowsill — and dramatically reduce the plastic packaging, food miles, and waste involved in keeping a kitchen stocked with seasonings.
+And every single week we were buying those little plastic packages of fresh herbs at the store. Use half, forget the other half in the back of the fridge, watch it turn to slime, throw it away. Then buy another package next week.
 
-## Why herbs are the perfect starting point
+I did this for years before it occurred to me that I could just... grow them.
 
-If you've never grown anything before, herbs are where to start. They're fast (basil germinates in 5–7 days), forgiving, compact, and immediately useful. You don't need a garden, outdoor space, or any specialist knowledge.
+## Why herbs are the easiest place to start
 
-More importantly, herbs are one of the few things families buy regularly in genuinely wasteful packaging. A plastic clamshell of cut herbs is used once or twice and then forgotten in the fridge. A living herb plant is used repeatedly for months.
+I was not a plant person before this. I had killed several houseplants through neglect and assumed that growing anything edible was beyond me. Herbs changed that completely.
 
-## The plastic problem with store-bought herbs
+I've had my herb setup for almost two years now. Two years of fresh herbs without buying a single plastic package. I'm not going to pretend that doesn't make me a little proud.
 
-Fresh herbs from supermarkets typically come in:
-- Plastic clamshell containers (not widely recyclable)
-- Plastic-wrapped bunches with twist ties
-- Small plastic pots with non-recyclable trays
+They grow fast. Basil shows new leaves in days. They're forgiving — miss a watering and most of them survive. They're small. And unlike growing tomatoes or peppers, you see the results immediately every time you cook.
 
-A family that cooks regularly might buy 3–5 herb packs per month — that's 36–60 plastic containers per year for herbs alone. Most of that is avoidable.
+## What we grow
 
-## What to grow (and what's easiest)
+I keep it simple and grow what I actually use.
 
-**Start with these — very hard to kill:**
-- **Basil** — loves warmth and sun, grows fast, most versatile herb in the kitchen
-- **Chives** — almost indestructible, regrows after cutting, mild onion flavour
-- **Mint** — aggressive grower (keep in its own pot or it takes over), great for drinks and desserts
-- **Rosemary** — slow-growing but extremely hardy, needs minimal watering
+**Basil and parsley are my constants** — I grow these all year round, no exceptions. Basil goes into almost everything. Parsley is essential for me, especially when I'm making chimichurri or finishing a dish. These two have never left the windowsill.
 
-**Add these once you're comfortable:**
-- **Parsley** — slow to germinate but long-lasting
-- **Thyme** — compact, drought-tolerant, pairs with almost everything
-- **Cilantro** — fast-growing, bolts quickly in heat so sow in batches
+For the third spot, I rotate seasonally: **dill in summer** — it grows beautifully when it's warm and I love it with fish. **Chives in the cooler months** — almost impossible to kill, keeps producing all winter, the kids like snipping them.
 
-## The herb cube setup
+The thing I wasn't prepared for — and I mean this — is how satisfying it is to be in the middle of cooking, reach over, and just pull the exact leaves you need. Still warm from the light. Smelling incredible. It sounds like a small thing but it changes your relationship with cooking in a way that's hard to explain until you've done it.
 
-A "herb cube" is simply a compact cluster of herb pots designed to sit on a windowsill or kitchen counter. You can build one from:
+**Mint** — we keep this one in its own separate pot because it will take over everything given the chance. We use it for teas and the occasional mojito. Important family herb.
 
-**Option 1 — Three self-watering pots** (~$20–30)
-The simplest and most flexible approach. Buy a compact self-watering 3-pot planter, fill with quality potting mix, and plant your top three herbs. A south or west-facing windowsill is ideal. Water when the reservoir is empty.
+## The setup
 
-**Option 2 — A hydroponic indoor garden** (~$80–150)
-Systems like the AeroGarden use water and a built-in grow light instead of soil. They're almost foolproof — sensors monitor water levels, the light runs on a timer, and they come with pre-seeded pods. Ideal for low-light kitchens or families who want a zero-maintenance setup. More expensive upfront but produces herbs year-round regardless of season or window placement.
+We use a simple three-pot self-watering planter on the windowsill. Nothing fancy. You fill the reservoir at the bottom and the plant drinks what it needs. This matters for us because we travel sometimes and we needed something forgiving.
 
-**Option 3 — Repurposed containers (free)**
-Yogurt pots, tin cans, glass jars — any container with drainage holes works. This is the most sustainable option if you're starting from seeds.
+If your kitchen doesn't get much direct sun, a small grow light makes a real difference. We added one last winter and it extended our growing season through the cold months. The plants don't know it's not summer.
+
+For people who want zero maintenance, the AeroGarden system is genuinely impressive. It's hydroponic — no soil — and comes with pre-seeded pods, a built-in light on a timer, and a water level sensor. My sister-in-law has one and it basically runs itself.
 
 ## How to harvest without killing the plant
 
-The most common mistake is pulling off full stems from the base. This weakens the plant.
+This was my first mistake. I would pull off big stems from the base and then wonder why the plant was dying.
 
-**The right technique:** Always cut just above a leaf node (the point where leaves branch off the stem). The plant grows back twice as bushy from that point. For basil specifically, pinch off any flower buds as soon as they appear — once basil flowers, it puts its energy into seeds instead of leaves.
+The right way: always cut just above where a leaf branches off the stem. The plant grows back from there, usually bushier than before. For basil specifically — pinch off any flower buds the moment you see them. Once basil flowers, it puts all its energy into seeds and the leaves start to taste bitter.
 
-A well-harvested basil plant can produce continuously for 3–4 months. A neglected one flowers and dies within 6 weeks.
+A well-harvested basil plant can live and produce for three or four months. A neglected one that's been allowed to flower dies in weeks.
 
-## The economics
+## The money side of it
 
-| | Store-bought | Home-grown |
-|---|---|---|
-| Cost per use | $3–4 per pack | ~$0.10 per handful |
-| Plastic packaging | 1 container per use | Zero |
-| Freshness | 3–5 days | Harvest as needed |
-| Waste | ~50% thrown away | Near zero |
+A plastic package of fresh cilantro costs $2–3 and lasts a few days. A cilantro plant costs $3–4 and produces for weeks. The math takes about ten seconds.
 
-A basic three-herb windowsill setup costs $25–30 to set up and produces herbs worth $15–20 per month at supermarket prices. It pays for itself in about 6–8 weeks.
+We spend maybe $20–30 a year keeping our windowsill herb garden going — seeds, occasionally a new pot. We used to spend that much on herbs in three weeks.
 
-## Getting kids involved
+## Getting the kids cooking
 
-Herb gardens are one of the best ways to get children interested in where food comes from. A few things that work well:
+My kids are more interested in food they grew themselves. Full stop. The cilantro they snipped from the windowsill goes into the guacamole differently than store-bought cilantro — they watch it, they smell it, they're proud of it.
 
-- **Give them ownership of one herb.** Let them choose which one and be in charge of watering it.
-- **Use it that same day.** Pick leaves together and add them to dinner immediately. The connection between plant and plate is immediate and satisfying.
-- **Label the pots** with a handwritten tag — kids enjoy the ownership and it's a small literacy exercise for younger ones.
-- **Start from seed, not transplant.** Watching germination happen is genuinely fascinating for children. Mark the pot with the date and track growth together.
+We let each kid have ownership of one plant. They water it, they harvest it, they get to use it at dinner. It sounds small but it changes how they relate to the food on the table. And honestly, getting kids comfortable with plants and growing things feels like one of the more lasting gifts you can give them.
 
-## Beyond the kitchen windowsill
-
-Once you're comfortable with a small herb setup, the same logic scales. A few pots on a balcony can grow cherry tomatoes, lettuce, and radishes. A single raised bed in a small garden can supply a meaningful amount of salad greens through summer.
-
-But the windowsill herb cube is the right starting point — compact, practical, immediately useful, and a meaningful step away from single-use plastic packaging for something families buy every week.
+Start with cilantro and one other herb. See how it goes. I promise it's harder to kill than you think.

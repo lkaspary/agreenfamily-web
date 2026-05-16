@@ -5,7 +5,7 @@ date: 2026-05-03
 author: "Leandro Kaspary"
 tags: ["home", "kitchen", "savings"]
 image: "/images/cloth-towels-kitchen.jpg"
-imageAlt: "A stack of folded cloth napkins and unpaper towels on a kitchen counter"
+imageAlt: "A stack of folded cloth napkins and dish towels on a kitchen counter"
 featured: false
 draft: false
 affiliateProducts:
@@ -21,71 +21,46 @@ affiliateProducts:
     url: "https://www.walmart.com/PLACEHOLDER"
     store: "walmart"
     description: "Lint-free, absorbent, machine washable — great for spills and drying"
-  - name: "Reusable Beeswax Wrap (3 pack)"
-    url: "https://amzn.to/PLACEHOLDER"
-    store: "amazon"
-    description: "Replaces cling film as well as paper towel for covering food"
 ---
 
-Paper towels are one of the most normalised forms of household waste. They're so embedded in kitchen routines that most families don't question them. You use one, it goes in the bin, you pull another. The roll empties in a week or two and you buy another.
+We cook at home every day. Real cooking — sofrito on the stove, meat marinating, kids helping and making a mess, flour on the counter, something always spilling. Our kitchen is a working kitchen and we were going through paper towels at an embarrassing rate.
 
-The numbers, when you actually look at them, are striking.
+I never thought about it until I started tracking our grocery spending more carefully. Paper towels were just... a line item. Every couple of weeks, another pack. It added up to close to $150 a year, maybe more. For something we used once and threw away.
 
-## The real cost of paper towels
+Changing this was one of the simplest swaps we've made. I want to tell you what we actually did, not the ideal version.
 
-The average UK family uses around 2–3 rolls of paper towels per week. At roughly £1.50–2 per roll, that's £200–300 per year. In the US, the average household spends around $180 annually.
+## What we switched to
 
-Each roll requires trees, water, energy to process, bleaching chemicals, and plastic packaging. Paper towels can't be recycled once used (food contamination). They go straight to landfill.
+We didn't do a dramatic "throw out all the paper towels" moment. When we ran out of a roll, we replaced it with a cloth option. Gradually our paper towel use went from constant to occasional to almost zero.
 
-A family using paper towels for 10 years spends around **£2,000–3,000** on something that immediately becomes waste.
+**For wiping counters:** Swedish dishcloths. These are a game changer. They're made from cellulose and cotton, feel a little like a sponge but more like a cloth, and absorb an extraordinary amount for their size. You rinse them, they dry fast, they don't smell, and they go in the dishwasher. One Swedish dishcloth replaces about 17 rolls of paper towels. I have four of them and rotate them through the week.
 
-## What cloth alternatives actually look like
+**For drying hands:** A small cloth towel hung by the sink. This is what my grandmother had. There was nothing wrong with it. We have a couple of nice-looking ones that actually make the kitchen look better.
 
-The switch doesn't mean using old tea towels for everything and tolerating soggy counters. The cloth alternatives available now are specifically designed to replace paper towels task by task.
+**For bigger spills:** Flour sack towels. These are thin, incredibly absorbent cotton cloths. A stack of six costs about $12 and lasts forever. When something really spills — and in our house, things really spill — these are what we reach for.
 
-**Unpaper towels** are cloth squares (usually cotton flannel) that roll up on a standard paper towel holder and snap together. They look and feel like using a paper towel. You grab one, use it, and drop it in a small bin or basket for washing. A set of 12 costs around £20–25 and lasts for years.
+**For draining fried food:** We used to put fried food on paper towels to absorb the oil. Now we use a wire rack over a baking tray. Honestly works better.
 
-**Swedish dishcloths** are a hybrid — part sponge, part cloth — made from natural cellulose and cotton. They're excellent for wiping counters and absorbing spills. One dishcloth replaces roughly 17 rolls of paper towels and is home-compostable when worn out. They can be washed in the dishwasher or washing machine.
+## The one thing I kept paper towels for
 
-**Flour sack towels** are thin, extremely absorbent cotton cloths used for drying dishes, hands, and cleaning up spills. A pack of 6 costs around £10–15 and lasts a decade with regular washing.
+I want to be honest here. We still have a roll of paper towels in a cabinet. It comes out for things I genuinely don't want to put a cloth through — cleaning out something truly disgusting, dealing with a sick kid in the middle of the night, that kind of thing. The roll lasts us about three months now instead of two weeks.
 
-## The tasks — and what to use for each
+I think that's fine. You don't need to be perfect. The goal is less, not zero.
 
-The main reason people keep paper towels around is habit, but also because different tasks feel like they need different solutions. Here's a direct replacement guide:
+## The hygiene question
 
-| Task | Paper towel habit | Cloth alternative |
-|---|---|---|
-| Drying hands | Pull and bin | Small cloth towel by the sink |
-| Wiping counters | Pull and bin | Swedish dishcloth or unpaper towel |
-| Absorbing a spill | Pull several and bin | Flour sack towel |
-| Cleaning windows/glass | Pull and bin | Microfibre cloth (lint-free) |
-| Draining fried food | Paper towel on a plate | Wire rack over a tray |
-| Covering food in microwave | Paper towel | Microwave-safe lid or plate |
-| Cleaning a toilet | Paper towel | Dedicated cloth (keep separate) |
+I know what you're thinking. You're thinking about raw chicken.
 
-The last row is where most people draw the line — and that's completely reasonable. Having a few paper towels specifically for genuinely unpleasant tasks is a sensible compromise. Using cloth for the other 95% of uses makes a real difference.
+Here's how we handle it: we don't use our regular cloths for raw meat at all. For that, we use paper towels from the small roll we keep around, or we just wash the surface directly with hot water and soap. The Swedish dishcloths and flour sack towels are for clean-up, not for raw protein.
 
-## Handling the hygiene question
+We also colour-code loosely — certain cloths live near the sink for hand-drying, certain ones are kitchen cloths for counters and spills. It's not complicated once it becomes habit.
 
-The main concern with cloth is hygiene — wiping up raw meat juices, cleaning up after illness, general "isn't this just spreading germs?" worry.
+Everything goes in the wash at 40°C with the regular laundry. If something has been used for a big mess, it goes in at 60°C.
 
-The practical approach:
+## The numbers after a year
 
-- **Colour code your cloths.** One colour for food prep surfaces, another for general cleaning, another for bathroom. This immediately signals which is which and prevents cross-contamination.
-- **Wash at 60°C** for anything that's touched raw meat or been used for illness clean-up. Regular cloths wash fine at 40°C.
-- **Keep a small wet bag or bin** in the kitchen for used cloths. Wash them with your regular laundry — they don't need a special cycle.
-- **For genuinely gross tasks**, it's fine to keep a small roll of paper towels in a cupboard. Using cloth for 90% of tasks and paper for the remaining 10% still eliminates the vast majority of waste and cost.
+We probably saved $120–130 in the first year just on paper towels. The cloths we bought to replace them cost about $40 total — dishcloths, flour sack towels, a couple of hand towels. So we came out ahead in year one. Every year after that is pure saving.
 
-## The financial case
+But honestly the money isn't even why I prefer it now. It's that the kitchen just functions better. The cloths work better than paper towels for most tasks. The Swedish dishcloths in particular are remarkable — I don't know why these aren't more well-known.
 
-A starter set of cloth alternatives — 12 unpaper towels, 4 Swedish dishcloths, 6 flour sack towels — costs around £50–60 total and lasts 5–10 years with normal use.
-
-Compare that to £200–300 per year on paper towels. The payback period is around 3 months. After that, the saving is pure.
-
-Over a decade: **£2,000–3,000 saved**. And roughly 500 rolls of paper towels that didn't get manufactured, shipped, used once, and landfilled.
-
-## Making the switch
-
-The easiest approach is gradual replacement rather than a wholesale change. When your current paper towel roll runs out, don't replace it. Put a cloth option in its place instead. Give it two weeks before deciding.
-
-Most families who switch report that the adjustment period is about a week, after which the new routine feels normal. The environmental benefit is real and ongoing. The financial saving compounds over years. And the kitchen, oddly, tends to feel slightly more considered — less disposable — which some people find they like.
+If you cook as much as we do, this is one of the easiest switches you can make. Pick one thing — start with the Swedish dishcloths — and see how you feel after a month.

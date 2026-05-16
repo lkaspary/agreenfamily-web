@@ -23,70 +23,60 @@ affiliateProducts:
     description: "For buying loose produce and avoiding packaged alternatives"
 ---
 
-If you've ever stood in a supermarket aisle genuinely unsure whether to buy the tomatoes in a glass jar, a tin can, or a plastic carton, you're not alone. The packaging question is genuinely complicated — and the answer depends on factors most of us haven't thought about.
+I've been asked this question more times than I can count — usually in a supermarket aisle, someone holding two versions of the same product. "Which one is better? The glass or the can?"
 
-Here's an honest breakdown of what the evidence actually says.
+I've been that person too. Standing there genuinely not knowing. It feels like it should be obvious but it isn't, and the packaging industry doesn't exactly make it easy to figure out.
 
-## Why there's no simple winner
+Here's what I've pieced together after reading about it properly, and what it's actually changed about how we shop.
 
-Every type of packaging has a different environmental profile across different dimensions:
+## The honest answer: it's complicated
 
-- **Production** — how much energy and raw material does making it require?
-- **Weight** — heavier packaging means more fuel to transport it
-- **Recycling rate** — how much actually gets processed vs. going to landfill?
-- **Reuse potential** — can the container be used again?
-- **End of life** — what happens when it's finally done?
+Every type of packaging has a different environmental footprint depending on how it's made, how heavy it is, how far it traveled, and — most importantly — what happens to it at the end.
 
-No single material wins on all dimensions. The "best" choice depends on what you're buying, how you use it, and what recycling infrastructure exists in your area.
+There's no single winner. But there are clear patterns, and once you understand them, the decisions become more instinctive.
 
 ## Aluminium cans
 
-**The case for:** Aluminium is the most efficiently recycled packaging material in widespread use. Recycling aluminium uses only 5% of the energy needed to produce it from scratch. In many countries, recycling rates for aluminium cans are 60–80%. A recycled can is back on a shelf within 60 days.
+Cans are better than they get credit for. Aluminium is one of the most recyclable materials we have — recycling it uses only 5% of the energy needed to make new aluminium. A can you put in the recycling bin today can be back on a store shelf in 60 days.
 
-**The case against:** Mining bauxite (the raw material for aluminium) is environmentally destructive, and producing new aluminium is extremely energy-intensive. The environmental benefit of cans depends almost entirely on them actually being recycled.
+The catch is that this only works if the can actually gets recycled. An aluminium can that goes to landfill offers zero of that benefit. So cans are excellent if you have good recycling habits, and much less impressive if you don't.
 
-**Verdict:** Cans are excellent — if you recycle them consistently. A recycled aluminium can is genuinely one of the more sustainable packaging formats available. Crushed and put in the bin, the benefit disappears.
+We buy a lot of canned goods in our house — tomatoes, beans, chickpeas, corn. We rinse every can and it goes straight in the recycling. That feels like a genuine closed loop to me.
 
 ## Glass
 
-**The case for:** Glass is made from abundant natural materials (sand, limestone), doesn't leach chemicals into food, and can theoretically be recycled indefinitely without quality loss. It's also reusable — a glass jar can be washed and used for storage, bulk food, or leftovers for years.
+Glass has a reputation as the premium eco choice, and in some ways it earns it. It's made from natural materials, it doesn't leach chemicals, and it can technically be recycled indefinitely without losing quality.
 
-**The case against:** Glass is heavy. A glass jar of pasta sauce weighs roughly three to four times its plastic equivalent. That extra weight burns significantly more fuel during transport. Glass production also requires very high temperatures, making it energy-intensive to manufacture. And recycling rates for glass, while reasonable, are lower than most people assume — around 40–50% in many countries.
+But here's the thing nobody talks about: glass is heavy. A glass jar of tomato sauce weighs three to four times more than the same amount in a can or plastic container. That weight means more fuel burned to ship it — from the factory, to the distribution centre, to the store. The environmental math isn't as clean as the glass jar looks.
 
-**Verdict:** Glass wins on reuse. If you wash and reuse glass jars for storage, the equation shifts strongly in its favour — you're getting many uses from one manufacturing event. If you recycle it once and move on, the weight penalty makes it less clear-cut than it looks.
+Where glass genuinely wins is reuse. A glass jar that gets washed and used ten more times for storing leftovers, bulk spices, homemade sauces, ferments — that's a completely different calculation. The manufacturing happened once. You're just extending the life of what already exists.
+
+In our house we keep every decent glass jar that comes through. They store our dried beans, our spices, the sofrito I make in batches and freeze. The jar becomes part of the kitchen.
 
 ## Plastic
 
-**The case for:** Plastic is extremely lightweight, which reduces transport emissions significantly. It requires less energy to produce than glass. For some food categories — dairy, fresh produce — plastic genuinely extends shelf life and reduces food waste, which has its own significant carbon footprint.
+Plastic is light, which matters for transport. But the recycling reality is grim. Only plastic marked #1 and #2 has meaningful recycling infrastructure in most places. Everything else — yogurt containers, takeout boxes, most food packaging — is largely unrecyclable in practice, regardless of the recycling symbol on it.
 
-**The case against:** Most plastic is not recycled in practice. Only plastics marked #1 and #2 have meaningful recycling rates. #3–7 plastics are largely unrecyclable through kerbside systems. Plastic that isn't recycled persists in the environment for hundreds of years. Microplastic contamination from plastic packaging is now found in human blood, breast milk, and the deepest ocean trenches.
+And plastic that isn't recycled doesn't just go away. It persists in the environment for hundreds of years. The microplastic problem — plastic breaking down into microscopic particles that end up in soil, water, and eventually in us — is real and growing.
 
-**Verdict:** Plastic's light weight is a real environmental benefit in transport — but it's undermined almost entirely by its dismal real-world recycling rate and its persistence as a pollutant. For most uses where an alternative exists, the alternative is better.
+For us, this means avoiding plastic packaging where there's a reasonable alternative. Not obsessively. But when I have a choice between canned beans and beans in a plastic bag, the can wins. When I can find pasta in a cardboard box rather than a plastic bag, I buy the cardboard.
 
-## The comparison, simplified
+## What this looks like in practice
 
-| | Aluminium | Glass | Plastic |
-|---|---|---|---|
-| Recycling efficiency | Excellent | Good | Poor (most types) |
-| Transport footprint | Low | High | Very low |
-| Reuse potential | Low | High | Low |
-| Pollution risk | Low | Very low | Very high |
-| Best case | Recycled every time | Reused many times | Avoided where possible |
+**For drinks:** A reusable bottle beats everything. For one-off situations, a can you'll recycle beats a plastic bottle.
 
-## What this means for your weekly shop
+**For canned goods:** Cans are fine. Rinse and recycle.
 
-**For drinks:** A reusable stainless steel or glass bottle beats all three for anything you drink regularly. For one-off purchases, a can you'll recycle beats a plastic bottle you might not.
+**For sauces, jams, condiments:** Buy glass when you'll reuse the jar. If the jar just goes in the recycling, the weight advantage of a can may actually be better.
 
-**For tinned food:** Cans are a genuinely good option — the aluminium recycling infrastructure is solid. Rinse and recycle.
+**For dry goods:** If you can buy in bulk with your own container, that beats all packaging. No manufacturing, no waste, often cheaper.
 
-**For sauces, jams, condiments:** Glass jars are excellent if you reuse them. Keep a few clean jars in a cupboard for storage, bulk spices, or leftovers. That turns a single-use product into a long-term container.
+**For produce:** Loose, without packaging, is always better. We bring our own bags to the market.
 
-**For fresh produce:** Loose, without any packaging, is always better. Where packaging is unavoidable, a tin or glass jar is preferable to plastic.
+## The thing that actually helped us most
 
-**For dry goods:** Buying in bulk using your own container (glass jar or cloth bag) eliminates packaging entirely for pasta, grains, nuts, and spices — available at an increasing number of supermarkets and zero-waste shops.
+Thinking less about the packaging and more about what we're buying. When we cook from scratch — which we do most days — we're buying raw ingredients with minimal packaging. A head of garlic. A bunch of cilantro. Dried beans. Rice. Onions. None of these come in complicated packaging.
 
-## The honest bottom line
+The packaged food problem gets worse the more processed the food is. The more we cook, the less we deal with the packaging question at all.
 
-The most sustainable packaging is the one you actually reuse or recycle — and the less you need in the first place, the better. A glass jar washed and used ten times for storage is more sustainable than ten recycled aluminium cans. An aluminium can consistently recycled is more sustainable than a plastic bottle that goes to landfill.
-
-The hierarchy still applies: **refuse packaging where you can, reuse what you buy, recycle what's left.** Within that, cans and reused glass are your best bets. Unrecycled plastic is the thing most worth avoiding.
+That said — we're a real family, not a food blog. There are cans in our pantry and plastic in our recycling bin. The goal is better, not perfect, and understanding the real trade-offs helps us make better decisions most of the time.

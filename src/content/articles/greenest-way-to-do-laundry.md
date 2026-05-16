@@ -27,75 +27,50 @@ affiliateProducts:
     description: "Catches microplastic fibres from synthetic fabrics"
 ---
 
-Laundry is one of those household tasks nobody thinks of as an environmental issue — until you look at the numbers. The average family runs 8 to 10 loads per week. Each load uses water, electricity, and usually a plastic bottle of detergent. It adds up fast.
+With kids in the house, we do a lot of laundry. A lot. Between school uniforms, sports clothes, the shirt someone got sofrito on at dinner, and the mystery stains that appear on things that were clean this morning — the machine runs constantly.
 
-The good news: most of the impact comes from how you wash, not what machine you have. You can cut your laundry's environmental footprint dramatically without buying a new appliance.
+I never thought of laundry as an environmental thing until I sat down and looked at what it actually costs — in money and energy — over the course of a year. What I found surprised me. And the changes we made were so small that I'm almost embarrassed it took us this long.
 
-## The single biggest change: wash in cold water
+## The one change that makes the biggest difference
 
-Heating water accounts for about **90% of the energy** a washing machine uses. The machine motor itself uses very little. So switching from hot or warm to cold water cuts your laundry's energy use by roughly 90% per load.
+Heating the water. That's it. About 90% of the energy your washing machine uses goes to heating water — not the machine running, not the spinning, just heating the water.
 
-Modern cold-water detergents are formulated to clean just as effectively at low temperatures. Heavily soiled items (muddy sports kit, work clothes) may occasionally need a warm cycle, but for the vast majority of family laundry — school clothes, everyday wear, towels — cold works perfectly.
+Switch to cold and you immediately cut your laundry's energy use by roughly 90% per load. Not 10%. Ninety.
 
-**What to do:** Set your machine's default temperature to cold. Most households never need to change it back.
+I was skeptical. We have some seriously dirty clothes in this house. But modern cold-water detergents are formulated specifically for this and they work. I haven't run a hot cycle in over a year for regular laundry. The only exception is when someone's been sick — then I'll run the bedding on warm. Everything else is cold.
 
-## Only wash full loads
+Just change the default temperature on your machine right now. That's the whole first step.
 
-A half-full machine uses nearly as much water and energy as a full one. Waiting until you have a full load before running a wash cuts your total number of cycles in half — which halves water use, energy use, and detergent use in one step.
+## Wait for a full load
 
-This is especially impactful for families who run machines daily. Even going from 7 to 5 loads per week saves hundreds of litres of water per month.
+We used to run the machine whenever a basket got full — even if it was only half full. Now we wait. A half-full machine uses almost the same water and energy as a full one, so running fewer loads is just efficient in every direction.
 
-**What to do:** Get a second laundry basket if needed, so different types of clothes can collect separately without mixing colours. Run the machine when it's genuinely full.
+Sometimes this means wearing the same jeans twice, which, honestly, we should all be doing anyway.
 
-## Switch to detergent strips or powder
+## Switch your detergent
 
-Most liquid laundry detergents are sold in heavy plastic bottles that are 50–70% water. You're paying to ship water across the country in plastic.
+We used to buy the big plastic jugs of liquid detergent. Every few weeks, another jug. We switched to laundry strips — they're paper-thin sheets you throw straight in the drum. Zero plastic packaging, nothing to measure, works in any temperature. We buy them in cardboard.
 
-Two better options:
+The brand we use is Tru Earth. They're not cheap per strip, but a pack lasts our family about two months. And not having to lug a heavy plastic jug home from the store every month is its own reward.
 
-**Laundry strips** are thin, pre-measured sheets of concentrated detergent. They come in cardboard packaging, weigh almost nothing, and dissolve completely in any water temperature. Brands like Tru Earth have become genuinely popular because they work as well as liquid and are far less wasteful.
+## Wool dryer balls instead of dryer sheets
 
-**Powder detergent in cardboard** is the lower-cost version of the same logic. Most major brands sell powder in cardboard boxes. It's not as convenient as strips but eliminates the plastic bottle problem at a lower price point.
+This was my wife's discovery. We'd been buying dryer sheets for years — use once, throw away. She switched to a set of six wool dryer balls and we haven't bought dryer sheets since. They reduce static, soften the clothes, and cut drying time. We put a few drops of lavender oil on them sometimes when we want that fresh-laundry smell.
 
-> **Skip:** "eco" liquid detergents in plastic bottles. The formula may be greener but the packaging problem remains the same.
+The set cost about $20 and it's been three years. The math on that is very satisfying.
 
-## Replace dryer sheets with wool dryer balls
+## Hang things to dry when you can
 
-Dryer sheets are single-use and contain synthetic fragrances that coat your clothes and your dryer drum. Wool dryer balls do the same job — reducing static, softening fabric, speeding up drying — but last for years.
+I grew up with a clothesline. My grandmother would never in a million years have used a dryer when the sun was available. There's something I love about bringing that back.
 
-A set of 6 wool dryer balls lasts roughly 1,000 loads. They also reduce drying time by 10–25% by separating clothes and improving airflow, which saves energy on every cycle.
+We have a drying rack in the laundry room. After school clothes, shirts, anything that doesn't need to be dry immediately goes on the rack overnight and is done by morning. The dryer is for towels, bedding, and emergencies. Running it less makes a real difference on the electricity bill.
 
-Add a few drops of essential oil to a ball before a load if you like a scented result.
+## A note on synthetic clothes
 
-**Cost comparison:** A box of 120 dryer sheets costs about $8 and lasts 4 months. Six wool dryer balls cost $15–$25 and last 3+ years. The maths is easy.
+This one I only learned recently and it changed how I shop for the kids' sports gear. Synthetic fabrics — polyester, nylon — shed tiny plastic microfibers every time you wash them. These go down the drain, through water treatment, and into rivers and oceans. Millions of them per load.
 
-## Air dry when you can
+We now put the kids' synthetic sportswear in a mesh laundry bag before washing. It's not perfect but it catches a meaningful amount. And I'm more likely to buy cotton or natural fabrics now when I have the choice.
 
-The dryer is the most energy-intensive appliance in most laundry rooms. Air drying costs nothing and is gentler on fabrics, which extends the life of clothes.
+---
 
-You don't need outdoor space. A foldable drying rack indoors works for most loads — jeans, shirts, underwear, children's clothes. Reserve the dryer for items that genuinely need it: thick towels, bedding, anything needed urgently.
-
-A practical system for families: run a load in the evening, hang it on a rack overnight, and it's dry by morning. No ironing needed for most items if hung properly while damp.
-
-## Catch microplastic fibres
-
-Synthetic fabrics — polyester, nylon, acrylic — shed tiny plastic fibres called microfibres with every wash. These pass through water treatment and end up in rivers and oceans. A single load can release hundreds of thousands of fibres.
-
-Two ways to reduce this:
-- **Mesh laundry bags** (like a Guppyfriend bag) catch fibres from synthetic clothes before they reach the drain
-- **Washing synthetics less often** — many synthetic fabrics like sportswear, fleece, and jeans don't need washing after every wear
-
-This is one of the less-visible but genuinely significant sources of plastic pollution, and it's one most families haven't heard of.
-
-## The order to tackle these changes
-
-If you're starting from scratch, do it in this order — each step is easy and builds on the last:
-
-1. Switch to cold water — costs nothing, immediate impact
-2. Wait for full loads — costs nothing, saves water and energy
-3. Switch to laundry strips or cardboard powder — swap when your current detergent runs out
-4. Buy wool dryer balls — one purchase, done for years
-5. Set up a drying rack — one purchase, use it for most loads
-6. Add mesh laundry bags for synthetics — one purchase, meaningful environmental benefit
-
-You don't need to do all of this at once. The cold water switch alone makes a real difference from day one.
+None of this required us to buy a new machine or change our whole routine. The cold water switch took five seconds. The rest happened gradually over a few months. Our electricity bill went down noticeably and we stopped buying plastic detergent jugs entirely. That feels like a win on every level.

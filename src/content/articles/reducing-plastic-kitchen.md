@@ -5,7 +5,7 @@ date: 2026-05-01
 author: "Leandro Kaspary"
 tags: ["kitchen", "plastic-free", "shopping"]
 image: "/images/plastic-free-kitchen.jpg"
-imageAlt: "A kitchen counter with glass jars, reusable bags, and beeswax wrap"
+imageAlt: "A kitchen counter with glass jars, reusable bags, and fresh produce"
 featured: true
 draft: false
 affiliateProducts:
@@ -23,56 +23,52 @@ affiliateProducts:
     description: "Replace plastic containers with airtight glass"
 ---
 
-The kitchen is where most families generate the most plastic waste — plastic bags, cling wrap, disposable containers, straws, and more. The good news: the kitchen is also the easiest place to start.
+I'll be honest with you — I didn't start thinking about plastic because I read an article. I started because I got tired of opening the cabinet under the sink and watching a avalanche of plastic bags fall out every single time.
 
-None of these swaps require a lifestyle overhaul. Pick one or two this week.
+We cook at home almost every day. That means a lot of produce, a lot of ingredients, a lot of trips to the market. And somehow, without really noticing, we had accumulated a staggering amount of single-use plastic. Bags, wrap, containers — all used once and thrown away.
 
-## 1. Switch to reusable produce bags
+Here's what we actually changed, in the order that made the most sense for our family.
 
-Those thin plastic bags at the grocery store produce aisle? Replace them with mesh reusable bags. They weigh almost nothing (so they don't affect the price scale), wash easily, and last for years. You'll stop bringing about 200+ plastic bags into your home per year.
+## 1. Reusable bags for the market
 
-## 2. Use beeswax wrap instead of plastic wrap
+This was the first one. We go through a lot of produce — bell peppers, tomatoes, cilantro, plantains, avocados. Every single item was going into its own little plastic bag. We switched to mesh produce bags and honestly haven't thought about it since. They weigh nothing, the cashier can see right through them, and they've been through the wash hundreds of times.
 
-Beeswax wrap is one of the easiest and most satisfying swaps. It clings to bowls and wraps around food just like plastic wrap, but it's reusable for about a year. Run it under warm water and it goes soft — cold water stiffens it back up. Works brilliantly for wrapping cheese, bread, and covering leftovers.
+## 2. Beeswax wrap instead of plastic wrap
 
-> **Note:** Beeswax wrap isn't suitable for raw meat. Use a plate or glass container for that.
+We use a lot of leftovers in our house. Half an avocado, leftover rice, a piece of cheese. We were going through plastic wrap constantly. Beeswax wrap took about two days to get used to — you warm it with your hands and it molds around anything. Now we wouldn't go back. One note: don't use it for raw meat. For that, we use a plate or a glass container.
 
-## 3. Replace plastic ziplock bags with silicone bags
+## 3. Glass containers for leftovers
 
-Silicone bags do everything ziplock bags do — including going in the dishwasher, microwave (without the lid), and freezer. A set of 6–8 bags replaces hundreds of disposable bags over their lifetime.
+In a family that cooks as much as we do, leftovers are not optional — they're the plan. We slowly replaced our plastic containers with glass ones. The food keeps better, they go straight from the fridge to the microwave, and they look nicer when you open the fridge. It took a few months to replace everything, but we just swapped them out as the old plastic ones wore out.
 
-## 4. Swap plastic wrap for a bowl with a plate on top
+## 4. Silicone bags instead of ziplocks
 
-The truly zero-cost version: a plate on top of a bowl is a perfect cover. You already have them. Use them.
+We still use these for marinating meat, storing cut fruit for the kids' lunches, freezing portions of sofrito. The silicone ones go in the dishwasher and have lasted years. We bought one set and never bought ziplock bags again.
 
-## 5. Move to glass or stainless steel water bottles
+## 5. A real shopping tote at every exit point
 
-If your family is still buying plastic water bottles, this is the highest-impact swap on this list. A quality stainless steel bottle lasts 10+ years and pays for itself in a matter of weeks vs. buying water.
+This sounds obvious but the reason we kept using plastic bags was simple: we forgot the reusable ones. The fix was just putting a tote bag at every place we leave the house from — the front door, the car, my wife's handbag. Now we always have one.
 
-## 6. Get a reusable shopping tote for every bag hook
+## 6. A reusable water bottle per person
 
-The reason families default back to plastic bags is usually forgetting the reusable ones. Fix this by keeping them where you actually leave the house — on the bag hook, in the car, in your handbag. One tote per exit point.
+This one paid for itself in about two weeks. We stopped buying plastic water bottles entirely. Each person in the house has their own bottle. The kids decorated theirs with stickers. That was years ago and we still use the same ones.
 
-## 7. Buy dry goods in bulk (and use your own containers)
+## 7. Bar soap instead of liquid soap in plastic bottles
 
-Many grocery stores have bulk sections where you can fill your own container with pasta, grains, nuts, and spices. Bring glass jars, pay by weight. Eliminates packaging entirely.
+We go through a lot of hand soap in a family with kids. Switching to bar soap cut our plastic use noticeably. The bars actually last longer than the bottles too.
 
-## 8. Switch to bar soap and shampoo bars
+## 8. Buying dry goods in bulk
 
-Liquid soap and shampoo come in plastic bottles that get used up in weeks. Bars last longer, use no plastic packaging, and have come a long way in quality. Most families find their kids adapt quickly — especially if the bar is a fun color or shape.
+We started buying rice, beans, lentils, and dried chiles from bulk sections when we can find them, bringing our own containers. Not always possible, but when it is, it's better in every way — less packaging, usually cheaper, and fresher.
 
-## 9. Stop buying single-use straws
+## 9. Paper straws or no straws at all
 
-Stainless steel, glass, and bamboo straws are durable and easy to clean. A pack of 8 metal straws with a cleaning brush is a one-time purchase. Put them in a cup by the sink so they're always ready.
+Our kids went through a phase of wanting straws for everything. We bought a set of stainless steel straws with a little cleaning brush. They love them and we've never bought disposable straws since.
 
-## 10. Line your bin with newspaper instead of plastic bags
+## 10. Stop buying bin liners for small bins
 
-For the kitchen bin, newspaper folded into a liner works for dry waste. For wet waste, look for compostable bin liners — not perfect, but vastly better than standard plastic.
+This one sounds weird but hear me out. We were buying small plastic bin liners for the bathroom and bedroom bins — plastic, used once, thrown away. Now we just empty those small bins directly into the main bin. That's it. No liner needed.
 
 ---
 
-## Start with one
-
-The biggest mistake is trying to do all of this at once. Pick the swap that bothers you most right now and start there. Once it becomes habit (usually 2–3 weeks), move to the next one.
-
-The products listed below are ones we've found work well for families.
+None of this happened overnight. We made one change, got comfortable with it, then made another. Start with whichever one bothers you most right now. That's what worked for us.

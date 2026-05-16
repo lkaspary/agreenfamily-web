@@ -23,66 +23,62 @@ affiliateProducts:
     description: "Replace plastic wrap — one of the least recyclable items in kitchens"
 ---
 
-Here is something most families don't know: a significant portion of what goes into the recycling bin ends up in landfill anyway. Not because the recycling system is broken (though it is, partially), but because of contamination — the wrong items, or the right items in the wrong condition.
+I thought we were good recyclers. We sorted everything, rinsed our containers, broke down our cardboard. I felt good about it.
 
-Understanding this isn't meant to be discouraging. It's actually clarifying. Once you know what genuinely gets recycled and what doesn't, you can stop wasting effort on things that don't work and focus on the changes that actually matter.
+Then I went down a rabbit hole one afternoon trying to figure out if the plastic bags we were putting in the recycling were actually being recycled. The answer, it turns out, was no. And it sent me back to look at everything else we were doing.
 
-## What actually gets recycled
+What I found wasn't great. We were doing a lot of things that felt like recycling but weren't. And some of what we were putting in the recycling bin was actually contaminating the stuff that genuinely could be recycled.
 
-Recycling rates vary by material, and the differences are dramatic.
+I want to share what I learned because I think a lot of families are in the same situation we were — trying to do the right thing but working with incomplete information.
 
-**High recycling rate — these genuinely get processed:**
-- Cardboard and paper (when clean and dry)
-- Aluminium cans — one of the most efficiently recycled materials in existence
-- Glass bottles and jars (in most areas)
-- Hard plastics marked #1 (PET) and #2 (HDPE) — water bottles, milk jugs, detergent bottles
+## What genuinely gets recycled
 
-**Low or inconsistent recycling rate:**
-- Plastic bags and film — these jam sorting machinery and are almost never accepted in kerbside bins
-- Plastic marked #3–7 — most facilities don't have the equipment to process these
-- Styrofoam/polystyrene — very rarely recycled despite the symbol
-- Greasy pizza boxes — the grease contaminates the paper fibre, making it useless
-- Shredded paper — too small for sorting machines, falls through the process
+**Aluminium cans** — this is the recycling success story. Aluminium is endlessly recyclable, and recycling it uses only 5% of the energy needed to make new aluminium. Your soda can can be back on a shelf in 60 days. Rinse it, crush it, recycle it — it genuinely works.
 
-**Almost never recycled:**
-- Black plastic (dye makes it invisible to sorting sensors)
-- Laminated packaging (juice boxes, pouches, crisp bags)
-- Receipts (thermal paper is contaminated with BPA)
-- Broken glass — dangerous for workers and contaminates other materials
+**Cardboard and paper** — when they're clean and dry. The pizza box with grease soaked through it is not recyclable. The clean cardboard from your Amazon delivery is.
+
+**Glass bottles and jars** — in most areas this works well. Rinse them. Remove lids (metal lids go separately as scrap metal in many areas).
+
+**Plastic #1 and #2** — the water bottle, the milk jug, the detergent bottle. These have real recycling infrastructure. Most other plastics don't.
+
+## What does NOT get recycled (even if you put it in the bin)
+
+This is the part that changed how I think about all of it.
+
+**Plastic bags and film** — they jam the sorting machinery at recycling facilities. Workers have to stop the machines to cut them out. Most facilities won't accept them in kerbside bins. We found the solution: our supermarket has a plastic film drop-off bin near the entrance. We collect our plastic bags in a bag and drop them there when we go shopping.
+
+**Black plastic** — the dye makes it invisible to the optical sorting sensors. It goes straight through unsorted.
+
+**Greasy pizza boxes** — the grease contaminates the paper fibre and makes the whole thing useless for recycling. Tear off the clean top of the box (recyclable) and throw the greasy bottom in the regular bin.
+
+**Styrofoam** — almost never recycled, regardless of the symbol on it.
+
+**Plastic numbered 3 through 7** — yogurt containers, takeout containers, plastic cutlery. Most facilities don't have the equipment to process these. I know this is frustrating.
+
+**Receipts** — thermal paper coated in BPA. Not recyclable.
 
 ## The contamination problem
 
-One contaminated item can ruin an entire batch. A single greasy container in a load of clean cardboard can make the whole bale unsaleable to processors. This is why "wishful recycling" — putting something in the bin hoping it might get recycled — actually does more harm than good.
+One thing I didn't understand before is that contamination affects the whole batch. A recycling facility will reject an entire load if it has too much contamination — food residue, non-recyclable materials mixed in. When that happens, everything in that load goes to landfill.
 
-When in doubt, put it in the general bin. That sounds counterintuitive, but sending unrecyclable items to landfill directly is better than contaminating a batch of genuinely recyclable materials.
+This means putting questionable items in the recycling bin isn't a neutral act. It can ruin the recycling of things that genuinely could have been processed.
 
-## What actually makes a difference
+The rule we now follow in our house: if we're not sure, it goes in the regular bin. I know that sounds defeatist. But it's genuinely better than contaminating a load of aluminium cans.
 
-If you want your recycling to genuinely be recycled, focus on these:
+## The bigger picture I had to accept
 
-**Rinse containers.** A thin film of food residue is fine. A container with significant food residue should either be rinsed or go in the general bin. Yogurt pots, peanut butter jars, sauce bottles — a quick rinse takes five seconds.
+Recycling is real and it matters — but it's the last resort, not the solution.
 
-**Flatten cardboard.** It saves space and helps sorting at the facility.
+The hierarchy is Refuse, Reduce, Reuse, Recycle — in that order. When we cook at home and buy ingredients we actually use, we generate less food packaging waste than families eating out or buying a lot of pre-made meals. When we carry reusable bags, we don't bring plastic bags home at all. When we buy in bulk, there's nothing to recycle because there was never a package.
 
-**Keep plastic bags out of the kerbside bin.** Many supermarkets have plastic bag drop-off points where bags are collected separately and sent to specialist recycling. That's the right route for bags and film plastic.
+The changes we've made in our kitchen have reduced what goes into our recycling bin — which sounds backwards but it's actually the goal. Less packaging bought means less to deal with at the end.
 
-**Check your local council's specific rules.** Recycling rules vary significantly by area. Your local authority's website will tell you exactly what goes in your bin — this is more reliable than general advice.
+## Our system now
 
-## The bigger picture
+We have two bins in the kitchen — one regular, one recycling. The recycling one is only for things we're confident about: cans, clean cardboard, glass, plastic #1 and #2 that have been rinsed.
 
-The most effective environmental action isn't perfecting your recycling — it's generating less waste in the first place.
+We have a bag hanging on the pantry door for plastic film. When it's full, it goes to the supermarket drop-off.
 
-Aluminium cans have a high recycling rate, but the best outcome is not buying canned drinks and using a reusable bottle instead. Cardboard is well-recycled, but ordering less packaging in the first place is better. Glass has good recycling infrastructure, but buying in bulk to use fewer containers is better still.
+And we've stopped feeling guilty about putting questionable items in the regular bin. It's not ideal. But contaminating a batch of good recyclables is worse.
 
-Recycling is important and worth doing correctly. But it's genuinely the last resort in the hierarchy: **Refuse → Reduce → Reuse → Recycle**. Getting the first three right means you need the fourth one less.
-
-## A practical system for families
-
-The most common reason recycling goes wrong at home is that sorting happens at the bin, under time pressure, with children who don't know the rules. A cleaner system:
-
-1. Two kitchen bins — one general, one recycling. The recycling bin is for items you're confident about.
-2. A clear "when in doubt, leave it out" rule for the family.
-3. A designated spot for plastic bags and film — a bag hung on a door works — that gets dropped at the supermarket when it's full.
-4. A quick rinse habit for food containers before they go in the bin.
-
-None of this requires significant effort once it's set up. It just needs to be the default, not a decision made each time.
+None of this is perfect. But understanding the real rules rather than the imagined ones has made us more effective at actually keeping things out of landfill.

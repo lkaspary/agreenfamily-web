@@ -23,80 +23,59 @@ affiliateProducts:
     description: "Simple, budget-friendly outdoor bin"
 ---
 
-About 30% of the food the average family throws away could become compost instead of landfill. Landfill food waste doesn't just disappear — it produces methane, a potent greenhouse gas, because it decomposes without oxygen.
+We cook from scratch almost every day. That means a lot of vegetable peels, onion skins, cilantro stems, plantain peels, garlic papers, lime halves after squeezing — the scraps pile up fast in a kitchen like ours.
 
-Composting at home is simpler than most people think, and kids usually love it once they get past the initial "eww."
+For years all of that went straight in the bin. Then one weekend I looked at the bag we were throwing out and realised it was basically all food scraps and packaging. Half of it didn't need to be garbage at all.
 
-## What is composting, exactly?
+That's when we started composting. And I'll tell you — it was much easier than I thought, and my kids ended up loving it more than I expected.
 
-Composting is controlled decomposition. You put organic waste in a bin, let the right mix of moisture and air work on it, and after a few months you get rich, dark "black gold" — a soil amendment that makes gardens dramatically more productive.
+## What composting actually is
 
-## What you can compost
+You're not doing anything magic. You're just creating the right conditions for food scraps to break down naturally — the way they would in a forest, but faster and in a container. After a few months, what was a pile of vegetable peels becomes dark, rich soil that makes plants grow like crazy.
 
-**Yes:**
-- Fruit and vegetable scraps (peels, cores, coffee grounds, tea bags)
+We use ours on our little herb garden and the difference is remarkable.
+
+## What goes in and what doesn't
+
+This part matters. In our kitchen, we compost:
+
+- Vegetable and fruit peels and scraps (all of them — onion skins, plantain peels, avocado skins, everything)
+- Coffee grounds and filters
+- Tea bags (if they're not plastic-sealed)
 - Eggshells
-- Dry leaves, grass clippings
-- Cardboard and paper (torn up)
-- Hair and nail clippings
-- Plain cooked rice and pasta (in small amounts)
+- Herbs that have gone off
+- Paper napkins and cardboard torn into small pieces
+- Rice and plain pasta
 
-**No:**
-- Meat, fish, or bones
-- Dairy products
-- Oily or heavily seasoned food
-- Pet waste
-- Anything coated in plastic
+We don't compost meat, fish, bones, or anything oily or heavily seasoned. Those attract animals and create odors. In a Latin kitchen this is worth remembering — the leftover sofrito, the braised chicken, the beans — those go in the regular bin.
 
-## The two-bin system for families
+## The two-container setup
 
-The easiest setup for a family home:
+The system that works for us is simple: a small bin on the counter, and a larger one outside.
 
-**Indoor bin:** A small counter-top bin (1–2 litres) sits next to the sink. Family members dump scraps in here as they cook. Empty it into the outdoor bin every 1–3 days. This is where kids can help — giving them the job of "bin captain" works surprisingly well.
+The counter bin lives next to the sink. While we're cooking, scraps go in there. My kids know this — even the little ones. When it's full (usually every day or two), someone takes it outside to the big bin. We gave our youngest this job and she takes it very seriously.
 
-**Outdoor bin:** A larger bin or tumbler in the garden or on a balcony. This is where the actual composting happens. You add scraps from the indoor bin plus garden waste and torn cardboard. The tumbling style is easiest for beginners — you spin it every few days instead of turning with a fork.
+The outdoor bin is where the actual composting happens. We add the food scraps from inside, plus dry stuff — dry leaves, torn cardboard, newspaper. That mix of wet and dry is what makes it work. If it smells bad, add more dry. If nothing is happening, add more food scraps.
 
-## The golden ratio: browns and greens
+## Getting the kids involved
 
-Compost needs a rough balance of:
-- **Greens** (nitrogen-rich): food scraps, coffee grounds, fresh grass clippings
-- **Browns** (carbon-rich): dry leaves, cardboard, newspaper, paper bags
+My kids were fascinated by composting from day one. The idea that a banana peel can become soil — that's basically magic to a six-year-old.
 
-About 2 parts browns to 1 part greens is a good starting point. If your compost smells bad, add more browns. If it's not breaking down, add more greens.
+What worked for us:
+- Give them the counter bin job. They take the scraps outside. Simple, concrete, satisfying.
+- Show them the before and after. Three months later, open the bin together and let them see the transformation.
+- Plant something with the finished compost. Growing tomatoes or herbs with soil your family made together is genuinely special.
 
-## How to involve kids
+My daughter asked once if the banana peels "go to heaven" when they become soil. I told her yes, kind of. That worked for me.
 
-- **Give them the indoor bin job.** Kids as young as 3 can learn that fruit peels go in the bin, not the trash.
-- **Let them name the worms.** If you use a worm bin (vermicomposting), kids are fascinated.
-- **Show them the "before and after."** Let them see what the scraps look like after 3 months. The transformation is genuinely impressive.
-- **Use the finished compost together.** Spreading it on a family garden bed and watching plants grow is the best lesson in closed-loop thinking.
+## What about the smell?
 
-## What about smell?
-
-A healthy compost shouldn't smell bad. The main causes of bad odour:
-1. Too many greens, not enough browns — add cardboard
-2. Too wet — add dry leaves and turn the pile
-3. Compacted — turn it to add air
-
-A tumbling composter has much less odour than an open pile because it stays enclosed and aerated.
-
-## Apartment or small space composting
-
-No yard? Options include:
-- **Bokashi system:** A sealed bucket that ferments food waste (including meat and dairy) using bran inoculated with microbes. Quick and odour-free indoors.
-- **Worm bin (vermicomposting):** A bin of red worms under the sink or on a balcony. Produces "worm castings," the richest compost there is.
-- **Community composting:** Many cities have community composting sites or collect food scraps in green bins.
-
-## How long does it take?
-
-A tumbling composter in warm weather: **6–8 weeks**.
-An open pile, turned regularly: **3–6 months**.
-A worm bin: **2–3 months** for the first batch of castings.
+A healthy compost doesn't smell bad — it smells like earth, like a garden after rain. If yours smells rotten, two things: too much wet food scraps (add dry cardboard), or it needs turning (poke it or spin the tumbler). We've never had a serious smell problem with the tumbling composter we use — it stays closed and the spinning keeps it aerated.
 
 ## When is it ready?
 
-Finished compost is dark brown, crumbly, smells like earth (not rot), and you can't identify the original materials. Mix it into garden beds, pot plants, or spread it as a top dressing on lawn.
+You'll know. It turns dark, crumbly, and smells like garden soil rather than food. You can't identify individual ingredients anymore. For us that takes about two months in warm weather, longer in winter.
 
----
+We mix it into our herb pots and spread it on our small garden bed. Every time we do it, I think about all the vegetable peels that went into it and feel genuinely good about that.
 
-The products below are ones we've used and recommend. The counter-top bin is the piece most families don't think to buy — but it makes the habit much easier to maintain.
+It's one of those habits that once you have it, you can't believe you didn't do it sooner.
