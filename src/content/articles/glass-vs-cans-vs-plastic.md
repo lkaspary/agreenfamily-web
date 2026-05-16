@@ -51,6 +51,8 @@ But here's the thing nobody talks about: glass is heavy. A glass jar of tomato s
 
 Where glass genuinely wins is reuse. A glass jar that gets washed and used ten more times for storing leftovers, bulk spices, homemade sauces, ferments — that's a completely different calculation. The manufacturing happened once. You're just extending the life of what already exists.
 
+My wife and I both grew up in households where glass jars were never thrown away. You finished the jam, washed the jar, and it became part of the kitchen — storing dried beans, seeds, spices, whatever needed a home. Nobody considered this resourceful. It was just what you did with a jar.
+
 In our house we keep every decent glass jar that comes through. They store our dried beans, our spices, the sofrito I make in batches and freeze. The jar becomes part of the kitchen.
 
 ## Plastic

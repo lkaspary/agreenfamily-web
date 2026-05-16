@@ -27,7 +27,9 @@ We cook from scratch almost every day. That means a lot of vegetable peels, onio
 
 For years all of that went straight in the bin. Then one weekend I looked at the bag we were throwing out and realised it was basically all food scraps and packaging. Half of it didn't need to be garbage at all.
 
-That's when we started composting. And I'll tell you — it was much easier than I thought, and my kids ended up loving it more than I expected.
+My wife and I both grew up in homes where this question didn't exist. Food scraps went to the chickens. What didn't go to the animals went into a compost heap, which fed the garden, which fed the family. It was a loop that closed on its own. Nobody called it composting. It was just what you did with the peels.
+
+Getting back to that felt right. And I'll tell you — it was much easier than I thought, and my kids ended up loving it more than I expected.
 
 ## What composting actually is
 

@@ -25,6 +25,8 @@ affiliateProducts:
 
 Growing up, secondhand wasn't an environmental choice — it was just how things worked. My cousins' clothes became my clothes. My uncle's bike became my bike. You used things until they wore out, then passed them on. There was no conversation about it. It was just common sense.
 
+We come from communities shaped by European immigrants who settled in the Latin American countryside and held onto their old-world habits for generations. Nothing was wasted. Clothes were mended, passed down, repurposed as rags when they could no longer be worn. The idea that a child needed new things every season would have seemed genuinely strange — not because people were poor, but because it would have meant throwing away something still perfectly good.
+
 Somewhere along the way, as we got more comfortable, buying new became the default. A new book. A new toy. New clothes every season. It adds up — financially, and in terms of what gets thrown away.
 
 We've been working our way back to the old way of doing things in our family. And I want to share what we've learned about where secondhand genuinely wins, and where it makes sense to buy new.

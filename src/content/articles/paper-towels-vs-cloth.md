@@ -35,7 +35,7 @@ We didn't do a dramatic "throw out all the paper towels" moment. When we ran out
 
 **For wiping counters:** Swedish dishcloths. These are a game changer. They're made from cellulose and cotton, feel a little like a sponge but more like a cloth, and absorb an extraordinary amount for their size. You rinse them, they dry fast, they don't smell, and they go in the dishwasher. One Swedish dishcloth replaces about 17 rolls of paper towels. I have four of them and rotate them through the week.
 
-**For drying hands:** A small cloth towel hung by the sink. This is what my grandmother had. There was nothing wrong with it. We have a couple of nice-looking ones that actually make the kitchen look better.
+**For drying hands:** A small cloth towel hung by the sink. This is what my grandmother had — and her kitchen ran on a wood stove, had no paper towels, and fed a whole family every single day without issue. We have a couple of nice-looking ones that actually make the kitchen look better.
 
 **For bigger spills:** Flour sack towels. These are thin, incredibly absorbent cotton cloths. A stack of six costs about $12 and lasts forever. When something really spills — and in our house, things really spill — these are what we reach for.
 

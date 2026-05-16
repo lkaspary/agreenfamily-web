@@ -29,7 +29,9 @@ affiliateProducts:
 
 If you cook Latin food at home — really cook it, from scratch — you know how important fresh herbs are. Cilantro in almost everything. Parsley for the chimichurri. Culantro if you can find it. Fresh oregano for the beans. These aren't garnishes. They're fundamental.
 
-And every single week we were buying those little plastic packages of fresh herbs at the store. Use half, forget the other half in the back of the fridge, watch it turn to slime, throw it away. Then buy another package next week.
+Growing up, fresh herbs came from the garden outside, not from the store. You walked out and took what you needed. We both come from homes where a kitchen garden was just part of the house — herbs, vegetables, fruit trees. Not a hobby, not a project. Just how things worked. Moving to a suburban kitchen, we lost that slowly and quietly.
+
+And then every single week we were buying those little plastic packages of fresh herbs at the store. Use half, forget the other half in the back of the fridge, watch it turn to slime, throw it away. Then buy another package next week.
 
 I did this for years before it occurred to me that I could just... grow them.
 

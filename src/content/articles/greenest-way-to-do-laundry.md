@@ -61,7 +61,7 @@ The set cost about $20 and it's been three years. The math on that is very satis
 
 ## Hang things to dry when you can
 
-I grew up with a clothesline. My grandmother would never in a million years have used a dryer when the sun was available. There's something I love about bringing that back.
+I grew up with a clothesline. Everyone did, where I'm from. Clothes went out in the morning and came in dry in the afternoon — that was just how laundry worked. A dryer would have seemed like an enormous expense for something the sun did for free. My grandmother would never in a million years have used one when there was sun available. There's something I genuinely love about bringing that back.
 
 We have a drying rack in the laundry room. After school clothes, shirts, anything that doesn't need to be dry immediately goes on the rack overnight and is done by morning. The dryer is for towels, bedding, and emergencies. Running it less makes a real difference on the electricity bill.
 
