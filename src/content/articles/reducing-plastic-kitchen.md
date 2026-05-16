@@ -23,11 +23,11 @@ affiliateProducts:
     description: "Replace plastic containers with airtight glass"
 ---
 
-I'll be honest with you — I didn't start thinking about plastic because I read an article. I started because I got tired of opening the cabinet under the sink and watching a avalanche of plastic bags fall out every single time.
+It wasn't an article or a documentary that got me thinking about plastic. It was the cabinet under the sink — the one where the plastic bags lived, stuffed into other plastic bags, multiplying somehow faster than we were bringing them in. Every time I opened it something fell out. It was its own small disaster, twice a day.
 
 We cook at home almost every day. That means a lot of produce, a lot of ingredients, a lot of trips to the market. And somehow, without really noticing, we had accumulated a staggering amount of single-use plastic. Bags, wrap, containers — all used once and thrown away.
 
-Here's what we actually changed, in the order that made the most sense for our family.
+We didn't fix it all at once. What follows is roughly the order we made the changes, which also turned out to be roughly the order of what made the biggest difference.
 
 ## 1. Reusable bags for the market
 

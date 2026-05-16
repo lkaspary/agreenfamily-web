@@ -27,13 +27,13 @@ We cook at home every day. Real cooking — sofrito on the stove, meat marinatin
 
 I never thought about it until I started tracking our grocery spending more carefully. Paper towels were just... a line item. Every couple of weeks, another pack. It added up to close to $150 a year, maybe more. For something we used once and threw away.
 
-Changing this was one of the simplest swaps we've made. I want to tell you what we actually did, not the ideal version.
+Changing this was one of the simplest swaps we've made — and genuinely one of the ones that's stuck the longest without any effort to maintain it.
 
 ## What we switched to
 
 We didn't do a dramatic "throw out all the paper towels" moment. When we ran out of a roll, we replaced it with a cloth option. Gradually our paper towel use went from constant to occasional to almost zero.
 
-**For wiping counters:** Swedish dishcloths. These are a game changer. They're made from cellulose and cotton, feel a little like a sponge but more like a cloth, and absorb an extraordinary amount for their size. You rinse them, they dry fast, they don't smell, and they go in the dishwasher. One Swedish dishcloth replaces about 17 rolls of paper towels. I have four of them and rotate them through the week.
+**For wiping counters:** Swedish dishcloths. I hadn't heard of them before we made this switch and now I recommend them to everyone who asks. They're made from cellulose and cotton, feel a little like a sponge but more like a cloth, and absorb an extraordinary amount for their size — you rinse them, they dry fast, they don't smell, and they go in the dishwasher. One replaces about 17 rolls of paper towels. I have four of them and rotate them through the week.
 
 **For drying hands:** A small cloth towel hung by the sink. This is what my grandmother had — and her kitchen ran on a wood stove, had no paper towels, and fed a whole family every single day without issue. We have a couple of nice-looking ones that actually make the kitchen look better.
 

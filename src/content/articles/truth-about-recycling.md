@@ -27,9 +27,9 @@ I thought we were good recyclers. We sorted everything, rinsed our containers, b
 
 Then I went down a rabbit hole one afternoon trying to figure out if the plastic bags we were putting in the recycling were actually being recycled. The answer, it turns out, was no. And it sent me back to look at everything else we were doing.
 
-What I found wasn't great. We were doing a lot of things that felt like recycling but weren't. And some of what we were putting in the recycling bin was actually contaminating the stuff that genuinely could be recycled.
+What I found wasn't great. We were doing a lot of things that felt like recycling but weren't — and worse, some of what we were putting in the bin was actually contaminating the things that genuinely could have been recycled. We were making it worse.
 
-I want to share what I learned because I think a lot of families are in the same situation we were — trying to do the right thing but working with incomplete information.
+We're probably not the only family who went through this.
 
 ## What genuinely gets recycled
 

@@ -23,17 +23,11 @@ affiliateProducts:
     description: "For buying loose produce and avoiding packaged alternatives"
 ---
 
-I've been asked this question more times than I can count — usually in a supermarket aisle, someone holding two versions of the same product. "Which one is better? The glass or the can?"
+My wife and I were standing in the supermarket aisle a few years ago — this was before we'd thought seriously about any of it — holding two jars of tomato passata, one glass, one can, genuinely unable to decide. The glass felt more virtuous somehow. The can felt more practical. We stood there longer than two adults should stand in a supermarket aisle before just picking the glass one and moving on.
 
-I've been that person too. Standing there genuinely not knowing. It feels like it should be obvious but it isn't, and the packaging industry doesn't exactly make it easy to figure out.
+It nagged at me for a while after. Not in an urgent way, but in the way these things do — quietly, in the back of things. I eventually sat down one evening and actually read about it, which is how I know the answer is more interesting and more useful than I expected.
 
-Here's what I've pieced together after reading about it properly, and what it's actually changed about how we shop.
-
-## The honest answer: it's complicated
-
-Every type of packaging has a different environmental footprint depending on how it's made, how heavy it is, how far it traveled, and — most importantly — what happens to it at the end.
-
-There's no single winner. But there are clear patterns, and once you understand them, the decisions become more instinctive.
+Every type of packaging has a different environmental footprint depending on how it's made, how heavy it is, how far it traveled, and — crucially — what happens to it at the end. There's no single winner. But the patterns are clear enough that the decisions become almost automatic once you understand them.
 
 ## Aluminium cans
 
