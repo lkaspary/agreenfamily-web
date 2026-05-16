@@ -2,7 +2,7 @@
 title: "Secondhand vs. New: When Buying Used Is Always Better (And When It's Not)"
 description: "Buying secondhand is one of the most powerful green choices a family can make — but not for everything. Here's a clear guide to what's worth hunting for used."
 date: 2026-05-06
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["shopping", "kids", "savings"]
 image: "/images/secondhand-shopping.jpg"
 imageAlt: "A rack of neatly organised secondhand children's clothing"

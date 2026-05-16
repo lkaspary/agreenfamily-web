@@ -2,7 +2,7 @@
 title: "Eco-Friendly Back-to-School Supplies That Kids Actually Love"
 description: "A practical, budget-conscious guide to swapping traditional school supplies for sustainable alternatives — without the eye rolls."
 date: 2026-04-01
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["kids", "shopping", "school"]
 image: "/images/eco-school-supplies.jpg"
 imageAlt: "A backpack, wooden pencils, reusable lunch box, and notebook on a desk"

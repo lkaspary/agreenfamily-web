@@ -2,7 +2,7 @@
 title: "Grow Your Own Herb Cube: Fresh Seasonings Without the Plastic"
 description: "A small herb garden on your windowsill replaces dozens of plastic-packaged herb bunches per year — and the food tastes better too."
 date: 2026-05-08
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["garden", "kitchen", "food", "plastic-free"]
 image: "/images/herb-cube-garden.jpg"
 imageAlt: "A compact herb garden on a kitchen windowsill with basil, cilantro, and parsley"

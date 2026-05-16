@@ -2,7 +2,7 @@
 title: "10 Easy Ways to Reduce Plastic in Your Kitchen"
 description: "Simple swaps any family can make this week to dramatically cut single-use plastic — no expensive overhaul required."
 date: 2026-05-01
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["kitchen", "plastic-free", "shopping"]
 image: "/images/plastic-free-kitchen.jpg"
 imageAlt: "A kitchen counter with glass jars, reusable bags, and fresh produce"
@@ -70,5 +70,3 @@ Our kids went through a phase of wanting straws for everything. We bought a set 
 This one sounds weird but hear me out. We were buying small plastic bin liners for the bathroom and bedroom bins — plastic, used once, thrown away. Now we just empty those small bins directly into the main bin. That's it. No liner needed.
 
 ---
-
-None of this happened overnight. We made one change, got comfortable with it, then made another. Start with whichever one bothers you most right now. That's what worked for us.

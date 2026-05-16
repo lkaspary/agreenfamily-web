@@ -2,7 +2,7 @@
 title: "The Greenest Way to Do Laundry (Without Buying Anything New)"
 description: "Small changes to how your family does laundry can cut energy use by up to 90%. Here's exactly what to change and in what order."
 date: 2026-05-15
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["home", "energy", "savings"]
 image: "/images/green-laundry.jpg"
 imageAlt: "Clothes hanging on a line outdoors in sunlight"

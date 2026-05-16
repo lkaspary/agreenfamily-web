@@ -2,7 +2,7 @@
 title: "The Family Composting Guide for Beginners"
 description: "Everything you need to start composting at home — even if you have a small yard, kids who think it's gross, and no idea where to begin."
 date: 2026-04-15
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["garden", "waste", "kids"]
 image: "/images/family-composting.jpg"
 imageAlt: "A family putting fruit scraps into a compost bin in the garden"

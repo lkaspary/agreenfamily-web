@@ -2,7 +2,7 @@
 title: "Paper Towels vs. Cloth: The Real Numbers After One Year"
 description: "The average family spends $180 a year on paper towels. A set of cloth alternatives costs $25 and lasts a decade. Here's how to make the switch painlessly."
 date: 2026-05-03
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["home", "kitchen", "savings"]
 image: "/images/cloth-towels-kitchen.jpg"
 imageAlt: "A stack of folded cloth napkins and dish towels on a kitchen counter"
@@ -63,4 +63,4 @@ We probably saved $120–130 in the first year just on paper towels. The cloths 
 
 But honestly the money isn't even why I prefer it now. It's that the kitchen just functions better. The cloths work better than paper towels for most tasks. The Swedish dishcloths in particular are remarkable — I don't know why these aren't more well-known.
 
-If you cook as much as we do, this is one of the easiest switches you can make. Pick one thing — start with the Swedish dishcloths — and see how you feel after a month.
+If you cook as much as we do, this is one of the easiest switches you can make. Pick one

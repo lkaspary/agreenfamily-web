@@ -2,7 +2,7 @@
 title: "Fast Fashion for Kids: Why It's the Worst Category — And What to Do Instead"
 description: "Children's clothing is the most wasteful corner of the fashion industry. Kids outgrow clothes in months, quality has dropped dramatically, and most of it ends up in landfill. Here's a better system."
 date: 2026-05-14
-author: "Leandro Kaspary"
+author: "A Green Family"
 tags: ["kids", "shopping", "clothing"]
 image: "/images/kids-sustainable-clothing.jpg"
 imageAlt: "A rail of colourful, well-kept children's clothing"
