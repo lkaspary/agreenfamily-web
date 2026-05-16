@@ -144,6 +144,7 @@ magdakaspary.com was built using the same Astro + Tailwind + Cloudflare Pages st
 
 ## Key files to read for full context
 
+- `FAMILY_PROFILE.md` — **read this before writing or editing any article** — family background, voice guidelines, personal details (kids' ages, herb garden, cooking habits, Seattle context)
 - `LAUNCH_STATUS.md` — detailed to-do list and article briefs
 - `PROJECT_MAP.md` — full architecture, design decisions, affiliate strategy
 - `SETUP.md` — deployment and workflow instructions
