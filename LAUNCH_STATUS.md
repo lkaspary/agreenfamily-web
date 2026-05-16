@@ -66,9 +66,24 @@
 
 ---
 
-## 📋 Article Brainstorm — Next 7
+## ✅ Articles Published (10)
 
-### Article 4 — Zero-Waste Lunchbox Routine
+1. `reducing-plastic-kitchen.md` — 10 Easy Ways to Reduce Plastic in Your Kitchen
+2. `family-composting-guide.md` — The Family Composting Guide for Beginners
+3. `eco-school-supplies.md` — Eco-Friendly Back-to-School Supplies That Kids Actually Love
+4. `greenest-way-to-do-laundry.md` — The Greenest Way to Do Laundry
+5. `grow-your-own-herb-cube.md` — Grow Your Own Herb Cube
+6. `truth-about-recycling.md` — The Truth About Recycling
+7. `secondhand-vs-new.md` — Secondhand vs. New
+8. `paper-towels-vs-cloth.md` — Paper Towels vs. Cloth
+9. `glass-vs-cans-vs-plastic.md` — Glass vs. Cans vs. Plastic
+10. `fast-fashion-kids.md` — Fast Fashion for Kids
+
+---
+
+## 📋 Future Article Ideas — Next Batch
+
+### Article 11 — Zero-Waste Lunchbox Routine
 **Title:** How to Build a Zero-Waste Lunchbox Routine (That Kids Will Actually Stick To)
 **Tags:** kids, kitchen, school
 **Angle:** Step-by-step system for parents — what to pack, what containers to use, how to get kids on board
@@ -77,7 +92,7 @@
 
 ---
 
-### Article 5 — Best Reusable Water Bottles
+### Article 12 — Best Reusable Water Bottles
 **Title:** The Best Reusable Water Bottle for Every Age — From Toddlers to Teens
 **Tags:** kids, shopping, plastic-free
 **Angle:** Buying guide format. Each age group has different needs (spill-proof, straw lids, capacity). Compare 2-3 options per age bracket.
@@ -85,6 +100,77 @@
 **Image idea:** lineup of colorful water bottles on a shelf or countertop
 
 ---
+
+### Article 13 — Natural Cleaning Products
+**Title:** Natural Cleaning Products That Are Actually Safe for Kids (and Actually Work)
+**Tags:** home, kids, health
+**Angle:** Cut through greenwashing — only recommend things that genuinely clean. Kitchen, bathroom, floors, laundry.
+**Affiliate products:** Branch Basics concentrate, castile soap, reusable cleaning cloths, wool dryer balls
+**Image idea:** clean kitchen counter with a few simple bottles and a cloth
+
+---
+
+### Article 14 — The Dirty Dozen: When to Buy Organic
+**Title:** The Dirty Dozen: Which Fruits and Vegetables Are Worth Buying Organic
+**Tags:** food, shopping, health
+**Angle:** Practical guide based on EWG data — the 12 items with highest pesticide load where organic matters, and the 15 "clean" ones where you can skip it. Saves money.
+**Affiliate products:** organic produce delivery box subscription, reusable mesh produce bags
+**Image idea:** colourful array of fruits and vegetables at a market stall
+
+---
+
+### Article 15 — Energy-Saving Habits
+**Title:** 5 Energy-Saving Habits That Lower Your Bill and Help the Planet
+**Tags:** home, energy, savings
+**Angle:** Financial first — frame every tip around dollar savings. Families respond better to "saves $200/year" than abstract environmental benefits.
+**Affiliate products:** smart power strip, programmable thermostat, LED bulb multipack, door draft stopper
+**Image idea:** hand adjusting a thermostat, cozy living room with warm lighting
+
+---
+
+### Article 16 — Family Garden for Beginners
+**Title:** How to Start a Family Garden When You Have No Space (and No Idea What You're Doing)
+**Tags:** garden, kids, food
+**Angle:** Total beginners in small spaces — balcony, tiny yard, windowsill. Focus on easiest things to grow with kids (cherry tomatoes, herbs, lettuce).
+**Affiliate products:** self-watering planter, seed starter kit, kids gardening gloves, grow light
+**Image idea:** child's hands in soil, small planter on a balcony
+
+---
+
+### Article 17 — Sustainable Holiday Gifts
+**Title:** Sustainable Gift Ideas for Eco-Conscious Families (That Kids Will Actually Want)
+**Tags:** shopping, kids, holidays
+**Angle:** Fun first — eco gifts that children genuinely want. Organised by age. Avoid preachy "educational only" framing.
+**Affiliate products:** wooden toy set, nature exploration kit, art supplies in recycled packaging
+**Image idea:** wrapped gifts in brown paper and twine, pine branches
+**Note:** Publish in October for holiday SEO traffic
+
+---
+
+### Article 18 — Teaching Kids About Recycling
+**Title:** Teaching Kids About Recycling: What to Say at Each Age (And What Actually Sticks)
+**Tags:** kids, waste, education
+**Angle:** Age-by-age breakdown — 2–4, 5–7, 8–12, teens. Different concepts work at different stages. Include what NOT to say (guilt-based messaging backfires).
+**Affiliate products:** kids recycling sorting bin, recycling activity book, compost starter kit
+**Image idea:** young child sorting items into coloured bins, bright and cheerful
+
+---
+
+### Article 19 — Reusable Water Bottles for the Whole Family
+**Title:** We Tested 8 Reusable Bottles — Here's What We Actually Kept Using
+**Tags:** shopping, kids, plastic-free
+**Angle:** First-person honest review format. Most "best of" lists are SEO filler — this one covers real family use cases including school, sports, travel.
+**Affiliate products:** toddler bottle, kids sport bottle, adult insulated bottle, universal bottle brush
+**Image idea:** family of bottles lined up on a windowsill, natural light
+
+---
+
+### Article 20 — Plastic-Free Bathroom Swaps
+**Title:** 8 Plastic-Free Bathroom Swaps Any Family Can Make This Month
+**Tags:** home, plastic-free, health
+**Angle:** The bathroom is the second biggest source of plastic after the kitchen. Each swap is framed by ease and cost.
+**Affiliate products:** shampoo bar, bamboo toothbrushes, refillable deodorant, bar soap set, bamboo cotton buds
+**Image idea:** minimal bathroom shelf with bar soaps, bamboo toothbrushes, glass jars
 
 ### Article 6 — Energy-Saving Habits
 **Title:** 5 Energy-Saving Habits That Lower Your Bill and Help the Planet
