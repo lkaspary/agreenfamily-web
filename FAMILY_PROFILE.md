@@ -37,9 +37,19 @@ When writing about transport or energy-related topics, this is honest territory 
 
 ---
 
+## Why we do this
+
+Not for status, not because we read the right articles, and not primarily about money. The motivation is simpler and more personal: a growing sense of wanting to be more intentional — to waste less, throw less away, repair instead of replace, dispose of less. And wanting the kids to absorb a different set of assumptions than "things are disposable."
+
+We didn't come to this as outsiders. Both parents grew up in a tradition where none of this needed explaining. Drifting from it was gradual and unconsidered. Coming back to it is deliberate.
+
+**This site is not a manifesto.** It's one family, partway through, sharing what's actually working.
+
+---
+
 ## Our relationship with eco habits
 
-**Honest self-description:** Not the best eco family. Curious, trying, changing habits gradually. We don't write from a place of perfection — we write from "here's what actually worked for us."
+**Honest self-description:** Not experts. Not the greenest family on the block. Curious, trying, changing habits gradually. We don't write from a place of perfection — we write from "here's what actually worked for us, in this house, with these kids."
 
 Things we've genuinely changed:
 - **Cooking at home** — most days, from scratch. Core to who we are, not a new habit.
@@ -165,5 +175,7 @@ When writing a new article, ask: *if you removed every noun specific to this top
 - Not a luxury eco brand
 - Not a guilt-trip
 - Not a perfect family showing others how to live
+- Not motivated by money or savings (though savings happen — that's a side effect, not the point)
+- Not know-it-alls
 
-It's a real family, making real changes, sharing what's actually working.
+It's a real family, making real changes, one step at a time, sharing what's actually working — and honest about what isn't yet.
