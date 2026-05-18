@@ -8,14 +8,6 @@ allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 // Collect all unique tags
 const allTags = [...new Set(allArticles.flatMap(a => a.data.tags))].sort();
-
-// Filter by tag if ?tag= param is set
-const url = Astro.url;
-const selectedTag = url.searchParams.get('tag') ?? '';
-
-const filteredArticles = selectedTag
-  ? allArticles.filter(a => a.data.tags.includes(selectedTag))
-  : allArticles;
 ---
 
 <Layout
@@ -27,36 +19,33 @@ const filteredArticles = selectedTag
     <!-- Header -->
     <div class="mb-10">
       <h1 class="font-serif text-4xl text-forest mb-3">All Articles</h1>
-      <p class="text-ink-muted text-lg">
-        {filteredArticles.length} article{filteredArticles.length !== 1 ? 's' : ''}
-        {selectedTag && <span> tagged <strong class="text-leaf">#{selectedTag}</strong></span>}
-      </p>
+      <p id="article-count" class="text-ink-muted text-lg">{allArticles.length} articles</p>
     </div>
 
     <!-- Tag filter -->
     {allTags.length > 0 && (
-      <div class="flex flex-wrap gap-2 mb-10">
-        <a
-          href="/articles"
-          class={`tag ${!selectedTag ? 'bg-leaf text-white' : ''}`}
+      <div class="flex flex-wrap gap-2 mb-10" id="tag-filters">
+        <button
+          data-tag=""
+          class="tag active-tag"
         >
           All
-        </a>
+        </button>
         {allTags.map(tag => (
-          <a
-            href={`/articles?tag=${tag}`}
-            class={`tag ${selectedTag === tag ? 'bg-leaf text-white' : ''}`}
+          <button
+            data-tag={tag}
+            class="tag"
           >
             {tag}
-          </a>
+          </button>
         ))}
       </div>
     )}
 
     <!-- Article grid -->
-    {filteredArticles.length > 0 ? (
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filteredArticles.map(article => (
+    <div id="article-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {allArticles.map(article => (
+        <div class="article-card-wrapper" data-tags={article.data.tags.join(',')}>
           <ArticleCard
             title={article.data.title}
             description={article.data.description}
@@ -67,15 +56,89 @@ const filteredArticles = selectedTag
             imageAlt={article.data.imageAlt}
             featured={article.data.featured}
           />
-        ))}
-      </div>
-    ) : (
-      <div class="text-center py-20 text-ink-muted">
-        <p class="text-4xl mb-4">🌿</p>
-        <p>No articles found for this tag.</p>
-        <a href="/articles" class="text-leaf hover:text-forest font-medium mt-2 inline-block">Browse all articles</a>
-      </div>
-    )}
+        </div>
+      ))}
+    </div>
+
+    <!-- Empty state -->
+    <div id="empty-state" class="hidden text-center py-20 text-ink-muted">
+      <p class="text-4xl mb-4">🌿</p>
+      <p>No articles found for this tag.</p>
+      <button data-tag="" class="text-leaf hover:text-forest font-medium mt-2 inline-block" id="clear-filter">Browse all articles</button>
+    </div>
 
   </section>
 </Layout>
+
+<style>
+  .tag {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    background-color: #E8F4EA;
+    color: #4A7C59;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+  }
+  .tag:hover {
+    background-color: #4A7C59;
+    color: white;
+  }
+  .active-tag {
+    background-color: #4A7C59 !important;
+    color: white !important;
+  }
+</style>
+
+<script define:vars={{ totalCount: allArticles.length }}>
+
+  function filterArticles(selectedTag) {
+    const cards = document.querySelectorAll('.article-card-wrapper');
+    const grid = document.getElementById('article-grid');
+    const emptyState = document.getElementById('empty-state');
+    const countEl = document.getElementById('article-count');
+
+    let visible = 0;
+    cards.forEach(card => {
+      const tags = card.dataset.tags?.split(',') ?? [];
+      const show = !selectedTag || tags.includes(selectedTag);
+      card.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    // Update count text
+    if (selectedTag) {
+      countEl.innerHTML = `${visible} article${visible !== 1 ? 's' : ''} tagged <strong style="color:#4A7C59">#${selectedTag}</strong>`;
+    } else {
+      countEl.textContent = `${totalCount} articles`;
+    }
+
+    // Show/hide empty state
+    if (visible === 0) {
+      grid.style.display = 'none';
+      emptyState.classList.remove('hidden');
+    } else {
+      grid.style.display = '';
+      emptyState.classList.add('hidden');
+    }
+
+    // Update active tag button
+    document.querySelectorAll<HTMLElement>('[data-tag]').forEach(btn => {
+      if (btn.dataset.tag === selectedTag) {
+        btn.classList.add('active-tag');
+      } else {
+        btn.classList.remove('active-tag');
+      }
+    });
+  }
+
+  // Wire up all tag buttons
+  document.querySelectorAll('[data-tag]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterArticles(btn.dataset.tag || '');
+    });
+  });
+</script>
