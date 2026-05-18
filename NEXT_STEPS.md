@@ -1,10 +1,23 @@
 # Next Steps — agreenfamily.com
 
-Last updated: 2026-05-15
+Last updated: 2026-05-18
 
 ---
 
-## ✅ Completed this week
+## ✅ Completed this session (2026-05-18)
+
+- 5 new articles published: electronics recycling, hard-to-recycle items, home cleaning, plastic-free bathroom, EV guide (15 total)
+- All article images added
+- New logo (logo2.png) — beige background removed, transparent PNG, bigger in header
+- Favicon updated to new family circle logo
+- Articles tag filter fixed — now works client-side with JavaScript
+- Sitemap bug fixed (pinned @astrojs/sitemap to 3.1.6)
+- Sitemap submitted to Google Search Console — indexing started ✅
+- **Amazon Associates approved ✅**
+
+---
+
+## ✅ Completed previously
 
 - About page rewritten with real countryside backstory
 - All 10 articles updated with personal voice and family details
@@ -109,16 +122,42 @@ After the English site has affiliate approval and initial traffic. Begin domain 
 1. ☑ X account active + first post done
 2. ☑ Instagram recovered
 3. ☑ All affiliate links live (no more PLACEHOLDERs)
-4. ☐ Post first Instagram photo (Paper Towels) — needs image from Unsplash/Pexels or Canva
-5. ☐ Set up Beehiiv newsletter + wire into site (create Beehiiv account first at beehiiv.com)
-6. ☐ Article design pass — add in-article images + improve visual layout (see item 8 below)
-7. ☐ Plan advertisement and monetisation strategy
-8. ☐ Check Amazon Associates approval status
-9. ☐ Apply to Walmart affiliate directly
-10. ☐ Submit sitemap to Google Search Console
+4. ☑ Amazon Associates approved
+5. ☑ Sitemap submitted to Google Search Console
+6. ☐ **Analytics deep-dive** — understand traffic sources, top pages, click-through rates (see item 9 below)
+7. ☐ Post first Instagram photo (Paper Towels) — needs image from Unsplash/Pexels or Canva
+8. ☐ Set up Beehiiv newsletter + wire into site (create Beehiiv account first at beehiiv.com)
+9. ☐ Article design pass — add in-article images + improve visual layout (see item 8 below)
+10. ☐ Apply to Walmart affiliate directly (affiliates.walmart.com)
 11. ☐ Set up Pinterest business account
-12. ☐ Apply to Target affiliate
+12. ☐ Apply to Target affiliate (partners.target.com)
 13. ☐ Begin Brazil expansion planning
+
+---
+
+## 9. Analytics — traffic, clicks and conversions
+
+Now that Amazon Associates is approved and Google is indexing the site, the next step is understanding what's actually working.
+
+### Cloudflare Analytics (already active)
+- Visit dash.cloudflare.com → Pages → agreenfamily-web → Analytics
+- Check: total visitors, top pages, traffic sources, countries
+- Look for: which articles get the most views, where traffic comes from (Google, direct, social)
+
+### Google Search Console
+- Check **Performance** tab: which search queries are bringing people in, average position, click-through rate
+- Check **Coverage**: confirm all 15 articles are indexed (may take 1–2 weeks)
+- Check **Core Web Vitals**: page speed and UX signals Google uses for ranking
+
+### Amazon Associates dashboard
+- Login at associates.amazon.com → Reports
+- Track: clicks on affiliate links, conversion rate, which products are being bought
+- This tells you which articles are actually driving purchases
+
+### What to look for
+- Any article getting organic traffic early is worth doubling down on (write a follow-up, improve it, add internal links to it)
+- High impressions but low clicks = title/description needs work
+- High clicks but low conversions = affiliate product placement or product choice needs work
 
 ---
 
