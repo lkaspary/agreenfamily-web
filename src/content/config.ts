@@ -22,6 +22,7 @@ const articles = defineCollection({
         })
       )
       .optional(),
+    actionSteps: z.array(z.string()).optional(),
   }),
 });
 

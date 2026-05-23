@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/Redmon-65-Gallon-Black-Plastic-Compost-Bin-with-Air-Vents/20966191"
     store: "walmart"
     description: "Simple, budget-friendly outdoor bin"
+actionSteps:
+  - "Put a bowl on your kitchen counter today and start collecting vegetable scraps. You don't need a bin yet — just start noticing what you throw away."
+  - "Check if your city offers curbside compost pickup. Many do, and it's even easier than doing it yourself — your scraps go straight into the service's bins."
+  - "Try the outdoor bin for one full month before buying any equipment. A pile in a corner of the yard works fine at first. Buy the tumbler once you know you'll stick with it."
 ---
 
 We cook from scratch almost every day. That means a lot of vegetable peels, onion skins, cilantro stems, plantain peels, garlic papers, lime halves after squeezing — the scraps pile up fast in a kitchen like ours.

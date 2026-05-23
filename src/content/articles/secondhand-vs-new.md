@@ -17,6 +17,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/Conair-Handheld-Garment-Steamer-for-Clothes-ExtremeSteam-1200W-Portable-Handheld-Design-White-Blue-GS237RXWM/588827857"
     store: "walmart"
     description: "Freshen and sanitise secondhand clothing and soft furnishings quickly"
+actionSteps:
+  - "Before buying the next thing on your list — clothes, gear, books — check Facebook Marketplace first. It takes five minutes and you'll find what you need more often than you expect."
+  - "Bag up the outgrown or unused things in your house, label them, and offer them to one family you know. That's the secondhand network starting — it comes back to you."
+  - "For furniture, sports gear, and books: set the default to secondhand and only go new if you've looked and can't find it. The quality at the same price point is almost always better."
 ---
 
 Growing up, secondhand wasn't an environmental choice — it was just how things worked. My cousins' clothes became my clothes. My uncle's bike became my bike. You used things until they wore out, then passed them on. There was no conversation about it. It was just common sense.

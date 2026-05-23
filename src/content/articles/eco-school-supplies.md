@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/Yoobi-Notebook-1-Subject-Spiral-Paper-Cover-9-x-11-College-Ruled-100-sheets-Boom-Box/519385452"
     store: "walmart"
     description: "PVC-free notebooks from an eco-minded brand that donates supplies to classrooms"
+actionSteps:
+  - "Look at last year's school supplies and circle what you replaced more than once. That's your shortlist for buying better this year."
+  - "Buy one good lunchbox and expect it to last three years — not one. The math works out, and the plastic bag habit disappears with it."
+  - "Let your kid pick their own water bottle and decorate it. They'll actually use it."
 ---
 
 Back-to-school season in our house is a whole thing. The lists, the shopping, the kids convinced they need things they absolutely don't need. We've been through it enough times now that we've figured out what actually matters — and where the easy eco swaps are hiding.

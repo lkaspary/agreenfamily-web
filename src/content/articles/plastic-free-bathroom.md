@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B0949SJ3P7/?tag=agreenfamily-20"
     store: "amazon"
     description: "Biodegradable handle — the bristles still need to be removed before composting, but the handle breaks down"
+actionSteps:
+  - "Switch body wash to a bar of soap first — the easiest swap in the bathroom. It costs less, comes in cardboard, and works identically. No adjustment period whatsoever."
+  - "Look at your razor. If it's a cartridge or disposable system, a safety razor is the one swap I'd put above everything else — better shave, dramatically cheaper, no plastic waste after the handle."
+  - "Replace products as they run out, not all at once. Pick the one you go through fastest — probably shampoo — and start there. The whole transition takes a few months and sticks."
 ---
 
 The bathroom is where good intentions go to get complicated. The kitchen is manageable — you buy produce, you cook things, the plastic situation is visible. The bathroom is different. It's dozens of small plastic bottles, replaced on a rolling schedule, most of them holding something that performs exactly one function. Shampoo. Conditioner. Body wash. Shaving gel. Facial cleanser. Mouthwash. The list goes on.

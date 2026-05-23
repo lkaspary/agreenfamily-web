@@ -25,6 +25,10 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B0BGH8HNYG/?tag=agreenfamily-20"
     store: "amazon"
     description: "Catches microplastic fibres from synthetic fabrics"
+actionSteps:
+  - "Change your washing machine's default temperature to cold right now. That single setting cuts laundry energy use by 90% and you won't notice any difference in how clean things come out."
+  - "When your current detergent runs out, switch to laundry strips. Cardboard packaging, nothing to measure, works in any machine and any temperature."
+  - "Set up a drying rack somewhere in your home this week. One load air-dried per week adds up to real savings — and clothes last longer when they're not run through the dryer."
 ---
 
 With kids in the house, we do a lot of laundry. A lot. Between school uniforms, sports clothes, the shirt someone got sofrito on at dinner, and the mystery stains that appear on things that were clean this morning — the machine runs constantly.

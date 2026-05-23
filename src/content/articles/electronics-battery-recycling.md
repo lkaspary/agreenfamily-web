@@ -17,6 +17,10 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B0BZDTXTRM/?tag=agreenfamily-20"
     store: "amazon"
     description: "Better for families with a bigger backlog of hard-to-recycle items"
+actionSteps:
+  - "Take the box from the back of the closet — the one with the old phones and cables — and move it to the front door. The first step is just getting it out of hiding."
+  - "Wipe your old phone before it leaves your hands: Settings → General → Reset → Erase All Content. Takes two minutes and protects everything on it."
+  - "Find your nearest Best Buy and drop everything off in one trip. Most items are free and you don't need a receipt. That's the whole afternoon, done."
 ---
 
 We had a box in the back of a closet. Most families have one — old phones, a cracked tablet, a laptop that stopped working three years ago, cables for devices we no longer own, a drawer full of AA batteries. All of it too guilty to throw away, all of it just sitting there.

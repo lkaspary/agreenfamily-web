@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/Ruvanti-6-Pack-Extra-Large-Flour-Sack-Dish-Towels-28-X-28-Highly-Absorbent-Kitchen-Towels-Tea-100-Cotton-Multi-Purpose-Embroidery-Cleaning-Cloth-Dish/876235476"
     store: "walmart"
     description: "Lint-free, absorbent, machine washable — great for spills and drying"
+actionSteps:
+  - "Get a pack of Swedish dishcloths and put one where your paper towels usually sit. Don't throw out the roll — just reach for the cloth first and see how quickly it becomes habit."
+  - "Hang a small cloth towel by the sink for hand-drying. You'll be surprised how many paper towels that one change eliminates."
+  - "Keep one paper towel roll in the cabinet for things you genuinely don't want to put a cloth through. The goal is less, not zero — and the roll will last three months instead of two weeks."
 ---
 
 We cook at home every day. Real cooking — sofrito on the stove, meat marinating, kids helping and making a mess, flour on the counter, something always spilling. Our kitchen is a working kitchen and we were going through paper towels at an embarrassing rate.

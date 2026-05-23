@@ -25,6 +25,10 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B085CDPSMR/?tag=agreenfamily-20"
     store: "amazon"
     description: "Full-spectrum LED for growing herbs in low-light kitchens"
+actionSteps:
+  - "Buy one herb plant — just one, cilantro or basil — and put it in the sunniest window in your kitchen this week. That's the whole first step."
+  - "When you harvest, always cut just above where a leaf branches from the stem — the plant grows back bushier. Pinch flower buds on basil the moment you see them, or the leaves turn bitter."
+  - "Let one kid take ownership of one plant. Water it, harvest it, use it at dinner. It changes how they relate to food in a way that's hard to explain until you've seen it."
 ---
 
 If you cook Latin food at home — really cook it, from scratch — you know how important fresh herbs are. Cilantro in almost everything. Parsley for the chimichurri. Culantro if you can find it. Fresh oregano for the beans. These aren't garnishes. They're fundamental.

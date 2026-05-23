@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/Anchor-Hocking-Glass-Food-Storage-Containers-with-Lids-30-Piece-Set/574359462"
     store: "walmart"
     description: "Replace plastic containers with airtight glass"
+actionSteps:
+  - "Open the cabinet under your sink and count how many plastic bags are in it. That number is your starting point."
+  - "Order mesh produce bags this week — they're the easiest, lowest-friction swap and you'll use them on your very next grocery run."
+  - "Replace plastic wrap and containers as they wear out, not all at once. One swap a month adds up faster than you'd think."
 ---
 
 It wasn't an article or a documentary that got me thinking about plastic. It was the cabinet under the sink — the one where the plastic bags lived, stuffed into other plastic bags, multiplying somehow faster than we were bringing them in. Every time I opened it something fell out. It was its own small disaster, twice a day.

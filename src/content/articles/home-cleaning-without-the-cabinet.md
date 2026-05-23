@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/Arm-Hammer-Pure-Baking-Soda-5-lb/10315766"
     store: "walmart"
     description: "Bulk baking soda for scrubbing, deodorising, and cleaning — far cheaper than specialised products"
+actionSteps:
+  - "When your current all-purpose cleaner runs out, replace it with one teaspoon of castile soap in a spray bottle of water. That's the recipe — and it cleans every surface in your kitchen."
+  - "Don't clear out your cleaning cabinet all at once. Replace each product as it runs out. The transition takes a few months and you end up with three things that work better than twelve."
+  - "Buy one gallon of white vinegar and keep it under the sink. Equal parts vinegar and water in a spray bottle cleans glass and mirrors streak-free — nothing else needed."
 ---
 
 Under our kitchen sink used to be a small museum of cleaning products. Separate sprays for the counter, the stove, the bathroom, the glass. A tub of something for the toilet. Stuff for the grout. Stuff for stainless steel. Most of them half-empty, most of them bought because the previous one ran out at an inconvenient moment.

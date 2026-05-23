@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B01NAQD0KD/?tag=agreenfamily-20"
     store: "amazon"
     description: "Restore pilled secondhand clothing to near-new condition in minutes"
+actionSteps:
+  - "Wash and fold one bag of outgrown clothes right now, label it with the size, and text one family you know with younger kids. That's the hand-me-down network starting."
+  - "Before buying the next clothing item new, spend five minutes on ThredUp or Facebook Marketplace filtered to your child's current size. What you find will probably surprise you."
+  - "For the next coat, pair of shoes, or school bag your child needs — buy the better version and expect it to last three years. It costs more once and saves you buying again next season."
 ---
 
 I come from a family where clothes were not thrown away. They were handed down, altered, repaired, and eventually used as rags. My grandmother would have been genuinely confused by the idea of buying a child a new shirt every few months.

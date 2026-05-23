@@ -17,6 +17,10 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B0BZDTXTRM/?tag=agreenfamily-20"
     store: "amazon"
     description: "Better for families — more volume, same concept"
+actionSteps:
+  - "Find the plastic film drop-off bin at your nearest grocery store — it's usually just inside the entrance. Take whatever plastic bags you've been collecting and drop them there on your next shop."
+  - "Type your zip code into earth911.com to find hard-to-recycle drop-offs near you. Ten minutes of research and you'll know where everything goes."
+  - "Put a cardboard box in your garage right now for hard-to-recycle items. When something doesn't fit the bin, it goes in the box. Once a quarter, you deal with it. That's the whole system."
 ---
 
 We had a piece of styrofoam sitting in our garage for three weeks. Big white block — the kind that comes packed around a piece of IKEA furniture. We knew it couldn't go in the recycling bin. We didn't know where it could go. So it just sat there, taking up space, while we figured it out.

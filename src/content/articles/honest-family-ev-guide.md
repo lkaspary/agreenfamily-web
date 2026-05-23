@@ -17,6 +17,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/MUSTART-Portable-EV-Charger-Level-1-110V-16A-Portable-Electric-Vehicle-Charger-with-NEMA-5-15-Plug-20-ft-Cable/3210044290"
     store: "walmart"
     description: "Portable charger for travel — plugs into a standard outlet, slow but useful when away from home"
+actionSteps:
+  - "If you're replacing a car in the next year or two, spend one hour looking at used EVs in your area — a three-year-old Bolt or Leaf is often dramatically cheaper than its new equivalent and still has plenty of life left."
+  - "Check the federal tax credits before you buy: up to $7,500 for new EVs and $4,000 for used, subject to income and price limits. Worth a quick conversation with your accountant."
+  - "If you already have an EV and are running on the cable that came with it, a Level 2 home charger is the single best upgrade — wakes you up every morning with a full charge."
 ---
 
 We did not buy an electric car to make a statement. We bought it because the math worked, because we drive a predictable daily distance, and because — if we were honest about it — it was time to do something more than talk about caring about these things. It's been about two years. The second car is still a regular combustion engine. This is not a piece about how everyone should switch immediately. It's about what we've actually experienced, with one of each.

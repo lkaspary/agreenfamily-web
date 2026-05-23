@@ -21,6 +21,10 @@ affiliateProducts:
     url: "https://www.walmart.com/ip/Reusable-Grocery-Bags-5-Pack-Black-Hold-40-lbs-Extra-Large-Super-Strong-Heavy-Duty-Shopping-Tote-Bag-Reinforced-Handles-Thick-Plastic-Bottom-Strength/778353014"
     store: "walmart"
     description: "For buying loose produce and avoiding packaged alternatives"
+actionSteps:
+  - "When choosing between canned and plastic-packaged goods, pick the can — rinse it and it's one of the most reliably recycled items in your bin."
+  - "Keep every decent glass jar that comes through your kitchen. Wash it and put it back to work for beans, spices, or leftovers. You'll gradually stop buying plastic containers without trying."
+  - "Pick one good reusable bottle per person in your family and stop buying drinks in single-use packaging. The impact adds up faster than almost anything else on this list."
 ---
 
 My wife and I were standing in the supermarket aisle a few years ago — this was before we'd thought seriously about any of it — holding two jars of tomato passata, one glass, one can, genuinely unable to decide. The glass felt more virtuous somehow. The can felt more practical. We stood there longer than two adults should stand in a supermarket aisle before just picking the glass one and moving on.
