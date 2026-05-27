@@ -1,6 +1,6 @@
 # agreenfamily.com — Launch Status
 
-> Last updated: May 14, 2026
+> Last updated: May 25, 2026
 
 ---
 
@@ -34,15 +34,12 @@
 ## ❌ Still To Do
 
 ### Content (Priority — needed before affiliate applications)
-- [ ] Write 7 more articles (need 10 total for Amazon Associates)
 - [ ] Add real images to articles (currently using placeholder paths)
-- [ ] Replace affiliate link PLACEHOLDERs once accounts approved
+- [ ] Continue publishing — now at 15 articles, target is 30+ for meaningful SEO traction
 
 ### Monetization
-- [ ] Apply to **Amazon Associates** — https://affiliate-program.amazon.com
-  - Requires: live site + 10 articles published
+- [x] **Amazon Associates** — APPROVED ✅ (May 2026), links live in articles
 - [ ] Apply to **Walmart Affiliate** — https://affiliates.walmart.com
-  - Requires: live site + 10 articles published
 
 ### Newsletter
 - [ ] Create **Beehiiv** account (free) — https://beehiiv.com
@@ -54,19 +51,20 @@
 - [ ] Verify affiliate disclosure is visible on all article pages ✅ (already built in)
 
 ### Analytics
-- [ ] Enable **Cloudflare Analytics** in the Cloudflare dashboard (free, already available)
+- [x] **Cloudflare Analytics** active ✅ — 1.39k unique visitors in 30 days (all since May 13), ~116/day run rate
 
 ### Technical
 - [ ] Add sitemap back once Astro is upgraded to v6
 - [ ] Upgrade Astro from v4 to v6 (fixes security audit warnings)
 
 ### Social Media
-- [ ] Instagram account — @agreenfamily (recovering existing account)
-- [ ] Link Instagram and X in Footer once accounts confirmed active
+- [x] X (Twitter) — @agreenfamily active ✅
+- [ ] Instagram — @agreenfamily active but low engagement; strategy being refined
+- [ ] Link Instagram and X in Footer once confirmed active
 
 ---
 
-## ✅ Articles Published (10)
+## ✅ Articles Published (15)
 
 1. `reducing-plastic-kitchen.md` — 10 Easy Ways to Reduce Plastic in Your Kitchen
 2. `family-composting-guide.md` — The Family Composting Guide for Beginners
@@ -78,6 +76,11 @@
 8. `paper-towels-vs-cloth.md` — Paper Towels vs. Cloth
 9. `glass-vs-cans-vs-plastic.md` — Glass vs. Cans vs. Plastic
 10. `fast-fashion-kids.md` — Fast Fashion for Kids
+11. `electronics-battery-recycling.md` — Where to Recycle Old Electronics and Batteries (A Family's Practical Guide)
+12. `hard-to-recycle-items-guide.md` — What to Do With the Stuff Your Recycling Bin Won't Take
+13. `home-cleaning-without-the-cabinet.md` — How to Clean Your Home With Three Ingredients Instead of Thirty
+14. `honest-family-ev-guide.md` — An Honest Family Guide to Going Electric (From a Family With One EV and One That Isn't)
+15. `plastic-free-bathroom.md` — The Plastic-Free Bathroom: What We Switched, What We Didn't, and What Actually Works
 
 ---
 

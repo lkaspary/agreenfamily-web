@@ -115,24 +115,30 @@ affiliateProducts:
 
 ## Monetization status
 
-- Amazon Associates: NOT YET APPLIED — need 10 articles live first
-- Walmart Affiliate: NOT YET APPLIED — need 10 articles live first
-- Affiliate links in articles: currently show "PLACEHOLDER" in URLs — update once approved
+- Amazon Associates: **APPROVED** ✅ (approved as of May 2026)
+- Walmart Affiliate: NOT YET APPLIED
+- Affiliate links in articles: Amazon links are live; Walmart links still need updating once approved
+
+## Traffic (last updated May 25, 2026)
+
+Cloudflare Analytics — 30-day window (Apr 25 – May 25):
+- **1.39k unique visitors** — essentially all traffic came after ~May 13 (site had near-zero before that)
+- **22.6k total requests** (includes static assets)
+- **48.67% cache hit rate** (Cloudflare performing well)
+- Run rate since traffic started: ~116 unique visitors/day → ~3,500/month
+- With only 3 articles live, this is a strong early signal
 
 ---
 
 ## What's next (in order)
 
 1. Fix broken article images — download from Unsplash/Pexels into `public/images/`
-2. Write 7 more articles to reach 10 total (briefs in `LAUNCH_STATUS.md`)
-3. Add Privacy Policy page (required by Amazon Associates)
-4. Apply to Amazon Associates once 10 articles are live
-5. Apply to Walmart Affiliate
-6. Set up Beehiiv newsletter + Web3Forms key in NewsletterSignup.astro
-7. Recover/activate Instagram @agreenfamily
-8. Enable Cloudflare Analytics (free, already available in dashboard)
-9. Upgrade Astro v4 → v6 (fixes security audit warnings, non-urgent)
-10. Re-add sitemap integration after Astro upgrade
+2. Keep publishing — at 15 articles now, target 30+ for SEO traction (briefs in `LAUNCH_STATUS.md`)
+3. Apply to Walmart Affiliate — https://affiliates.walmart.com
+4. Set up Beehiiv newsletter + Web3Forms key in NewsletterSignup.astro
+5. Instagram @agreenfamily — active but low engagement; improve social strategy (carousel format, hooks)
+6. Upgrade Astro v4 → v6 (fixes security audit warnings, non-urgent)
+7. Re-add sitemap integration after Astro upgrade
 
 ---
 

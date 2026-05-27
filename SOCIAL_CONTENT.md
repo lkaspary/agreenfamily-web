@@ -87,20 +87,21 @@ I come from a family where clothes were not thrown away. They were handed down, 
 
 ### Post 1 — Paper Towels
 *Pair with article image: cloth-towels-kitchen.jpg*
+*Design saved in Canva: https://www.canva.com/d/aHs40lm6GUGU2Fz*
 
-We were spending $150 a year on paper towels.
+My grandmother never owned a paper towel in her life. She fed a whole family on a wood stove, cleaned a real kitchen every day. The idea of something you use once and throw away would have genuinely confused her.
 
-Not because we were careless. We just never thought about it. Paper towels were a line item. Every couple of weeks, another pack. Used once, thrown away.
+Somewhere along the way, we drifted from that. A roll every two weeks, sometimes more. It was just what kitchens looked like now.
 
-The fix was simpler than I expected — Swedish dishcloths (one cloth replaces 17 rolls), a small hand towel by the sink, and flour sack towels for the big spills. Total cost: about $40. We came out ahead in year one.
+We switched gradually — Swedish dishcloths first, then a small cloth by the sink for hands, flour sack rags for the bigger spills. Four cloths rotating through the week. Rinse them, throw them in the dishwasher, done.
 
-We still have a roll in the cabinet. For genuinely disgusting situations. It lasts us three months now instead of two weeks.
+One roll still lives in the cabinet. For genuinely disgusting situations. It lasts three months now. We're not pretending to be perfect — we just got more intentional about what we reach for first.
 
-The goal is less, not zero — and less has turned out to be very doable.
+It's a small thing. But small things, when they stick, change what you think of as normal.
 
-Full breakdown with what we actually use at the link in bio. 🌿
+Full breakdown of what we actually use at the link in bio. 🌿
 
-#ZeroWaste #SustainableLiving #EcoHome #GreenFamily #PaperTowelFree #SustainableSwaps #ConsciousLiving #EcoFriendlyHome #WasteReduction #GreenLiving #SustainableHome #ReuseReduceRecycle #EcoTips #GreenHabits #PlasticFree #ZeroWasteHome #EcoFamily #SustainableKitchen #GreenKitchen #CleanLiving
+#ZeroWaste #SustainableLiving #EcoFamily #GreenHome #LessWaste #PaperTowelFree #SustainableKitchen #ZeroWasteKitchen #ReusableProducts #WasteReduction #EcoSwaps #SlowLiving #ConsciousLiving #EcoHome #GreenFamily #SustainableSwaps #ZeroWasteHome
 
 ---
 

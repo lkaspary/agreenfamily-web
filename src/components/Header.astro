@@ -1,7 +1,7 @@
 ---
 const navLinks = [
-  { href: '/articles', label: 'Articles' },
-  { href: '/about',    label: 'About' },
+  { href: '/about',   label: 'About' },
+  { href: '/connect', label: 'Connect' },
 ];
 
 const currentPath = Astro.url.pathname;
@@ -17,6 +17,12 @@ const currentPath = Astro.url.pathname;
 
     <!-- Desktop nav -->
     <nav class="hidden md:flex items-center gap-8">
+      <a
+        href="/articles"
+        class="btn-primary text-sm py-2 px-4"
+      >
+        Start Reading
+      </a>
       {navLinks.map(link => (
         <a
           href={link.href}
@@ -29,12 +35,6 @@ const currentPath = Astro.url.pathname;
           {link.label}
         </a>
       ))}
-      <a
-        href="/articles"
-        class="btn-primary text-sm py-2 px-4"
-      >
-        Start Reading
-      </a>
     </nav>
 
     <!-- Mobile menu button -->
@@ -52,10 +52,10 @@ const currentPath = Astro.url.pathname;
 
   <!-- Mobile menu -->
   <div id="mobile-menu" class="hidden md:hidden border-t border-stone bg-cream px-6 py-4 flex flex-col gap-4">
+    <a href="/articles" class="btn-primary text-sm text-center">Start Reading</a>
     {navLinks.map(link => (
       <a href={link.href} class="text-sm font-medium text-ink-muted hover:text-leaf">{link.label}</a>
     ))}
-    <a href="/articles" class="btn-primary text-sm text-center">Start Reading</a>
   </div>
 </header>
 
