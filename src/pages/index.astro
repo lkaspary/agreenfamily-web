@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import LatestArticleSpotlight from '../components/LatestArticleSpotlight.astro';
 import FeaturedCarousel from '../components/FeaturedCarousel.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
@@ -8,8 +9,10 @@ import { getCollection } from 'astro:content';
 const allArticles = await getCollection('articles', ({ data }) => !data.draft);
 allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
+const newestArticle = allArticles[0];
+
 const featuredArticles = allArticles
-  .filter(a => a.data.featured)
+  .filter(a => a.data.featured && a.slug !== newestArticle.slug)
   .slice(0, 3)
   .map(a => ({
     title: a.data.title,
@@ -21,7 +24,7 @@ const featuredArticles = allArticles
     imageAlt: a.data.imageAlt,
   }));
 
-const latestArticles = allArticles.slice(0, 6);
+const latestArticles = allArticles.slice(1, 7);
 ---
 
 <Layout title="A Green Family" description="Practical eco-friendly habits for families who want to live greener — without turning their lives upside down.">
@@ -37,6 +40,20 @@ const latestArticles = allArticles.slice(0, 6);
         Practical, affordable tips that actually fit family life — no perfection required.
       </p>
     </div>
+
+    <!-- Newest article spotlight -->
+    {newestArticle && (
+      <div class="mb-8">
+        <LatestArticleSpotlight
+          title={newestArticle.data.title}
+          description={newestArticle.data.description}
+          slug={newestArticle.slug}
+          tags={newestArticle.data.tags}
+          image={newestArticle.data.image}
+          imageAlt={newestArticle.data.imageAlt}
+        />
+      </div>
+    )}
 
     <!-- Featured carousel -->
     {featuredArticles.length > 0 && (

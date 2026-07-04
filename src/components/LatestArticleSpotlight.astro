@@ -1,0 +1,53 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  tags: string[];
+  image?: string;
+  imageAlt?: string;
+}
+
+const { title, description, slug, tags, image, imageAlt } = Astro.props;
+---
+
+<a href={`/articles/${slug}`} class="group block relative rounded-2xl overflow-hidden h-[420px] md:h-[480px]">
+
+  <!-- Background image or gradient -->
+  {image ? (
+    <img
+      src={image}
+      alt={imageAlt ?? title}
+      class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+    />
+  ) : (
+    <div class="absolute inset-0 bg-gradient-to-br from-forest to-leaf"></div>
+  )}
+
+  <!-- Overlay -->
+  <div class="absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/40 to-transparent"></div>
+
+  <!-- Content -->
+  <div class="absolute bottom-0 left-0 right-0 p-8 md:p-12">
+    <div class="flex flex-wrap items-center gap-2 mb-3">
+      <span class="inline-block text-xs font-semibold bg-leaf text-white px-2.5 py-1 rounded-full uppercase tracking-wide">
+        New Article
+      </span>
+      {tags.slice(0, 2).map(tag => (
+        <span class="inline-block text-xs font-medium bg-sage/30 text-cream border border-sage/40 px-2.5 py-1 rounded-full uppercase tracking-wide">
+          {tag}
+        </span>
+      ))}
+    </div>
+    <h2 class="font-serif text-2xl md:text-4xl text-cream leading-tight mb-3 max-w-2xl">
+      {title}
+    </h2>
+    <p class="text-cream/80 text-sm md:text-base mb-6 max-w-xl leading-relaxed">
+      {description}
+    </p>
+    <span class="inline-block bg-cream text-forest font-medium px-6 py-3 rounded-lg group-hover:bg-sky transition-colors">
+      Read Article →
+    </span>
+  </div>
+
+</a>
