@@ -159,6 +159,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"electronics-battery-recycling.md": {
+	id: "electronics-battery-recycling.md";
+  slug: "electronics-battery-recycling";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "family-composting-guide.md": {
 	id: "family-composting-guide.md";
   slug: "family-composting-guide";
@@ -166,9 +173,107 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"fast-fashion-kids.md": {
+	id: "fast-fashion-kids.md";
+  slug: "fast-fashion-kids";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"fresh-vs-frozen-fruit.md": {
+	id: "fresh-vs-frozen-fruit.md";
+  slug: "fresh-vs-frozen-fruit";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"garbage-disposal-eco-friendly-guide.md": {
+	id: "garbage-disposal-eco-friendly-guide.md";
+  slug: "garbage-disposal-eco-friendly-guide";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"glass-vs-cans-vs-plastic.md": {
+	id: "glass-vs-cans-vs-plastic.md";
+  slug: "glass-vs-cans-vs-plastic";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"greenest-way-to-do-laundry.md": {
+	id: "greenest-way-to-do-laundry.md";
+  slug: "greenest-way-to-do-laundry";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"grow-your-own-herb-cube.md": {
+	id: "grow-your-own-herb-cube.md";
+  slug: "grow-your-own-herb-cube";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"hard-to-recycle-items-guide.md": {
+	id: "hard-to-recycle-items-guide.md";
+  slug: "hard-to-recycle-items-guide";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"home-cleaning-without-the-cabinet.md": {
+	id: "home-cleaning-without-the-cabinet.md";
+  slug: "home-cleaning-without-the-cabinet";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"honest-family-ev-guide.md": {
+	id: "honest-family-ev-guide.md";
+  slug: "honest-family-ev-guide";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"milk-container-environment.md": {
+	id: "milk-container-environment.md";
+  slug: "milk-container-environment";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"paper-towels-vs-cloth.md": {
+	id: "paper-towels-vs-cloth.md";
+  slug: "paper-towels-vs-cloth";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"plastic-free-bathroom.md": {
+	id: "plastic-free-bathroom.md";
+  slug: "plastic-free-bathroom";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 "reducing-plastic-kitchen.md": {
 	id: "reducing-plastic-kitchen.md";
   slug: "reducing-plastic-kitchen";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"secondhand-vs-new.md": {
+	id: "secondhand-vs-new.md";
+  slug: "secondhand-vs-new";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
+"truth-about-recycling.md": {
+	id: "truth-about-recycling.md";
+  slug: "truth-about-recycling";
   body: string;
   collection: "articles";
   data: InferEntrySchema<"articles">

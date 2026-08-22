@@ -4,19 +4,20 @@ export default {
   theme: {
     extend: {
       colors: {
-        forest:     '#2D5016',
-        leaf:       '#4A7C59',
-        sage:       '#8BAE8A',
-        cream:      '#F8F5F0',
-        earth:      '#6B5B3E',
-        sky:        '#E8F4EA',
-        ink:        '#1A1A1A',
-        'ink-muted':'#555555',
-        stone:      '#D4CFC9',
+        forest:     '#3D6B4F',
+        leaf:       '#3D6B4F',
+        sage:       '#7A8B72',
+        cream:      '#FAF7F2',
+        earth:      '#C4A96A',
+        sky:        '#EEF0E9',
+        ink:        '#2D3B2D',
+        'ink-muted':'#5C6B5C',
+        stone:      '#DCD3C4',
+        deep:       '#1A2B1F',
       },
       fontFamily: {
-        serif: ['"Playfair Display"', 'Georgia', 'serif'],
-        sans:  ['Inter', 'system-ui', 'sans-serif'],
+        serif: ['Lora', 'Georgia', 'serif'],
+        sans:  ['Poppins', 'system-ui', 'sans-serif'],
       },
       typography: (theme) => ({
         green: {
