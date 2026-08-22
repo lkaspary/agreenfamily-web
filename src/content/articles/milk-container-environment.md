@@ -4,8 +4,6 @@ description: "We assumed glass was the obvious answer. The research says it's mo
 date: 2026-05-29
 author: "A Green Family"
 tags: ["kitchen", "shopping", "waste", "food"]
-image: "/images/milk-containers.jpg"
-imageAlt: "A glass milk bottle, a plastic jug, and a paper carton side by side on a kitchen counter"
 featured: false
 draft: false
 affiliateProducts:
