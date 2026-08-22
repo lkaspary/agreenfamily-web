@@ -4,6 +4,8 @@ description: "A container of moldy blueberries sent us down a rabbit hole about 
 date: 2026-08-22
 author: "A Green Family"
 tags: ["kitchen", "food", "shopping"]
+image: "/images/frozen-berries.jpg"
+imageAlt: "A bowl of frozen mixed berries — raspberries and blackberries dusted with frost — on a wooden table"
 featured: false
 draft: false
 actionSteps:
