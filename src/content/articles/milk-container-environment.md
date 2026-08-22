@@ -4,6 +4,8 @@ description: "We assumed glass was the obvious answer. The research says it's mo
 date: 2026-05-29
 author: "A Green Family"
 tags: ["kitchen", "shopping", "waste", "food"]
+image: "/images/milk.jpg"
+imageAlt: "A grocery store dairy case shelf lined with plastic milk jugs and cartons"
 featured: false
 draft: false
 affiliateProducts:
