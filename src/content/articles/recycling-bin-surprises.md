@@ -4,6 +4,8 @@ description: "We thought we knew how to recycle. Turns out we were getting a bun
 date: 2026-09-19
 author: "A Green Family"
 tags: ["recycling", "waste", "kitchen"]
+image: "/images/recycle2.jpg"
+imageAlt: "Household recycling sorted into a bin, ready for curbside pickup"
 featured: false
 draft: false
 ---
