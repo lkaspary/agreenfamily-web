@@ -44,4 +44,36 @@
   .card {
     @apply bg-white rounded-xl shadow-sm border border-stone overflow-hidden hover:shadow-md transition-shadow duration-200;
   }
+
+  .prose table {
+    @apply w-full my-6 text-[0.95rem] leading-snug border-separate border-spacing-0 rounded-xl overflow-hidden border border-sage shadow-sm;
+  }
+
+  .prose thead tr {
+    @apply bg-forest;
+  }
+
+  .prose thead th {
+    @apply text-cream font-sans font-semibold text-left px-4 py-3 text-sm tracking-wide;
+  }
+
+  .prose tbody tr:nth-child(odd) {
+    @apply bg-white;
+  }
+
+  .prose tbody tr:nth-child(even) {
+    @apply bg-sky;
+  }
+
+  .prose tbody tr {
+    @apply border-t border-stone;
+  }
+
+  .prose tbody td {
+    @apply px-4 py-3 align-top;
+  }
+
+  .prose tbody td:first-child {
+    @apply font-semibold text-forest;
+  }
 }
