@@ -1,0 +1,76 @@
+---
+// Link-in-bio page for Instagram/X. Lists the newest articles automatically.
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('articles', ({ data }) => !data.draft);
+allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const [newest, ...rest] = allArticles;
+const recent = rest.slice(0, 5);
+
+const moreLinks = [
+  { href: '/articles', label: 'All articles' },
+  { href: '/about', label: 'About our family' },
+  { href: '/connect', label: 'Get in touch' },
+];
+---
+
+<Layout
+  title="Links"
+  description="Our latest articles on practical green living for real families."
+>
+  <section class="max-w-md mx-auto px-5 py-10">
+
+    <!-- Intro -->
+    <header class="text-center mb-8">
+      <img src="/favicon-192.png" alt="" class="w-20 h-20 rounded-full mx-auto mb-4" />
+      <h1 class="font-serif text-2xl text-forest mb-2">A Green Family</h1>
+      <p class="text-ink-muted text-sm">Practical green living for real families, one imperfect step at a time.</p>
+    </header>
+
+    <!-- Newest article -->
+    {newest && (
+      <a
+        href={`/articles/${newest.slug}/`}
+        class="block rounded-xl overflow-hidden border border-stone bg-white shadow-sm hover:shadow-md transition-shadow mb-6"
+      >
+        {newest.data.image && (
+          <img src={newest.data.image} alt={newest.data.imageAlt ?? ''} class="w-full h-44 object-cover" />
+        )}
+        <div class="p-4">
+          <p class="text-xs font-medium uppercase tracking-widest text-leaf mb-1">Newest</p>
+          <h2 class="font-serif text-lg text-forest leading-snug">{newest.data.title}</h2>
+        </div>
+      </a>
+    )}
+
+    <!-- Recent articles -->
+    <h2 class="text-xs font-medium uppercase tracking-widest text-ink-muted mb-3">Recent</h2>
+    <ul class="flex flex-col gap-3 mb-8">
+      {recent.map(article => (
+        <li>
+          <a
+            href={`/articles/${article.slug}/`}
+            class="flex items-center gap-3 rounded-lg border border-stone bg-white p-2 hover:border-sage transition-colors"
+          >
+            {article.data.image ? (
+              <img src={article.data.image} alt="" class="w-14 h-14 rounded-md object-cover flex-shrink-0" />
+            ) : (
+              <span class="w-14 h-14 rounded-md bg-sky flex-shrink-0"></span>
+            )}
+            <span class="text-sm font-medium text-ink leading-snug">{article.data.title}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <!-- More -->
+    <div class="flex flex-col gap-3">
+      {moreLinks.map(link => (
+        <a href={link.href} class="btn-primary text-center text-sm py-3">{link.label}</a>
+      ))}
+    </div>
+
+  </section>
+</Layout>
