@@ -7,13 +7,8 @@ tags: ["kitchen", "coffee", "tea", "plastic", "waste"]
 image: "/images/coffee-pods-tea-bags.jpg"
 imageAlt: "A pile of used coffee pods, paper coffee cups, and tea bags dumped with other trash in dirt and dry leaves."
 featured: false
-inlineDisclosure: true
 draft: false
 ---
-
-<div class="not-prose mb-8 text-xs text-ink-muted bg-sky border border-sage rounded-lg px-4 py-3">
-<p><em>Disclosure: This article includes affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. We only share things we use ourselves or would honestly point a friend to. The article comes first, always.</em></p>
-</div>
 
 During the pandemic, like a lot of families stuck at home, we bought an espresso machine. We never went back. That one purchase quietly replaced the Nespresso capsules and a whole lot of trips to Starbucks, along with all the paper cups, plastic lids, and cardboard sleeves that came with them.
 

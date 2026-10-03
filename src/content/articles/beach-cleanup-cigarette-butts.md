@@ -10,10 +10,6 @@ featured: false
 draft: false
 ---
 
-<div class="not-prose mb-8 text-xs text-ink-muted bg-sky border border-sage rounded-lg px-4 py-3">
-<p><em>Disclosure: This article includes affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. The article comes first, always.</em></p>
-</div>
-
 This week, instead of spending an afternoon in meetings, a group of us from work pulled on gloves, grabbed trash bags, and walked a stretch of beach with <a href="https://www.cleanoceansinternational.org/" target="_blank" rel="noopener noreferrer">Clean Oceans International</a>.
 
 I expected a few bottles and maybe a lost flip-flop. Not quite.

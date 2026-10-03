@@ -12,10 +12,9 @@ export interface Props {
   imageAlt?: string;
   affiliateProducts?: { name: string; url: string; store: 'amazon' | 'walmart'; description?: string }[];
   actionSteps?: string[];
-  inlineDisclosure?: boolean;
 }
 
-const { title, description, date, author, tags, image, imageAlt, affiliateProducts, actionSteps, inlineDisclosure } = Astro.props;
+const { title, description, date, author, tags, image, imageAlt, affiliateProducts, actionSteps } = Astro.props;
 
 const formattedDate = date.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -27,15 +26,6 @@ const formattedDate = date.toLocaleDateString('en-US', {
 
 <Layout title={title} description={description} image={image} type="article">
   <article class="max-w-3xl mx-auto px-6 py-12">
-
-    <!-- Affiliate disclosure notice (skipped when the article body has its own) -->
-    {!inlineDisclosure && (
-    <div class="mb-6 text-xs text-ink-muted bg-sky border border-sage rounded-lg px-4 py-3">
-      <strong class="text-forest">Disclosure:</strong> This post may contain affiliate links to Amazon and Walmart.
-      If you purchase through these links we earn a small commission at no extra cost to you.
-      <a href="/disclosure" class="underline hover:text-forest">Learn more.</a>
-    </div>
-    )}
 
     <!-- Header -->
     <header class="mb-8">
@@ -59,6 +49,11 @@ const formattedDate = date.toLocaleDateString('en-US', {
         <img src={image} alt={imageAlt ?? title} class="w-full h-72 object-cover" />
       </div>
     )}
+
+    <!-- Affiliate disclosure notice -->
+    <div class="mb-8 text-xs text-ink-muted bg-sky border border-sage rounded-lg px-4 py-3">
+      <p><em>Disclosure: This article includes affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. We only share things we use ourselves or would honestly point a friend to. The article comes first, always.</em></p>
+    </div>
 
     <!-- Article body -->
     <div class="prose prose-green prose-lg max-w-none">
