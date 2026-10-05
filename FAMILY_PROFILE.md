@@ -10,7 +10,7 @@ A family of four + one dog. Grew up in Latin America (Portuguese-speaking). Now 
 
 **The family:**
 - Two adults — the author and his wife
-- Two kids: **daughter, 14** and a **younger kid, 11**
+- Two kids: **daughter, 15** and a **younger kid, 12**
 - One dog
 
 **Background:** Both the author and his wife grew up in the countryside in Latin America, in communities shaped by European immigrants — people who brought old-world habits and never let go of them. Cooking happened on wood stoves. The garden produced much of what the family ate. There were animals in the yard. Shopping was sparse — you bought what you couldn't grow or make yourself, and not much else.
@@ -69,9 +69,9 @@ Still working on:
 
 ## The kids
 
-**Daughter, 14.** In high school. Active, goes through clothes fast. We've learned to balance: secondhand for things that wear out quickly, better quality when something needs to last.
+**Daughter, 15.** In high school. Active, goes through clothes fast. We've learned to balance: secondhand for things that wear out quickly, better quality when something needs to last.
 
-**Younger kid, 11.** In middle school. Has ownership of one herb plant in the windowsill garden — waters it, harvests it, uses it at dinner. That ownership changes how kids relate to food.
+**Younger kid, 12.** In middle school. Has ownership of one herb plant in the windowsill garden — waters it, harvests it, uses it at dinner. That ownership changes how kids relate to food.
 
 Both kids have grown up inside these habits and absorbed some of it without it being made into a project.
 
