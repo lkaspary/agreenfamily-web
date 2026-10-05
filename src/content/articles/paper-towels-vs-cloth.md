@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B07GX6TRQX/?tag=agreenfamily-20"
     store: "amazon"
     description: "Replaces 17 rolls of paper towels each, compostable when worn out"
-  - name: "Flour Sack Dish Towels (6 pack)"
-    url: "https://www.walmart.com/ip/Ruvanti-6-Pack-Extra-Large-Flour-Sack-Dish-Towels-28-X-28-Highly-Absorbent-Kitchen-Towels-Tea-100-Cotton-Multi-Purpose-Embroidery-Cleaning-Cloth-Dish/876235476"
-    store: "walmart"
-    description: "Lint-free, absorbent, machine washable — great for spills and drying"
 actionSteps:
   - "Get a pack of Swedish dishcloths and put one where your paper towels usually sit. Don't throw out the roll — just reach for the cloth first and see how quickly it becomes habit."
   - "Hang a small cloth towel by the sink for hand-drying. You'll be surprised how many paper towels that one change eliminates."

@@ -8,6 +8,15 @@ image: "/images/dirty-beach-cleanup.jpg"
 imageAlt: "A stretch of beach littered with plastic and trash."
 featured: false
 draft: false
+affiliateProducts:
+  - name: "Portable Pocket Ashtray"
+    url: "https://amzn.to/4hsuVl9"
+    store: "amazon"
+    description: "A small sealable case that puts out a cigarette and holds the butts until you find a bin"
+  - name: "Heavy-Duty Nitrile Gloves"
+    url: "https://amzn.to/4dDOeXI"
+    store: "amazon"
+    description: "All you really need for a cleanup, plus some trash bags"
 ---
 
 This week, instead of spending an afternoon in meetings, a group of us from work pulled on gloves, grabbed trash bags, and walked a stretch of beach with <a href="https://www.cleanoceansinternational.org/" target="_blank" rel="noopener noreferrer">Clean Oceans International</a>.

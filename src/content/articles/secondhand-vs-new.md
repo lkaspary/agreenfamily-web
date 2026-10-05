@@ -13,10 +13,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B06XNLWB3B/?tag=agreenfamily-20"
     store: "amazon"
     description: "For charity shop and market runs — foldable, sturdy"
-  - name: "Fabric Steamer"
-    url: "https://www.walmart.com/ip/Conair-Handheld-Garment-Steamer-for-Clothes-ExtremeSteam-1200W-Portable-Handheld-Design-White-Blue-GS237RXWM/588827857"
-    store: "walmart"
-    description: "Freshen and sanitise secondhand clothing and soft furnishings quickly"
 actionSteps:
   - "Before buying the next thing on your list — clothes, gear, books — check Facebook Marketplace first. It takes five minutes and you'll find what you need more often than you expect."
   - "Bag up the outgrown or unused things in your house, label them, and offer them to one family you know. That's the secondhand network starting — it comes back to you."

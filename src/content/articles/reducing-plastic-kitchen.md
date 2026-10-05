@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B005E2QRPG/?tag=agreenfamily-20"
     store: "amazon"
     description: "Lightweight bags for fruits and veggies — machine washable"
-  - name: "Glass Food Storage Set"
-    url: "https://www.walmart.com/ip/Anchor-Hocking-Glass-Food-Storage-Containers-with-Lids-30-Piece-Set/574359462"
-    store: "walmart"
-    description: "Replace plastic containers with airtight glass"
 actionSteps:
   - "Open the cabinet under your sink and count how many plastic bags are in it. That number is your starting point."
   - "Order mesh produce bags this week — they're the easiest, lowest-friction swap and you'll use them on your very next grocery run."

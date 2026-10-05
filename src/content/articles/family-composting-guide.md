@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B009378AG2/?tag=agreenfamily-20"
     store: "amazon"
     description: "Easy rotating bin — no pitchfork required"
-  - name: "Outdoor Compost Bin"
-    url: "https://www.walmart.com/ip/Redmon-65-Gallon-Black-Plastic-Compost-Bin-with-Air-Vents/20966191"
-    store: "walmart"
-    description: "Simple, budget-friendly outdoor bin"
 actionSteps:
   - "Put a bowl on your kitchen counter today and start collecting vegetable scraps. You don't need a bin yet — just start noticing what you throw away."
   - "Check if your city offers curbside compost pickup. Many do, and it's even easier than doing it yourself — your scraps go straight into the service's bins."

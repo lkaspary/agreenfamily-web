@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://amzn.to/4xZAJsU"
     store: "amazon"
     description: "Spare cylinders for the Terra, with a return program for empties"
-  - name: "Lakewood Organic Pure Lime Juice"
-    url: "https://amzn.to/4AGZdtz"
-    store: "amazon"
-    description: "Our backup when we're out of fresh limes; the only ingredient is lime juice"
 ---
 
 Last week I pressed the button on our SodaStream and got nothing. No buzz, no hiss, just a sad little puff and a bottle of flat tap water. Our first CO2 cylinder had run out.
@@ -33,7 +29,7 @@ What kept us away from SodaStream for so long was the flavors. Every syrup and f
 
 So I tried the simplest thing possible. Carbonate plain tap water, cut a lime, squeeze in a few wedges. It's fresh, a little tart, and I like it as much as anything in a can. The spent lime goes in the compost.
 
-On days when we're out of fresh limes, a bottle of **[Lakewood Organic Pure Lime Juice](https://amzn.to/4AGZdtz)** in the fridge does the job. The only ingredient is organic lime juice. Lemon, cucumber and mint, a few frozen berries, or a slice of fresh ginger all work too. (Add them after carbonating, not before.)
+On days when we're out of fresh limes, a bottle of **Lakewood Organic Pure Lime Juice** in the fridge does the job. The only ingredient is organic lime juice. Lemon, cucumber and mint, a few frozen berries, or a slice of fresh ginger all work too. (Add them after carbonating, not before.)
 
 ## The Can Is the Footprint
 

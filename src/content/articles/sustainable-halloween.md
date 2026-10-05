@@ -9,14 +9,6 @@ imageAlt: "A mother and three children in Halloween costumes and face paint on a
 featured: true
 draft: false
 affiliateProducts:
-  - name: "Touch of Eco Solar LED Halloween String Lights (68 ft, purple & orange)"
-    url: "https://www.walmart.com/ip/125-Solar-Powered-LED-Halloween-String-Lights-68-Feet-Purple-Orange/508353276"
-    store: "walmart"
-    description: "Solar-powered, weatherproof outdoor lights that pack away and reuse for years — no outlet or batteries"
-  - name: "FUNPENY Animated Pumpkin Candy Holder"
-    url: "https://www.amazon.com/FUNPENY-Halloween-Animated-Activated-Treaters/dp/B094FK5N65/?tag=agreenfamily-20"
-    store: "amazon"
-    description: "Motion-activated candy bowl with lights and sound — a buy-once item that becomes a yearly tradition"
   - name: "Needzo Animatronic Skeleton Hand Candy Bowl"
     url: "https://www.amazon.com/Needzo-Animatronic-Halloween-Activated-Skeleton/dp/B0DG9QT9V8/?tag=agreenfamily-20"
     store: "amazon"
@@ -25,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/Halloween-Reusable-Cartoon-Supplies-Shopping/dp/B08K2XG2WF/?tag=agreenfamily-20"
     store: "amazon"
     description: "Machine-washable canvas totes that replace flimsy plastic buckets and fold flat for storage"
-  - name: "Halloween Canvas Bags with Handles (2-pack)"
-    url: "https://www.walmart.com/ip/Halloween-Canvas-Bags-with-Handles-Canvas-Trick-or-Treat-Bags-Halloween-Tote-Bags-for-Kids-19-x-14-inch-Pumpkin-2PC/239332359"
-    store: "walmart"
-    description: "Larger canvas trick-or-treat totes big enough for a full candy haul"
 actionSteps:
   - "Before buying anything new this year, ask one question about each item: will this still be good next October? Invest in the yeses, get creative with the noes."
   - "Swap disposable plastic candy buckets and glow-stick string lights for canvas totes and a solar LED set — both pay for themselves by year two."
@@ -64,7 +52,7 @@ Not everything deserves a bigger investment. But some Halloween categories have 
 
 This is probably the single best place to spend a little more. A decent set of solar-powered LED string lights — orange, purple, warm white, whatever your vibe — will run for years with zero electricity cost and no wiring hassle. We found some good options at both Amazon and Walmart in the $15–30 range that are weatherproof and have multiple modes (steady, flicker, chase).
 
-Walmart carries the [Touch Of Eco Solar LED Halloween String Lights](https://www.walmart.com/ip/125-Solar-Powered-LED-Halloween-String-Lights-68-Feet-Purple-Orange/508353276) — 68 feet of purple and orange LEDs, solar-powered, weatherproof. Amazon has similar options from multiple brands. The key things to look for: waterproof rating (IP65 or higher), solar panel quality, and a black wire that disappears against tree branches and gutters.
+One example is the Touch Of Eco Solar LED Halloween String Lights — 68 feet of purple and orange LEDs, solar-powered, weatherproof. Plenty of brands make similar sets. The key things to look for: waterproof rating (IP65 or higher), solar panel quality, and a black wire that disappears against tree branches and gutters.
 
 Compare that to buying disposable string lights or glow sticks every year. The solar set pays for itself by year two, works without an outlet, and you toss it in a box every November.
 
@@ -80,7 +68,7 @@ For kids who want something different every year — and they will — the susta
 
 ### The Animated Candy Bowl
 
-Okay, this one is partly just because our kids love it, but the motion-activated candy bowls with a skeleton hand or lunging head are genuinely a buy-once item that becomes a household tradition. Amazon has several versions — the [FUNPENY Animated Pumpkin Candy Holder](https://www.amazon.com/FUNPENY-Halloween-Animated-Activated-Treaters/dp/B094FK5N65/?tag=agreenfamily-20) and the [Needzo Animatronic Skeleton Candy Bowl](https://www.amazon.com/Needzo-Animatronic-Halloween-Activated-Skeleton/dp/B0DG9QT9V8/?tag=agreenfamily-20) both run on batteries, have motion sensors and sound effects, and are built to last multiple seasons. They run $20–35 and replace the need to buy a new candy display setup every year.
+Okay, this one is partly just because our kids love it, but the motion-activated candy bowls with a skeleton hand or lunging head are genuinely a buy-once item that becomes a household tradition. Amazon has several versions — the FUNPENY Animated Pumpkin Candy Holder and the [Needzo Animatronic Skeleton Candy Bowl](https://www.amazon.com/Needzo-Animatronic-Halloween-Activated-Skeleton/dp/B0DG9QT9V8/?tag=agreenfamily-20) both run on batteries, have motion sensors and sound effects, and are built to last multiple seasons. They run $20–35 and replace the need to buy a new candy display setup every year.
 
 The trick-or-treaters love them, the bowl itself is reusable forever, and they turn candy distribution into an event instead of a chore.
 
@@ -88,7 +76,7 @@ The trick-or-treaters love them, the bowl itself is reusable forever, and they t
 
 This is such an easy swap it's almost embarrassing we didn't do it sooner. Those thin plastic pumpkin buckets and flimsy bags that crack or tear mid-route? Replace them once with canvas tote bags and you're done for years.
 
-Amazon has packs of [reusable canvas trick-or-treat bags](https://www.amazon.com/Halloween-Reusable-Cartoon-Supplies-Shopping/dp/B08K2XG2WF/?tag=agreenfamily-20) with Halloween designs for around $8–12 for a four-pack. Walmart carries [canvas bags with handles](https://www.walmart.com/ip/Halloween-Canvas-Bags-with-Handles-Canvas-Trick-or-Treat-Bags-Halloween-Tote-Bags-for-Kids-19-x-14-inch-Pumpkin-2PC/239332359) that are big enough to hold a serious candy haul. They fold flat for storage, they're machine washable, and they actually hold more candy than those plastic buckets ever did — which the kids figured out immediately.
+Amazon has packs of [reusable canvas trick-or-treat bags](https://www.amazon.com/Halloween-Reusable-Cartoon-Supplies-Shopping/dp/B08K2XG2WF/?tag=agreenfamily-20) with Halloween designs for around $8–12 for a four-pack. Pick ones big enough to hold a serious candy haul. They fold flat for storage, they're machine washable, and they actually hold more candy than those plastic buckets ever did — which the kids figured out immediately.
 
 ## Where Getting Creative Beats Buying Anything
 

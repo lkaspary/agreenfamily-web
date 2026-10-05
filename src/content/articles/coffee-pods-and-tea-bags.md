@@ -8,6 +8,15 @@ image: "/images/coffee-pods-tea-bags.jpg"
 imageAlt: "A pile of used coffee pods, paper coffee cups, and tea bags dumped with other trash in dirt and dry leaves."
 featured: false
 draft: false
+affiliateProducts:
+  - name: "Philips 5500 Series Fully Automatic Espresso Machine"
+    url: "https://www.amazon.com/dp/B0DBHTL3CN?tag=agreenfamily-20"
+    store: "amazon"
+    description: "The machine we bought during the pandemic and still use every day"
+  - name: "Full Leaf Tea Company Loose-Leaf Tea"
+    url: "https://www.amazon.com/dp/B086T663Q5?tag=agreenfamily-20"
+    store: "amazon"
+    description: "Our favorite loose-leaf tea, whole leaves instead of tea bags"
 ---
 
 During the pandemic, like a lot of families stuck at home, we bought an espresso machine. We never went back. That one purchase quietly replaced the Nespresso capsules and a whole lot of trips to Starbucks, along with all the paper cups, plastic lids, and cardboard sleeves that came with them.
@@ -60,9 +69,9 @@ We also buy our beans in bigger bags, which means less packaging per cup than po
 
 The Philips is an investment, and not every family wants to spend that much on coffee. Here are some cheaper ways to get the same no-pod coffee:
 
-- **A French press.** Low cost, no paper filters, no pods, and it lasts forever. A classic <a href="https://www.amazon.com/dp/B00008XEWG?tag=agreenfamily-20" target="_blank" rel="sponsored noopener">Bodum Chambord French press</a> is what a lot of people start with.
-- **An entry-level espresso machine.** If you want real espresso without the full automatic price tag, the <a href="https://www.amazon.com/dp/B08C96BG9H?tag=agreenfamily-20" target="_blank" rel="sponsored noopener">De'Longhi Stilosa</a> is a well-reviewed budget pick. It takes a bit more hands-on work since you grind and tamp yourself (or buy ground espresso), but it makes a proper shot.
-- **Already own a pod machine?** Don't throw it out. That would just create a different kind of waste. A <a href="https://www.amazon.com/dp/B07SMMH8G7?tag=agreenfamily-20" target="_blank" rel="sponsored noopener">reusable refillable pod filter</a> lets you use your own coffee in the machine you already have.
+- **A French press.** Low cost, no paper filters, no pods, and it lasts forever. A classic Bodum Chambord French press is what a lot of people start with.
+- **An entry-level espresso machine.** If you want real espresso without the full automatic price tag, the De'Longhi Stilosa is a well-reviewed budget pick. It takes a bit more hands-on work since you grind and tamp yourself (or buy ground espresso), but it makes a proper shot.
+- **Already own a pod machine?** Don't throw it out. That would just create a different kind of waste. A reusable refillable pod filter lets you use your own coffee in the machine you already have.
 
 ## Now About Tea
 
@@ -82,9 +91,9 @@ Some brands have moved to plastic-free bags, which is great. But the simplest fi
 
 A few years ago we switched to loose-leaf tea, and our favorite is the <strong><a href="https://www.amazon.com/dp/B086T663Q5?tag=agreenfamily-20" target="_blank" rel="sponsored noopener">Full Leaf Tea Company</a></strong>. Their teas come as whole leaves instead of the dust-and-fannings that end up in most bags. You can actually taste the difference. Whole leaves unfold as they steep, and you can usually get two or three steepings out of the same leaves.
 
-To brew it, we use <strong><a href="https://www.amazon.com/dp/B07Y7P4KSP?tag=agreenfamily-20" target="_blank" rel="sponsored noopener">reusable silicone tea bags</a></strong>. You scoop in the leaves, drop the bag into your mug, and pull it out when it's ready. Afterward the used leaves go into the compost, the silicone bag gets a quick rinse, and that's it. They're reusable for years.
+To brew it, we use <strong>reusable silicone tea bags</strong>. You scoop in the leaves, drop the bag into your mug, and pull it out when it's ready. Afterward the used leaves go into the compost, the silicone bag gets a quick rinse, and that's it. They're reusable for years.
 
-A note on silicone: it isn't the same as the polypropylene or nylon in tea bags. Food-grade silicone is made to handle high heat and is far sturdier than the thin plastic mesh in tea bags, though research on what any material sheds in hot water is still young. If you'd rather avoid it, a <a href="https://www.amazon.com/dp/B079BJNM8D?tag=agreenfamily-20" target="_blank" rel="sponsored noopener">stainless steel mesh infuser</a> works just as well.
+A note on silicone: it isn't the same as the polypropylene or nylon in tea bags. Food-grade silicone is made to handle high heat and is far sturdier than the thin plastic mesh in tea bags, though research on what any material sheds in hot water is still young. If you'd rather avoid it, a stainless steel mesh infuser works just as well.
 
 Loose-leaf tea is also cheaper per cup than you'd expect, especially since the leaves can be steeped more than once. And because a bag of whole leaves lasts us a long time, we're ordering less often, which means fewer packages making the trip to our door.
 

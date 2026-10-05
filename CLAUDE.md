@@ -88,7 +88,7 @@ draft: false
 affiliateProducts:
   - name: "Product Name"
     url: "https://amzn.to/XXXXX"   # replace PLACEHOLDER when affiliate approved
-    store: "amazon"                 # or "walmart"
+    store: "amazon"                 # Amazon only for now (schema still allows "walmart")
     description: "one line"
 ---
 ```
@@ -97,10 +97,14 @@ affiliateProducts:
 
 ## Current content
 
-3 articles published (sample content, affiliate links are PLACEHOLDERs):
-1. `reducing-plastic-kitchen.md` — featured
-2. `family-composting-guide.md` — featured
-3. `eco-school-supplies.md` — featured
+23 articles published in `src/content/articles/`.
+
+### Affiliate link rules (since Oct 2026)
+
+- **Amazon only.** No Walmart links until the Walmart affiliate application is approved.
+- **At most 2 products per article**, listed in `affiliateProducts`. Articles that recommend nothing have no list.
+- **The product box and the text must match.** Every Amazon link in the article text must use the same URL as a product in that article's `affiliateProducts`. Other products can be named in the text, but without a link.
+- Links must carry the `agreenfamily-20` tag (amazon.com `?tag=` links or amzn.to short links).
 
 **Known issue:** article `image:` paths point to files that don't exist yet in `public/images/`. Either remove the image field or add real photos from Unsplash/Pexels.
 
@@ -117,7 +121,7 @@ affiliateProducts:
 
 - Amazon Associates: **APPROVED** ✅ (approved as of May 2026)
 - Walmart Affiliate: NOT YET APPLIED
-- Affiliate links in articles: Amazon links are live; Walmart links still need updating once approved
+- Affiliate links in articles: Amazon links are live; all Walmart links were removed in Oct 2026 (see affiliate link rules above)
 
 ## Traffic (last updated May 25, 2026)
 
@@ -133,7 +137,7 @@ Cloudflare Analytics — 30-day window (Apr 25 – May 25):
 ## What's next (in order)
 
 1. Fix broken article images — download from Unsplash/Pexels into `public/images/`
-2. Keep publishing — at 15 articles now, target 30+ for SEO traction (briefs in `LAUNCH_STATUS.md`)
+2. Keep publishing — at 23 articles now, target 30+ for SEO traction (briefs in `LAUNCH_STATUS.md`)
 3. Apply to Walmart Affiliate — https://affiliates.walmart.com
 4. Set up Beehiiv newsletter + Web3Forms key in NewsletterSignup.astro
 5. Instagram @agreenfamily — active but low engagement; improve social strategy (carousel format, hooks)

@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B0CCB7DH4C/?tag=agreenfamily-20"
     store: "amazon"
     description: "Refillable glass bottles with silicone sleeves — make your own all-purpose cleaner and refill indefinitely"
-  - name: "Arm & Hammer Baking Soda (5 lb)"
-    url: "https://www.walmart.com/ip/Arm-Hammer-Pure-Baking-Soda-5-lb/10315766"
-    store: "walmart"
-    description: "Bulk baking soda for scrubbing, deodorising, and cleaning — far cheaper than specialised products"
 actionSteps:
   - "When your current all-purpose cleaner runs out, replace it with one teaspoon of castile soap in a spray bottle of water. That's the recipe — and it cleans every surface in your kitchen."
   - "Don't clear out your cleaning cabinet all at once. Replace each product as it runs out. The transition takes a few months and you end up with three things that work better than twelve."
