@@ -65,7 +65,7 @@ For us, this means avoiding plastic packaging where there's a reasonable alterna
 
 **For sauces, jams, condiments:** Buy glass when you'll reuse the jar. If the jar just goes in the recycling, the weight advantage of a can may actually be better.
 
-**For dry goods:** Buying in bulk with your own container beats all packaging — no manufacturing, no waste, and usually cheaper per unit. We buy loose-leaf tea this way. It comes with minimal packaging, and here's where the container question gets interesting: we store it in metal tins rather than glass, because tea is sensitive to light and tins seal better for keeping the aroma in. Glass is the right answer for most dry goods — rice, beans, dried chiles, spices — but for tea, the tin wins. We've had the same three tins for years.
+**For dry goods:** Buying in bulk with your own container beats all packaging — no manufacturing, no waste, and usually cheaper per unit. We buy loose-leaf tea this way, from [Full Leaf Tea Company](https://fullleafteacompany.com). We don't earn a commission from them; we just like their tea. It comes with minimal packaging, and here's where the container question gets interesting: we store it in metal tins rather than glass, because tea is sensitive to light and tins seal better for keeping the aroma in. Glass is the right answer for most dry goods — rice, beans, dried chiles, spices — but for tea, the tin wins. We've had the same three tins for years.
 
 **For produce:** Loose, without packaging, is always better. We bring our own bags to the market.
 

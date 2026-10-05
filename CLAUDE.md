@@ -104,6 +104,8 @@ affiliateProducts:
 - **Amazon only.** No Walmart links until the Walmart affiliate application is approved.
 - **At most 2 products per article**, listed in `affiliateProducts`. Articles that recommend nothing have no list.
 - **No affiliate links in the article text.** Products live only in the "What we use" box at the end. The text can name something we actually use, plainly and once, but never links to it.
+- Links must carry the `agreenfamily-20` tag (amazon.com `?tag=` links or amzn.to short links).
+- **Non-affiliate brands we like** (e.g. Full Leaf Tea Company, where we have no affiliate deal) can be linked to their own site in the text, with a short note that we don't earn a commission from them. Never add an affiliate tag to these.
 
 ### Editorial tone (since Oct 2026)
 
@@ -113,7 +115,6 @@ Articles are about habits, not products. When writing or editing:
 - Prefer the free or already-owned option first (reuse, thrift, swap, DIY), and buying something last.
 - Cost comparisons of a habit are fine (e.g. "a latte costs $6, homemade is $1").
 - No in-article affiliate disclaimers; the layout shows one under every article's hero.
-- Links must carry the `agreenfamily-20` tag (amazon.com `?tag=` links or amzn.to short links).
 
 **Known issue:** article `image:` paths point to files that don't exist yet in `public/images/`. Either remove the image field or add real photos from Unsplash/Pexels.
 

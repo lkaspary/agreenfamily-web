@@ -85,7 +85,7 @@ Some brands have moved to plastic-free bags, which is great. But the simplest fi
 
 ## Skipping the Bag: Loose-Leaf Tea
 
-A few years ago we switched to loose-leaf tea, and our favorite is the Full Leaf Tea Company. Their teas come as whole leaves instead of the dust-and-fannings that end up in most bags. You can actually taste the difference. Whole leaves unfold as they steep, and you can usually get two or three steepings out of the same leaves.
+A few years ago we switched to loose-leaf tea, and our favorite is the <a href="https://fullleafteacompany.com" target="_blank" rel="noopener noreferrer">Full Leaf Tea Company</a>. (We don't earn a commission from them. We just like their tea.) Their teas come as whole leaves instead of the dust-and-fannings that end up in most bags. You can actually taste the difference. Whole leaves unfold as they steep, and you can usually get two or three steepings out of the same leaves.
 
 To brew it, we use reusable silicone tea bags. You scoop in the leaves, drop the bag into your mug, and pull it out when it's ready. Afterward the used leaves go into the compost, the silicone bag gets a quick rinse, and that's it. They're reusable for years.
 
