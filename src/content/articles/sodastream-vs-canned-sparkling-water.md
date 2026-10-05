@@ -1,6 +1,6 @@
 ---
 title: "Our SodaStream Ran Out of Gas, So I Finally Did the Math on Cans vs. Bubbles at Home"
-description: "We still love Spindrift, but a SodaStream and a few squeezes of lime have replaced about half our canned sparkling water. Here's what that means for energy, garbage, and cost, plus other sparkling water makers worth knowing about."
+description: "We still love Spindrift, but a SodaStream and a few squeezes of lime have replaced about half our canned sparkling water. Here's what that means for energy, garbage, and cost, plus how to keep the cylinder refilled."
 date: 2026-10-02
 author: "A Green Family"
 tags: ["kitchen", "sparkling water", "recycling", "waste", "swaps"]
