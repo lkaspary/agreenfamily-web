@@ -57,7 +57,7 @@ We use a simple three-pot self-watering planter on the windowsill. Nothing fancy
 
 If your kitchen doesn't get much direct sun, a small grow light makes a real difference. We added one last winter and it extended our growing season through the cold months. The plants don't know it's not summer.
 
-For people who want zero maintenance, the AeroGarden system is genuinely impressive. It's hydroponic — no soil — and comes with pre-seeded pods, a built-in light on a timer, and a water level sensor. My sister-in-law has one and it basically runs itself.
+If you want something closer to zero maintenance, my sister-in-law grows hers in an AeroGarden, an indoor hydroponic setup with its own light. It basically runs itself.
 
 ## How to harvest without killing the plant
 

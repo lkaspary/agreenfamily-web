@@ -31,7 +31,7 @@ We now clean the entire house with three things. This isn't minimalism as a life
 
 ## The three things
 
-**Castile soap.** This is the workhorse. It's a plant-based soap concentrate — originally made with olive oil, now usually a blend of oils — that cleans almost everything. We use Dr. Bronner's, which is widely available and what we've always come back to after trying other brands. The 32-ounce bottle lasts us months because it's concentrated: a few drops of castile soap in a spray bottle of water cleans counters. A small squeeze on a cloth cleans the stovetop. A diluted mix in a mop bucket cleans floors. It works on dishes, on hands, on the outside of appliances. One bottle.
+**Castile soap.** This is the workhorse. It's a plant-based soap concentrate — originally made with olive oil, now usually a blend of oils — that cleans almost everything. We use Dr. Bronner's. A 32-ounce bottle lasts us months because it's concentrated: a few drops of castile soap in a spray bottle of water cleans counters. A small squeeze on a cloth cleans the stovetop. A diluted mix in a mop bucket cleans floors. It works on dishes, on hands, on the outside of appliances. One bottle.
 
 **White vinegar.** Disinfects, cuts grease, removes mineral deposits, and cleans glass streak-free. We keep a spray bottle with equal parts vinegar and water and use it for anything castile soap isn't the right fit for — windows, mirrors, the inside of the microwave, the coffee maker. The smell disappears as it dries. Don't use it on stone surfaces (granite, marble) — it's acidic and will dull the finish over time.
 
@@ -65,7 +65,7 @@ The packaging waste reduction is significant for a family that used to go throug
 
 ## The money side
 
-A 32oz bottle of Dr. Bronner's costs around $15 and lasts our family at least three months, replacing what we used to spend on multiple specialised cleaners. A gallon of white vinegar is around $3. A 5-pound bag of baking soda is about $5. Annual spend for all three: somewhere around $60-70 for the whole house, compared with considerably more for a cabinet full of single-purpose products.
+A 32oz bottle of castile soap costs around $15 and lasts our family at least three months, replacing what we used to spend on multiple specialised cleaners. A gallon of white vinegar is around $3. A 5-pound bag of baking soda is about $5. Annual spend for all three: somewhere around $60-70 for the whole house, compared with considerably more for a cabinet full of single-purpose products.
 
 None of this required us to change how we clean. Just what we clean with.
 

@@ -65,6 +65,14 @@ For us, this means avoiding plastic packaging where there's a reasonable alterna
 
 **For sauces, jams, condiments:** Buy glass when you'll reuse the jar. If the jar just goes in the recycling, the weight advantage of a can may actually be better.
 
-**For dry goods:** Buying in bulk with your own container beats all packaging — no manufacturing, no waste, and usually cheaper per unit. We buy loose-leaf tea this way, from [Full Leaf Tea Company](https://fullleafteacompany.com) — genuinely one of the things I'd recommend to anyone without needing an affiliate link to make me say it, which is good because I don't have one (they have no idea I exist). The tea comes with minimal packaging and here's where the container question gets interesting: we store it in metal tins rather than glass, because tea is sensitive to light and tins seal better for keeping the aroma in. Glass is the right answer for most dry goods — rice, beans, dried chiles, spices — but for tea, the tin wins. We've had the same three tins for years.
+**For dry goods:** Buying in bulk with your own container beats all packaging — no manufacturing, no waste, and usually cheaper per unit. We buy loose-leaf tea this way. It comes with minimal packaging, and here's where the container question gets interesting: we store it in metal tins rather than glass, because tea is sensitive to light and tins seal better for keeping the aroma in. Glass is the right answer for most dry goods — rice, beans, dried chiles, spices — but for tea, the tin wins. We've had the same three tins for years.
 
-**For produce:**
+**For produce:** Loose, without packaging, is always better. We bring our own bags to the market.
+
+## The thing that actually helped us most
+
+Thinking less about the packaging and more about what we're buying. When we cook from scratch — which we do most days — we're buying raw ingredients with minimal packaging. A head of garlic. A bunch of cilantro. Dried beans. Rice. Onions. None of these come in complicated packaging.
+
+The packaged food problem gets worse the more processed the food is. The more we cook, the less we deal with the packaging question at all.
+
+That said — we're a real family, not a food blog. There are cans in our pantry and plastic in our recycling bin. The goal is better, not perfect, and understanding the real trade-offs helps us make better decisions most of the time.

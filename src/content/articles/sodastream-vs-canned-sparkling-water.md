@@ -65,22 +65,13 @@ If you're staring at an empty cylinder like we were:
 - **Check which kind you have.** Newer machines like the Terra use the **pink Quick Connect** cylinder. Older ones use the **blue screw-in** cylinder. They aren't interchangeable.
 - **Swap it in store.** Target, Walmart, and many grocery and hardware stores will exchange an empty cylinder for a full one at the exchange price.
 - **Or swap it by mail.** SodaStream's online exchange ships a full cylinder with a prepaid label for the empty. Send it back within 60 days or they charge an extra fee.
-- **Or swap it through Amazon.** SodaStream's [two-pack of Quick Connect cylinders](https://amzn.to/4xZAJsU) on Amazon comes with a return program for your empties (at the time of writing, returning them earns an Amazon gift card).
 - **Keep a spare.** With two cylinders, one is always full. We're adding a second so we never get caught with flat water again.
 
 ![A sparkling water maker on a kitchen counter next to fresh limes and a glass of sparkling water](/images/sodastream/sparkling-water-maker.jpg)
 
-Ours is the **[SodaStream Terra](https://amzn.to/4xVfDM3)**, the simplest model they make: no electricity, just a button you press a few times depending on how fizzy you like it. Its bottles are reusable plastic. If you'd rather avoid plastic, SodaStream's Duo model also takes glass carafes.
+Ours is the Terra, the simplest model they make: no electricity, just a button you press a few times depending on how fizzy you like it. Its bottles are reusable plastic. If you'd rather avoid plastic, SodaStream's Duo model also takes glass carafes.
 
-## Other Machines We Haven't Tried
-
-These are worth a look, not recommendations, since we haven't used them:
-
-- **Aarke Carbonator 3.** Stainless steel, beautiful on the counter, consistently well reviewed. Uses screw-in cylinders.
-- **Philips Sparkling Water Maker.** Another stainless steel option. Our espresso machine is a Philips, so I'm curious.
-- **Drinkmate.** It can carbonate juice or iced tea directly, not just water.
-- **Ninja Thirsti.** Electric, with adjustable fizz, but its flavors come in single-use pods, which defeats the point for us.
-- **Spärkel.** No CO2 cylinder. It makes bubbles from single-use sachets, so you trade the cylinder for a little bit of trash every time.
+Whatever machine you look at, the one thing we'd avoid is anything that runs on single-use flavor pods or sachets. That just trades the can for a different piece of trash.
 
 And if a machine isn't for you, buying cans and actually rinsing and recycling every one still beats the national average by a mile.
 

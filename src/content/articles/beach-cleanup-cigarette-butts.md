@@ -45,13 +45,13 @@ So each of those 200 butts was a tiny packet of plastic and chemicals headed for
 
 I get why people don't drop a cigarette butt straight into a trash can. It might still be burning, and nobody wants to start a fire in a bin. At the beach, there often isn't a trash can nearby anyway.
 
-But there are solutions. I found out Amazon sells <a href="https://amzn.to/4hsuVl9" target="_blank" rel="sponsored noopener noreferrer">pocket ashtrays</a> — small, sealable cases that put out the cigarette and hold a few butts until you get somewhere you can throw them away. They're inexpensive and fit in a pocket or purse.
+But there are solutions. I found out there are pocket ashtrays — small, sealable cases that put out the cigarette and hold a few butts until you get somewhere you can throw them away. They're inexpensive and fit in a pocket or purse.
 
 If you smoke, or someone in your life does, it's a small swap. No judgment here — just a real, easy option.
 
 ## You Don't Need Much to Help
 
-The barrier to doing this is basically zero. All you need is a <a href="https://amzn.to/4dDOeXI" target="_blank" rel="sponsored noopener noreferrer">pair of gloves</a> and some trash bags. That's it.
+The barrier to doing this is basically zero. All you need is a pair of gloves and some trash bags. That's it.
 
 Clean Oceans International runs <a href="https://www.cleanoceansinternational.org/community-cleanups.html" target="_blank" rel="noopener noreferrer">community cleanups</a>, and groups can even <a href="https://www.cleanoceansinternational.org/beach-adoption.html" target="_blank" rel="noopener noreferrer">adopt a beach</a>. If your employer offers volunteer time, this is a great way to use it. If you have kids, bring them — they're great at spotting the tiny stuff.
 

@@ -103,7 +103,16 @@ affiliateProducts:
 
 - **Amazon only.** No Walmart links until the Walmart affiliate application is approved.
 - **At most 2 products per article**, listed in `affiliateProducts`. Articles that recommend nothing have no list.
-- **The product box and the text must match.** Every Amazon link in the article text must use the same URL as a product in that article's `affiliateProducts`. Other products can be named in the text, but without a link.
+- **No affiliate links in the article text.** Products live only in the "What we use" box at the end. The text can name something we actually use, plainly and once, but never links to it.
+
+### Editorial tone (since Oct 2026)
+
+Articles are about habits, not products. When writing or editing:
+- Lead with the habit and the reason for it. A product is at most "here's what we happen to use", never the point of a section.
+- No buying-guide content: no "Amazon has...", no store recommendations for products, no product price ranges, no spec checklists, no lists of products we haven't tried.
+- Prefer the free or already-owned option first (reuse, thrift, swap, DIY), and buying something last.
+- Cost comparisons of a habit are fine (e.g. "a latte costs $6, homemade is $1").
+- No in-article affiliate disclaimers; the layout shows one under every article's hero.
 - Links must carry the `agreenfamily-20` tag (amazon.com `?tag=` links or amzn.to short links).
 
 **Known issue:** article `image:` paths point to files that don't exist yet in `public/images/`. Either remove the image field or add real photos from Unsplash/Pexels.
