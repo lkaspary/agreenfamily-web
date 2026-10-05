@@ -1,6 +1,6 @@
 ---
 title: "Our SodaStream Ran Out of Gas, So I Finally Did the Math on Cans vs. Bubbles at Home"
-description: "We still love Spindrift, but a SodaStream and a few squeezes of lime have replaced about half our canned sparkling water. Here's what that means for energy, garbage, and cost, plus other sparkling water makers worth knowing about."
+description: "We still love Spindrift, but a SodaStream and a few squeezes of lime have replaced about half our canned sparkling water. Here's what that means for energy, garbage, and cost, plus how to keep the cylinder refilled."
 date: 2026-10-02
 author: "A Green Family"
 tags: ["kitchen", "sparkling water", "recycling", "waste", "swaps"]
@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://amzn.to/4xZAJsU"
     store: "amazon"
     description: "Spare cylinders for the Terra, with a return program for empties"
-  - name: "Lakewood Organic Pure Lime Juice"
-    url: "https://amzn.to/4AGZdtz"
-    store: "amazon"
-    description: "Our backup when we're out of fresh limes; the only ingredient is lime juice"
 ---
 
 Last week I pressed the button on our SodaStream and got nothing. No buzz, no hiss, just a sad little puff and a bottle of flat tap water. Our first CO2 cylinder had run out.
@@ -33,7 +29,7 @@ What kept us away from SodaStream for so long was the flavors. Every syrup and f
 
 So I tried the simplest thing possible. Carbonate plain tap water, cut a lime, squeeze in a few wedges. It's fresh, a little tart, and I like it as much as anything in a can. The spent lime goes in the compost.
 
-On days when we're out of fresh limes, a bottle of **[Lakewood Organic Pure Lime Juice](https://amzn.to/4AGZdtz)** in the fridge does the job. The only ingredient is organic lime juice. Lemon, cucumber and mint, a few frozen berries, or a slice of fresh ginger all work too. (Add them after carbonating, not before.)
+On days when we're out of fresh limes, a bottle of **Lakewood Organic Pure Lime Juice** in the fridge does the job. The only ingredient is organic lime juice. Lemon, cucumber and mint, a few frozen berries, or a slice of fresh ginger all work too. (Add them after carbonating, not before.)
 
 ## The Can Is the Footprint
 
@@ -69,22 +65,13 @@ If you're staring at an empty cylinder like we were:
 - **Check which kind you have.** Newer machines like the Terra use the **pink Quick Connect** cylinder. Older ones use the **blue screw-in** cylinder. They aren't interchangeable.
 - **Swap it in store.** Target, Walmart, and many grocery and hardware stores will exchange an empty cylinder for a full one at the exchange price.
 - **Or swap it by mail.** SodaStream's online exchange ships a full cylinder with a prepaid label for the empty. Send it back within 60 days or they charge an extra fee.
-- **Or swap it through Amazon.** SodaStream's [two-pack of Quick Connect cylinders](https://amzn.to/4xZAJsU) on Amazon comes with a return program for your empties (at the time of writing, returning them earns an Amazon gift card).
 - **Keep a spare.** With two cylinders, one is always full. We're adding a second so we never get caught with flat water again.
 
 ![A sparkling water maker on a kitchen counter next to fresh limes and a glass of sparkling water](/images/sodastream/sparkling-water-maker.jpg)
 
-Ours is the **[SodaStream Terra](https://amzn.to/4xVfDM3)**, the simplest model they make: no electricity, just a button you press a few times depending on how fizzy you like it. Its bottles are reusable plastic. If you'd rather avoid plastic, SodaStream's Duo model also takes glass carafes.
+Ours is the Terra, the simplest model they make: no electricity, just a button you press a few times depending on how fizzy you like it. Its bottles are reusable plastic. If you'd rather avoid plastic, SodaStream's Duo model also takes glass carafes.
 
-## Other Machines We Haven't Tried
-
-These are worth a look, not recommendations, since we haven't used them:
-
-- **Aarke Carbonator 3.** Stainless steel, beautiful on the counter, consistently well reviewed. Uses screw-in cylinders.
-- **Philips Sparkling Water Maker.** Another stainless steel option. Our espresso machine is a Philips, so I'm curious.
-- **Drinkmate.** It can carbonate juice or iced tea directly, not just water.
-- **Ninja Thirsti.** Electric, with adjustable fizz, but its flavors come in single-use pods, which defeats the point for us.
-- **Spärkel.** No CO2 cylinder. It makes bubbles from single-use sachets, so you trade the cylinder for a little bit of trash every time.
+Whatever machine you look at, the one thing we'd avoid is anything that runs on single-use flavor pods or sachets. That just trades the can for a different piece of trash.
 
 And if a machine isn't for you, buying cans and actually rinsing and recycling every one still beats the national average by a mile.
 

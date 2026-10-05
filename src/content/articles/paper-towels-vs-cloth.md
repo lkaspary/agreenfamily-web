@@ -17,12 +17,8 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B07GX6TRQX/?tag=agreenfamily-20"
     store: "amazon"
     description: "Replaces 17 rolls of paper towels each, compostable when worn out"
-  - name: "Flour Sack Dish Towels (6 pack)"
-    url: "https://www.walmart.com/ip/Ruvanti-6-Pack-Extra-Large-Flour-Sack-Dish-Towels-28-X-28-Highly-Absorbent-Kitchen-Towels-Tea-100-Cotton-Multi-Purpose-Embroidery-Cleaning-Cloth-Dish/876235476"
-    store: "walmart"
-    description: "Lint-free, absorbent, machine washable — great for spills and drying"
 actionSteps:
-  - "Get a pack of Swedish dishcloths and put one where your paper towels usually sit. Don't throw out the roll — just reach for the cloth first and see how quickly it becomes habit."
+  - "Put a cloth where your paper towels usually sit. Don't throw out the roll — just reach for the cloth first and see how quickly it becomes habit."
   - "Hang a small cloth towel by the sink for hand-drying. You'll be surprised how many paper towels that one change eliminates."
   - "Keep one paper towel roll in the cabinet for things you genuinely don't want to put a cloth through. The goal is less, not zero — and the roll will last three months instead of two weeks."
 ---
@@ -67,4 +63,4 @@ We probably saved $120–130 in the first year just on paper towels. The cloths 
 
 But honestly the money isn't even why I prefer it now. It's that the kitchen just functions better. The cloths work better than paper towels for most tasks. The Swedish dishcloths in particular are remarkable — I don't know why these aren't more well-known.
 
-If you cook as much as we do, this is one of the easiest switches you can make. Pick one
+If you cook as much as we do, this is one of the easiest switches you can make. Pick one thing — start with the Swedish dishcloths — and see how you feel after a month.

@@ -13,14 +13,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B07CKK8Z78/?tag=agreenfamily-20"
     store: "amazon"
     description: "Self-watering indoor herb garden with grow light — no soil needed"
-  - name: "Herb Starter Seed Kit (6 varieties)"
-    url: "https://www.amazon.com/dp/B07GH8XFG6/?tag=agreenfamily-20"
-    store: "amazon"
-    description: "Basil, parsley, chives, cilantro, dill, and thyme — non-GMO seeds"
-  - name: "Self-Watering Herb Planter (3-pot)"
-    url: "https://www.walmart.com/ip/3-5-Aquaphoric-Self-Watering-Mini-Planter-3-Pack-Purple/428576628"
-    store: "walmart"
-    description: "Compact windowsill planter with built-in water reservoir"
   - name: "Indoor Grow Light for Plants"
     url: "https://www.amazon.com/dp/B085CDPSMR/?tag=agreenfamily-20"
     store: "amazon"
@@ -65,7 +57,7 @@ We use a simple three-pot self-watering planter on the windowsill. Nothing fancy
 
 If your kitchen doesn't get much direct sun, a small grow light makes a real difference. We added one last winter and it extended our growing season through the cold months. The plants don't know it's not summer.
 
-For people who want zero maintenance, the AeroGarden system is genuinely impressive. It's hydroponic — no soil — and comes with pre-seeded pods, a built-in light on a timer, and a water level sensor. My sister-in-law has one and it basically runs itself.
+If you want something closer to zero maintenance, my sister-in-law grows hers in an AeroGarden, an indoor hydroponic setup with its own light. It basically runs itself.
 
 ## How to harvest without killing the plant
 

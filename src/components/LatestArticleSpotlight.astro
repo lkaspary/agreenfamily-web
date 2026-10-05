@@ -11,26 +11,26 @@ export interface Props {
 const { title, description, slug, tags, image, imageAlt } = Astro.props;
 ---
 
-<a href={`/articles/${slug}`} class="group block relative rounded-2xl overflow-hidden h-[420px] md:h-[480px]">
+<a href={`/articles/${slug}`} class="group block relative rounded-2xl overflow-hidden bg-forest md:h-[480px]">
 
   <!-- Background image or gradient -->
   {image ? (
     <img
       src={image}
       alt={imageAlt ?? title}
-      class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+      class="block w-full h-56 object-cover md:absolute md:inset-0 md:h-full group-hover:scale-105 transition-transform duration-500"
     />
   ) : (
-    <div class="absolute inset-0 bg-gradient-to-br from-forest to-leaf"></div>
+    <div class="h-56 bg-gradient-to-br from-forest to-leaf md:absolute md:inset-0 md:h-full"></div>
   )}
 
   <!-- Overlay -->
-  <div class="absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/40 to-transparent"></div>
+  <div class="hidden md:block absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/40 to-transparent"></div>
 
   <!-- Content -->
-  <div class="absolute bottom-0 left-0 right-0 p-8 md:p-12">
+  <div class="relative p-6 md:absolute md:bottom-0 md:left-0 md:right-0 md:p-12">
     <div class="flex flex-wrap items-center gap-2 mb-3">
-      <span class="inline-block text-xs font-semibold bg-leaf text-white px-2.5 py-1 rounded-full uppercase tracking-wide">
+      <span class="inline-block text-xs font-semibold bg-cream text-forest md:bg-leaf md:text-white px-2.5 py-1 rounded-full uppercase tracking-wide">
         New Article
       </span>
       {tags.slice(0, 2).map(tag => (

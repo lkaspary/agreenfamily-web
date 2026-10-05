@@ -24,22 +24,22 @@ const { articles } = Astro.props;
         data-slide={i}
       >
         <!-- Background image or gradient -->
-        <div class="relative h-[480px] md:h-[540px] overflow-hidden rounded-2xl">
+        <div class="relative h-full bg-forest md:h-[540px] overflow-hidden rounded-2xl">
           {article.image ? (
             <img
               src={article.image}
               alt={article.imageAlt ?? article.title}
-              class="absolute inset-0 w-full h-full object-cover"
+              class="block w-full h-56 object-cover md:absolute md:inset-0 md:h-full"
             />
           ) : (
-            <div class="absolute inset-0 bg-gradient-to-br from-forest to-leaf"></div>
+            <div class="h-56 bg-gradient-to-br from-forest to-leaf md:absolute md:inset-0 md:h-full"></div>
           )}
 
           <!-- Overlay -->
-          <div class="absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/40 to-transparent"></div>
+          <div class="hidden md:block absolute inset-0 bg-gradient-to-t from-forest/90 via-forest/40 to-transparent"></div>
 
           <!-- Content -->
-          <div class="absolute bottom-0 left-0 right-0 p-8 md:p-12">
+          <div class="relative p-6 md:absolute md:bottom-0 md:left-0 md:right-0 md:p-12">
             <div class="flex flex-wrap gap-2 mb-3">
               {article.tags.slice(0, 2).map(tag => (
                 <span class="inline-block text-xs font-medium bg-sage/30 text-cream border border-sage/40 px-2.5 py-1 rounded-full uppercase tracking-wide">
@@ -83,12 +83,12 @@ const { articles } = Astro.props;
     <>
       <button
         id="carousel-prev"
-        class="absolute left-4 top-1/2 -translate-y-1/2 bg-cream/20 hover:bg-cream/40 text-cream rounded-full w-10 h-10 flex items-center justify-center backdrop-blur-sm transition-colors"
+        class="absolute left-4 top-28 md:top-1/2 -translate-y-1/2 bg-forest/60 md:bg-cream/20 hover:bg-cream/40 text-cream rounded-full w-10 h-10 flex items-center justify-center backdrop-blur-sm transition-colors"
         aria-label="Previous slide"
       >‹</button>
       <button
         id="carousel-next"
-        class="absolute right-4 top-1/2 -translate-y-1/2 bg-cream/20 hover:bg-cream/40 text-cream rounded-full w-10 h-10 flex items-center justify-center backdrop-blur-sm transition-colors"
+        class="absolute right-4 top-28 md:top-1/2 -translate-y-1/2 bg-forest/60 md:bg-cream/20 hover:bg-cream/40 text-cream rounded-full w-10 h-10 flex items-center justify-center backdrop-blur-sm transition-colors"
         aria-label="Next slide"
       >›</button>
     </>

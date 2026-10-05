@@ -1,6 +1,6 @@
 ---
 title: "The Halloween Stuff That's Worth Keeping: What to Invest In, What to Skip, and How to Get Creative"
-description: "We got tired of re-buying the same flimsy Halloween decorations every October. Here's what we figured out about which stuff is worth spending a little more on, where to get creative, and what's honestly fine to skip."
+description: "We got tired of re-buying the same flimsy Halloween decorations every October. Here's how we got creative with what we already had, the few things worth keeping for years, and what's honestly fine to skip."
 date: 2026-08-30
 author: "A Green Family"
 tags: ["holidays", "kids", "shopping", "waste", "savings"]
@@ -9,14 +9,6 @@ imageAlt: "A mother and three children in Halloween costumes and face paint on a
 featured: true
 draft: false
 affiliateProducts:
-  - name: "Touch of Eco Solar LED Halloween String Lights (68 ft, purple & orange)"
-    url: "https://www.walmart.com/ip/125-Solar-Powered-LED-Halloween-String-Lights-68-Feet-Purple-Orange/508353276"
-    store: "walmart"
-    description: "Solar-powered, weatherproof outdoor lights that pack away and reuse for years — no outlet or batteries"
-  - name: "FUNPENY Animated Pumpkin Candy Holder"
-    url: "https://www.amazon.com/FUNPENY-Halloween-Animated-Activated-Treaters/dp/B094FK5N65/?tag=agreenfamily-20"
-    store: "amazon"
-    description: "Motion-activated candy bowl with lights and sound — a buy-once item that becomes a yearly tradition"
   - name: "Needzo Animatronic Skeleton Hand Candy Bowl"
     url: "https://www.amazon.com/Needzo-Animatronic-Halloween-Activated-Skeleton/dp/B0DG9QT9V8/?tag=agreenfamily-20"
     store: "amazon"
@@ -25,13 +17,9 @@ affiliateProducts:
     url: "https://www.amazon.com/Halloween-Reusable-Cartoon-Supplies-Shopping/dp/B08K2XG2WF/?tag=agreenfamily-20"
     store: "amazon"
     description: "Machine-washable canvas totes that replace flimsy plastic buckets and fold flat for storage"
-  - name: "Halloween Canvas Bags with Handles (2-pack)"
-    url: "https://www.walmart.com/ip/Halloween-Canvas-Bags-with-Handles-Canvas-Trick-or-Treat-Bags-Halloween-Tote-Bags-for-Kids-19-x-14-inch-Pumpkin-2PC/239332359"
-    store: "walmart"
-    description: "Larger canvas trick-or-treat totes big enough for a full candy haul"
 actionSteps:
   - "Before buying anything new this year, ask one question about each item: will this still be good next October? Invest in the yeses, get creative with the noes."
-  - "Swap disposable plastic candy buckets and glow-stick string lights for canvas totes and a solar LED set — both pay for themselves by year two."
+  - "Pick one thing you replace every October and find a way to reuse it instead: a costume swap with the neighbors, a canvas tote instead of a plastic bucket, real pumpkins that go to the compost."
   - "Paint pumpkins instead of carving them so they last weeks longer, then compost them in November instead of sending them to the trash."
   - "Start or join a neighborhood costume swap — one Nextdoor post is usually all it takes."
 ---
@@ -41,8 +29,6 @@ Last October, about twenty minutes before the first trick-or-treaters showed up,
 That's when it hit me: we'd been approaching Halloween stuff completely backwards. Buying cheap across the board and replacing half of it every year isn't actually cheaper. And the pile of cracked plastic pumpkins and shredded polyester spider webs we were sending to the trash every November was starting to feel like its own kind of horror story.
 
 So we took a different approach. We looked at everything we buy or make for Halloween and asked a pretty simple question: *will this still be good next October?* The answers were more interesting than we expected.
-
-*This article includes affiliate links. If you purchase through them, we may earn a small commission at no extra cost to you. We only recommend products we've actually used or genuinely researched — the article exists because the topic matters to us, not because of the links.*
 
 ## The Numbers Are Genuinely Scary
 
@@ -55,40 +41,6 @@ About 35 million Halloween costumes get thrown away every year in the U.S. alone
 Then there's the pumpkin situation — about a billion pounds of pumpkins end up in landfills globally each year, where they decompose and release methane, a greenhouse gas roughly 80 times more potent than CO₂ over a 20-year period. And the candy wrapper problem is its own category: billions of individually wrapped pieces in non-recyclable mixed-material wrappers.
 
 None of this means Halloween should feel guilty or joyless. It means some of the choices are worth thinking about, and a lot of the better options are actually more fun.
-
-## Where Spending More Actually Saves Money (and Waste)
-
-Not everything deserves a bigger investment. But some Halloween categories have a clear "buy it once" option that pays for itself in two or three seasons. Here's where we think the tradeoff works.
-
-### Outdoor Lighting
-
-This is probably the single best place to spend a little more. A decent set of solar-powered LED string lights — orange, purple, warm white, whatever your vibe — will run for years with zero electricity cost and no wiring hassle. We found some good options at both Amazon and Walmart in the $15–30 range that are weatherproof and have multiple modes (steady, flicker, chase).
-
-Walmart carries the [Touch Of Eco Solar LED Halloween String Lights](https://www.walmart.com/ip/125-Solar-Powered-LED-Halloween-String-Lights-68-Feet-Purple-Orange/508353276) — 68 feet of purple and orange LEDs, solar-powered, weatherproof. Amazon has similar options from multiple brands. The key things to look for: waterproof rating (IP65 or higher), solar panel quality, and a black wire that disappears against tree branches and gutters.
-
-Compare that to buying disposable string lights or glow sticks every year. The solar set pays for itself by year two, works without an outlet, and you toss it in a box every November.
-
-### Costumes (the Right Ones)
-
-Here's the nuance: not every costume is worth investing in. A trending pop-culture costume your kid wants this year might not interest them next October. That's fine — that's what thrift stores, costume swaps, and creative closet raids are for.
-
-But *base layer* costumes and *classic characters* are a different story. A well-made witch cape, a quality skeleton bodysuit, a good pirate coat — these get reused year after year, by the same kid or handed down to siblings. The math actually works out: a $65 quality costume worn five times comes to $13 per wear. A $15 disposable one replaced annually costs $15 per wear *plus* the landfill contribution, *plus* the accessories you inevitably re-buy because last year's fell apart.
-
-What to look for: fabric weight of 125 GSM or higher (cheap costumes run 60–80 GSM and become see-through under party lighting), reinforced seams instead of single-stitch, and metal zippers instead of plastic. Morphsuits and similar brands have good guides on this — the difference between a costume that survives the washing machine and one that doesn't is mostly in those construction details.
-
-For kids who want something different every year — and they will — the sustainable play is a "costume kit" approach: invest in versatile base pieces (a good black cape, a quality tutu, a solid pair of wings) and swap out the cheap accessories that define the character each year. The $5 fairy wand is disposable; the $30 cape that makes the fairy, the witch, and the vampire work is the investment.
-
-### The Animated Candy Bowl
-
-Okay, this one is partly just because our kids love it, but the motion-activated candy bowls with a skeleton hand or lunging head are genuinely a buy-once item that becomes a household tradition. Amazon has several versions — the [FUNPENY Animated Pumpkin Candy Holder](https://www.amazon.com/FUNPENY-Halloween-Animated-Activated-Treaters/dp/B094FK5N65/?tag=agreenfamily-20) and the [Needzo Animatronic Skeleton Candy Bowl](https://www.amazon.com/Needzo-Animatronic-Halloween-Activated-Skeleton/dp/B0DG9QT9V8/?tag=agreenfamily-20) both run on batteries, have motion sensors and sound effects, and are built to last multiple seasons. They run $20–35 and replace the need to buy a new candy display setup every year.
-
-The trick-or-treaters love them, the bowl itself is reusable forever, and they turn candy distribution into an event instead of a chore.
-
-### Canvas Trick-or-Treat Bags
-
-This is such an easy swap it's almost embarrassing we didn't do it sooner. Those thin plastic pumpkin buckets and flimsy bags that crack or tear mid-route? Replace them once with canvas tote bags and you're done for years.
-
-Amazon has packs of [reusable canvas trick-or-treat bags](https://www.amazon.com/Halloween-Reusable-Cartoon-Supplies-Shopping/dp/B08K2XG2WF/?tag=agreenfamily-20) with Halloween designs for around $8–12 for a four-pack. Walmart carries [canvas bags with handles](https://www.walmart.com/ip/Halloween-Canvas-Bags-with-Handles-Canvas-Trick-or-Treat-Bags-Halloween-Tote-Bags-for-Kids-19-x-14-inch-Pumpkin-2PC/239332359) that are big enough to hold a serious candy haul. They fold flat for storage, they're machine washable, and they actually hold more candy than those plastic buckets ever did — which the kids figured out immediately.
 
 ## Where Getting Creative Beats Buying Anything
 
@@ -122,6 +74,30 @@ Our neighborhood started doing a costume swap a couple of years ago and it's bec
 
 If your neighborhood doesn't do this, it takes about one Facebook or Nextdoor post to start one. The response is usually enthusiastic.
 
+## The Few Things Worth Buying Once
+
+Most of our Halloween now comes from the yard, the thrift store, and the craft drawer. But there are a handful of things we did buy, and they come back out every October. The test is the same question: will this still be good next year?
+
+### Outdoor Lighting
+
+Solar-powered LED string lights were the clearest win. They run for years with no electricity cost and no wiring hassle. Compare that to buying disposable string lights or glow sticks every year. The solar set pays for itself by year two, works without an outlet, and you toss it in a box every November.
+
+### Costumes (the Right Ones)
+
+Here's the nuance: not every costume is worth investing in. A trending pop-culture costume your kid wants this year might not interest them next October. That's fine — that's what thrift stores, costume swaps, and creative closet raids are for.
+
+But *base layer* costumes and *classic characters* are a different story. A well-made witch cape, a quality skeleton bodysuit, a good pirate coat — these get reused year after year, by the same kid or handed down to siblings. The math actually works out: a $65 quality costume worn five times comes to $13 per wear. A $15 disposable one replaced annually costs $15 per wear *plus* the landfill contribution, *plus* the accessories you inevitably re-buy because last year's fell apart.
+
+For kids who want something different every year — and they will — the sustainable play is a "costume kit" approach: invest in versatile base pieces (a good black cape, a quality tutu, a solid pair of wings) and swap out the cheap accessories that define the character each year. The $5 fairy wand is disposable; the $30 cape that makes the fairy, the witch, and the vampire work is the investment.
+
+### The Candy Bowl
+
+Okay, this one is partly just because our kids love it. We have a motion-activated candy bowl with a skeleton hand that lunges at whoever reaches in. It comes out every year, the trick-or-treaters love it, and it turns candy distribution into an event instead of a chore. It's also replaced the new candy display we used to pick up every October.
+
+### Canvas Trick-or-Treat Bags
+
+This is such an easy swap it's almost embarrassing we didn't do it sooner. Those thin plastic pumpkin buckets and flimsy bags that crack or tear mid-route? Replace them once with canvas tote bags and you're done for years. They fold flat for storage, they're machine washable, and they actually hold more candy than those plastic buckets ever did — which the kids figured out immediately.
+
 ## What's Honestly Fine to Keep Simple
 
 Not everything needs a sustainability overhaul. Some things are fine to keep low-cost and low-stress.
@@ -136,7 +112,7 @@ Not everything needs a sustainability overhaul. Some things are fine to keep low
 
 The big inflatable yard decorations are a category where the answer really depends. A quality inflatable — thick material, good fan motor, reinforced seams — can last five or more years and becomes a neighborhood landmark. A cheap one from the bargain bin might last one season before the seams go or the motor dies (ask me how I know).
 
-If you want an inflatable, spend enough to get one that will last. Amazon has options from $30 to $100+ — the ones in the $50–70 range with reinforced stitching tend to hit the sweet spot. Or skip them entirely and put that energy into the natural and DIY approach, which honestly looks better in most yards.
+If you want an inflatable, get one built to last rather than the bargain-bin version. Or skip them entirely and put that energy into the natural and DIY approach, which honestly looks better in most yards.
 
 ## The Storage That Makes It All Work
 
@@ -148,7 +124,7 @@ Ten minutes of organized packing in November saves the frantic re-buying spree e
 
 ## Where We've Landed
 
-We didn't set out to have a zero-waste Halloween and we still don't. We buy candy, we occasionally grab a cheap costume accessory, and we're not going to pretend our household has this perfectly figured out. But the shift from "buy everything new, throw it all away in November" to "invest in a few good things, get creative with the rest, and actually reuse what we have" has been surprisingly satisfying.
+We didn't set out to have a zero-waste Halloween and we still don't. We buy candy, we occasionally grab a cheap costume accessory, and we're not going to pretend our household has this perfectly figured out. But the shift from "buy everything new, throw it all away in November" to "get creative, reuse what we have, and keep the few good things for years" has been surprisingly satisfying.
 
 It's saved us money — genuinely, the math works out by year two in most categories. It's produced a Halloween that actually looks and feels more personal than the all-plastic-from-a-megastore approach. And every November, when we put the one labeled bin back in the garage instead of filling a trash bag, it feels like a small, good thing.
 

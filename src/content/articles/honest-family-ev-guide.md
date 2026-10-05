@@ -13,10 +13,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B09NKDHPX2/?tag=agreenfamily-20"
     store: "amazon"
     description: "Home Level 2 charger — charges most EVs overnight, significant upgrade from the standard cable that comes with the car"
-  - name: "Portable EV Charging Cable (Level 1, 110V)"
-    url: "https://www.walmart.com/ip/MUSTART-Portable-EV-Charger-Level-1-110V-16A-Portable-Electric-Vehicle-Charger-with-NEMA-5-15-Plug-20-ft-Cable/3210044290"
-    store: "walmart"
-    description: "Portable charger for travel — plugs into a standard outlet, slow but useful when away from home"
 actionSteps:
   - "If you're replacing a car in the next year or two, spend one hour looking at used EVs in your area — a three-year-old Bolt or Leaf is often dramatically cheaper than its new equivalent and still has plenty of life left."
   - "Check the federal tax credits before you buy: up to $7,500 for new EVs and $4,000 for used, subject to income and price limits. Worth a quick conversation with your accountant."

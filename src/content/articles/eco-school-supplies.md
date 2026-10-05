@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B011KH4Z7U/?tag=agreenfamily-20"
     store: "amazon"
     description: "Classic quality pencils with sustainably sourced wood"
-  - name: "Yoobi Spiral Notebooks"
-    url: "https://www.walmart.com/ip/Yoobi-Notebook-1-Subject-Spiral-Paper-Cover-9-x-11-College-Ruled-100-sheets-Boom-Box/519385452"
-    store: "walmart"
-    description: "PVC-free notebooks from an eco-minded brand that donates supplies to classrooms"
 actionSteps:
   - "Look at last year's school supplies and circle what you replaced more than once. That's your shortlist for buying better this year."
   - "Buy one good lunchbox and expect it to last three years — not one. The math works out, and the plastic bag habit disappears with it."

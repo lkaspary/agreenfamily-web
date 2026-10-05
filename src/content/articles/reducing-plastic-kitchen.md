@@ -17,13 +17,9 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B005E2QRPG/?tag=agreenfamily-20"
     store: "amazon"
     description: "Lightweight bags for fruits and veggies — machine washable"
-  - name: "Glass Food Storage Set"
-    url: "https://www.walmart.com/ip/Anchor-Hocking-Glass-Food-Storage-Containers-with-Lids-30-Piece-Set/574359462"
-    store: "walmart"
-    description: "Replace plastic containers with airtight glass"
 actionSteps:
   - "Open the cabinet under your sink and count how many plastic bags are in it. That number is your starting point."
-  - "Order mesh produce bags this week — they're the easiest, lowest-friction swap and you'll use them on your very next grocery run."
+  - "On your next grocery run, skip the thin plastic produce bags. Loose produce can go straight in the cart, or into any bag you already have at home."
   - "Replace plastic wrap and containers as they wear out, not all at once. One swap a month adds up faster than you'd think."
 ---
 
@@ -74,3 +70,5 @@ Our kids went through a phase of wanting straws for everything. We bought a set 
 This one sounds weird but hear me out. We were buying small plastic bin liners for the bathroom and bedroom bins — plastic, used once, thrown away. Now we just empty those small bins directly into the main bin. That's it. No liner needed.
 
 ---
+
+None of this happened overnight. We made one change, got comfortable with it, then made another. Start with whichever one bothers you most right now. That's what worked for us.

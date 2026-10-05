@@ -88,7 +88,7 @@ draft: false
 affiliateProducts:
   - name: "Product Name"
     url: "https://amzn.to/XXXXX"   # replace PLACEHOLDER when affiliate approved
-    store: "amazon"                 # or "walmart"
+    store: "amazon"                 # Amazon only for now (schema still allows "walmart")
     description: "one line"
 ---
 ```
@@ -97,10 +97,24 @@ affiliateProducts:
 
 ## Current content
 
-3 articles published (sample content, affiliate links are PLACEHOLDERs):
-1. `reducing-plastic-kitchen.md` — featured
-2. `family-composting-guide.md` — featured
-3. `eco-school-supplies.md` — featured
+23 articles published in `src/content/articles/`.
+
+### Affiliate link rules (since Oct 2026)
+
+- **Amazon only.** No Walmart links until the Walmart affiliate application is approved.
+- **At most 2 products per article**, listed in `affiliateProducts`. Articles that recommend nothing have no list.
+- **No affiliate links in the article text.** Products live only in the "What we use" box at the end. The text can name something we actually use, plainly and once, but never links to it.
+- Links must carry the `agreenfamily-20` tag (amazon.com `?tag=` links or amzn.to short links).
+- **Non-affiliate brands we like** (e.g. Full Leaf Tea Company, where we have no affiliate deal) can be linked to their own site in the text, with a short note that we don't earn a commission from them. Never add an affiliate tag to these.
+
+### Editorial tone (since Oct 2026)
+
+Articles are about habits, not products. When writing or editing:
+- Lead with the habit and the reason for it. A product is at most "here's what we happen to use", never the point of a section.
+- No buying-guide content: no "Amazon has...", no store recommendations for products, no product price ranges, no spec checklists, no lists of products we haven't tried.
+- Prefer the free or already-owned option first (reuse, thrift, swap, DIY), and buying something last.
+- Cost comparisons of a habit are fine (e.g. "a latte costs $6, homemade is $1").
+- No in-article affiliate disclaimers; the layout shows one under every article's hero.
 
 **Known issue:** article `image:` paths point to files that don't exist yet in `public/images/`. Either remove the image field or add real photos from Unsplash/Pexels.
 
@@ -117,7 +131,7 @@ affiliateProducts:
 
 - Amazon Associates: **APPROVED** ✅ (approved as of May 2026)
 - Walmart Affiliate: NOT YET APPLIED
-- Affiliate links in articles: Amazon links are live; Walmart links still need updating once approved
+- Affiliate links in articles: Amazon links are live; all Walmart links were removed in Oct 2026 (see affiliate link rules above)
 
 ## Traffic (last updated May 25, 2026)
 
@@ -133,7 +147,7 @@ Cloudflare Analytics — 30-day window (Apr 25 – May 25):
 ## What's next (in order)
 
 1. Fix broken article images — download from Unsplash/Pexels into `public/images/`
-2. Keep publishing — at 15 articles now, target 30+ for SEO traction (briefs in `LAUNCH_STATUS.md`)
+2. Keep publishing — at 23 articles now, target 30+ for SEO traction (briefs in `LAUNCH_STATUS.md`)
 3. Apply to Walmart Affiliate — https://affiliates.walmart.com
 4. Set up Beehiiv newsletter + Web3Forms key in NewsletterSignup.astro
 5. Instagram @agreenfamily — active but low engagement; improve social strategy (carousel format, hooks)

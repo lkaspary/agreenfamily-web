@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B009378AG2/?tag=agreenfamily-20"
     store: "amazon"
     description: "Easy rotating bin — no pitchfork required"
-  - name: "Outdoor Compost Bin"
-    url: "https://www.walmart.com/ip/Redmon-65-Gallon-Black-Plastic-Compost-Bin-with-Air-Vents/20966191"
-    store: "walmart"
-    description: "Simple, budget-friendly outdoor bin"
 actionSteps:
   - "Put a bowl on your kitchen counter today and start collecting vegetable scraps. You don't need a bin yet — just start noticing what you throw away."
   - "Check if your city offers curbside compost pickup. Many do, and it's even easier than doing it yourself — your scraps go straight into the service's bins."
@@ -80,4 +76,10 @@ My daughter asked once if the banana peels "go to heaven" when they become soil.
 
 A healthy compost doesn't smell bad — it smells like earth, like a garden after rain. If yours smells rotten, two things: too much wet food scraps (add dry cardboard), or it needs turning (poke it or spin the tumbler). We've never had a serious smell problem with the tumbling composter we use — it stays closed and the spinning keeps it aerated.
 
-## When is it ready
+## When is it ready?
+
+You'll know. It turns dark, crumbly, and smells like garden soil rather than food. You can't identify individual ingredients anymore. For us that takes about two months in warm weather, longer in winter.
+
+We mix it into our herb pots and spread it on our small garden bed. Every time we do it, I think about all the vegetable peels that went into it and feel genuinely good about that.
+
+It's one of those habits that once you have it, you can't believe you didn't do it sooner.

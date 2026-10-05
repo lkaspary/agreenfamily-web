@@ -17,10 +17,6 @@ affiliateProducts:
     url: "https://www.amazon.com/dp/B079VJSFCK/?tag=agreenfamily-20"
     store: "amazon"
     description: "One metal razor for life, replacement blades cost almost nothing, zero plastic waste"
-  - name: "Woobamboo Bamboo Toothbrush (4-pack)"
-    url: "https://www.amazon.com/dp/B0949SJ3P7/?tag=agreenfamily-20"
-    store: "amazon"
-    description: "Biodegradable handle — the bristles still need to be removed before composting, but the handle breaks down"
 actionSteps:
   - "Switch body wash to a bar of soap first — the easiest swap in the bathroom. It costs less, comes in cardboard, and works identically. No adjustment period whatsoever."
   - "Look at your razor. If it's a cartridge or disposable system, a safety razor is the one swap I'd put above everything else — better shave, dramatically cheaper, no plastic waste after the handle."
