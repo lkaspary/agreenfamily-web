@@ -5,7 +5,7 @@ date: 2026-10-28
 author: "A Green Family"
 tags: ["health", "bathroom", "seasonal", "plastic-free", "swaps"]
 image: "/images/sinus-rinse/ceramic-neti-pot.jpg"
-imageAlt: "A white ceramic neti pot on a bathroom counter next to a small electric kettle and a folded cotton towel, with rain on the window behind."
+imageAlt: "A white ceramic neti pot with a long spout on a wooden bathroom counter, next to a small glass jar of rinse salt and a rolled white towel."
 featured: false
 draft: true
 actionSteps:
