@@ -9,7 +9,7 @@
 
 `reel.mp4` (27.5 s, 1080 × 1920, no audio) and the 10 cards in `cards/` were built from this script, with two changes:
 
-- **Only the two article photos are used** (neti pot, honey-lemon). The other cards are text cards on cream or green, because the extra Gemini images weren't available yet. To swap in new photos later, re-render the cards and rebuild the video.
+- **Photos:** cards 1, 2, 3, 6 and 7 use Gemini images A, B, C, D and E (in `photos/`); card 8 uses the article's honey-lemon photo. Image C replaces the article's neti pot photo, whose salt jar was pink and labeled. The rest are text cards on cream or green.
 - **New card 4** shows the article's estimate: "About 9 cans a season, gone. Or ~11 plastic jugs if you'd buy distilled water."
 
 There's no audio: add a licensed track from Instagram's music library when you post, and optionally record the voiceover below.
