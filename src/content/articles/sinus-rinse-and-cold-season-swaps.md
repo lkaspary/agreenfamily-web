@@ -1,6 +1,6 @@
 ---
 title: "I Traded My Saline Spray Cans for a Ceramic Neti Pot. Here's What Else Changed About Our Cold Season."
-description: "Sinus trouble every fall used to mean a drawer of empty spray cans and gallon jugs of distilled water. Here's the ceramic rinse and bathroom kettle that replaced them, how to keep the water safe, why honey and lemon beat a cabinet of plastic-wrapped cold medicine, and other small swaps for when the rain comes back."
+description: "Sinus trouble every fall used to mean a drawer of empty saline spray cans. Here's the ceramic rinse and bathroom kettle that replaced them, how to keep the water safe, why honey and lemon beat a cabinet of plastic-wrapped cold medicine, and other small swaps for when the rain comes back."
 date: 2026-10-28
 author: "A Green Family"
 tags: ["health", "bathroom", "seasonal", "plastic-free", "swaps"]
@@ -17,7 +17,7 @@ actionSteps:
 
 Sometime in October the rain comes back to Seattle and stays, and my sinuses notice before I do. Every year it's the same: a heavy head in the mornings, that pressure behind the eyes, and a week or two when I'm reaching for something to clear it all out.
 
-For years that something was a pressurized saline spray. The kind in a metal can with a little nozzle, the one that hisses a fine mist. It worked. It was also, I realized one morning while digging through the bathroom drawer, a can I emptied every few weeks, plus a gallon jug of distilled water from the grocery store for the other days. By the end of the season there was a small pile of both.
+For years that something was a pressurized saline spray. The kind in a metal can with a little nozzle, the one that hisses a fine mist. It worked. It was also, I realized one morning while digging through the bathroom drawer, a can I emptied every few weeks. By the end of the season there was a small pile of them.
 
 So this year looks different. A ceramic neti pot on the counter, and a small electric kettle-mug that lives in the bathroom. Here's how that works, the one safety rule I had to learn properly, and the other things we've been rethinking for cold season.
 
@@ -35,23 +35,25 @@ A neti pot is the oldest version of this idea: a small pot with a spout. You fil
 
 Ours is ceramic, which I like for the same reason I like the tea tins in the kitchen: it doesn't wear out. Rinse it, let it air dry upside down, and it's ready for the next day. There's no can to finish and no refill to buy, only salt and water.
 
+The catch is the water. Most neti pot instructions point you to distilled water, the kind sold in gallon plastic jugs. Rinsing every day, that's a jug every week or two, which would have traded one pile of containers for another. So I went a different way.
+
 ## The water is the part that matters
 
-This is the part I didn't take seriously enough at first, and it's the most important thing in this article.
+This is the most important thing in this article.
 
 **Plain tap water is not safe for rinsing your sinuses.** The FDA is direct about it: tap water isn't adequately filtered or treated for this. Water that's perfectly fine to drink can carry organisms that are harmless in your stomach but dangerous in your nose. They're rare, but people have died from rinsing with tap water that carried an amoeba called *Naegleria fowleri*. It's not something to be casual about.
 
 The safe options, according to the FDA and the CDC:
 
-- **Distilled or sterile water**, the kind sold in gallon jugs. This is what I used to buy.
+- **Distilled or sterile water**, the kind sold in gallon jugs.
 - **Tap water that has been boiled and cooled.** The FDA says boil it for 3 to 5 minutes, then let it cool until lukewarm. The CDC says at least 1 minute at a rolling boil (3 minutes if you live above 6,500 feet).
 - Water run through a filter specifically designed to trap these organisms. (I haven't gone this route, so I can't say much about it.)
 
-Boiling is where the bathroom kettle-mug comes in. Instead of a plastic jug every week or two, I boil tap water in the bathroom, let it cool, and use it. The FDA says boiled water keeps for up to 24 hours in a clean, closed container, so one batch in the evening covers the next morning.
+Boiling is where the bathroom kettle-mug comes in. Instead of buying jugs, I boil tap water in the bathroom, let it cool, and use it. The FDA says boiled water keeps for up to 24 hours in a clean, closed container, so one batch in the evening covers the next morning.
 
 One thing I had to check: **many electric kettles switch off the moment the water reaches a boil.** That's not the same as boiling it for one minute, let alone three to five. If yours shuts off automatically, you need to bring it back to a boil until it has actually boiled for the full time, or use a pot on the stove. It's a small habit, but it's the whole point.
 
-And let it cool. Lukewarm, not hot. I learned that one quickly.
+> **Our routine:** At night I fill the kettle-mug and bring it to a boil, then let it boil a few more times while I shower, switching it back on each time it clicks off, until it has boiled for several minutes in all. I leave it covered overnight. By morning it has cooled down, and it's ready for the rinse, well within the 24 hours the FDA allows.
 
 ## The salt
 
