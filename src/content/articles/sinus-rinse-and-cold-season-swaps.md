@@ -7,7 +7,7 @@ tags: ["health", "bathroom", "seasonal", "plastic-free", "swaps"]
 image: "/images/sinus-rinse/ceramic-neti-pot.jpg"
 imageAlt: "A white ceramic neti pot with a long spout on a wooden bathroom counter, next to a small glass jar of rinse salt and a rolled white towel."
 featured: false
-draft: true
+draft: false
 actionSteps:
   - "Never rinse your sinuses with water straight from the tap. Use distilled or sterile water, or tap water boiled for 3 to 5 minutes and cooled until lukewarm."
   - "Mix your own rinse salt: 3 teaspoons of pickling or canning salt with 1 teaspoon of baking soda, stored in an airtight jar. One teaspoon of the mix per cup of water."
