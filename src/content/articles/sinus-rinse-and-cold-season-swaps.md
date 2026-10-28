@@ -13,6 +13,15 @@ actionSteps:
   - "Mix your own rinse salt: 3 teaspoons of pickling or canning salt with 1 teaspoon of baking soda, stored in an airtight jar. One teaspoon of the mix per cup of water."
   - "Next time someone in the house gets a cold, start with hot water, lemon, and honey before reaching for the cold-medicine aisle. (No honey for babies under one.)"
   - "Before cold season starts, gather the expired or leftover medicine in your cabinet and drop it at a pharmacy take-back kiosk instead of the trash."
+affiliateProducts:
+  - name: "Himalayan Porcelain Neti Pot"
+    url: "https://www.amazon.com/dp/B0144VRNBO?tag=agreenfamily-20"
+    store: "amazon"
+    description: "The ceramic pot on our bathroom counter that replaced the saline spray cans"
+  - name: "Rzlinn Stainless Steel Electric Kettle Mug"
+    url: "https://www.amazon.com/dp/B0F1F9DQ4H?tag=agreenfamily-20"
+    store: "amazon"
+    description: "The small kettle-mug we boil rinse water in the night before"
 ---
 
 Sometime in October the rain comes back to Seattle and stays, and my sinuses notice before I do. Every year it's the same: a heavy head in the mornings, that pressure behind the eyes, and a week or two when I'm reaching for something to clear it all out.
