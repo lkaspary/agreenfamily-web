@@ -53,7 +53,7 @@ Boiling is where the bathroom kettle-mug comes in. Instead of buying jugs, I boi
 
 One thing I had to check: **many electric kettles switch off the moment the water reaches a boil.** That's not the same as boiling it for one minute, let alone three to five. If yours shuts off automatically, you need to bring it back to a boil until it has actually boiled for the full time, or use a pot on the stove. It's a small habit, but it's the whole point.
 
-> **Our routine:** At night I fill the kettle-mug and bring it to a boil, then let it boil a few more times while I shower, switching it back on each time it clicks off, until it has boiled for several minutes in all. I leave it covered overnight. By morning it has cooled down, and it's ready for the rinse, well within the 24 hours the FDA allows.
+**Our routine:** At night I fill the kettle-mug and bring it to a boil, then let it boil a few more times while I shower, switching it back on each time it clicks off, until it has boiled for several minutes in all. I leave it covered overnight. By morning it has cooled down, and it's ready for the rinse, well within the 24 hours the FDA allows.
 
 ## The salt
 
