@@ -55,6 +55,16 @@ One thing I had to check: **many electric kettles switch off the moment the wate
 
 **Our routine:** At night I fill the kettle-mug and bring it to a boil, then let it boil a few more times while I shower, switching it back on each time it clicks off, until it has boiled for several minutes in all. I leave it covered overnight. By morning it has cooled down, and it's ready for the rinse, well within the 24 hours the FDA allows.
 
+## What that adds up to
+
+I wanted a rough number, so here's the back-of-the-envelope version. Your own numbers will be different, and these are estimates, not measurements.
+
+**The spray cans.** I was emptying a can about every three weeks. Our sinus season runs roughly from October to April, about 26 weeks, so that's **8 or 9 cans a season**.
+
+**The jugs I didn't buy.** A typical rinse uses about 8 ounces of water, and a gallon jug holds 128 ounces, so one jug covers about 16 rinses. Rinsing once a day through the same 26 weeks, the "use distilled water" route would have meant **about 11 gallon jugs a season**.
+
+So depending on what you'd otherwise be using, one ceramic pot and a kettle-mug skip **about 9 metal cans or about 11 plastic jugs every season**. Rinse all year and it's closer to 17 cans or 23 jugs. Over five years of fall rains, that's somewhere around 45 cans or 55 jugs, from one pot that will probably outlast all of them.
+
 ## The salt
 
 Pre-mixed saline packets are convenient, but each one is a little foil or paper sachet. The American Academy of Allergy, Asthma & Immunology publishes a simple recipe for making your own:
