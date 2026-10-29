@@ -1,0 +1,135 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+// Only things an article says our family actually uses.
+// `shop` is an Amazon affiliate link, and only for items where the article names the brand we use.
+// `site` is a plain link to a brand we like but have no affiliate deal with.
+type Item = {
+  name: string;
+  note: string;
+  article: string;
+  shop?: string;
+  site?: string;
+};
+
+const sections: { title: string; items: Item[] }[] = [
+  {
+    title: 'Kitchen',
+    items: [
+      { name: 'Philips espresso machine', note: 'Bought during the pandemic. It replaced the pods and most of our coffee-shop runs, and the grounds go to the compost.', article: 'coffee-pods-and-tea-bags', shop: 'https://www.amazon.com/dp/B0DBHTL3CN?tag=agreenfamily-20' },
+      { name: 'Full Leaf Tea Company', note: 'Our favorite loose-leaf tea. We store it in metal tins.', article: 'coffee-pods-and-tea-bags', site: 'https://fullleafteacompany.com' },
+      { name: 'Reusable silicone tea bags', note: 'Scoop in the leaves, pull it out, rinse. The leaves go to the compost.', article: 'coffee-pods-and-tea-bags' },
+      { name: 'SodaStream Terra', note: 'Tap water, a few presses, a squeeze of lime. It replaced about half our canned sparkling water.', article: 'sodastream-vs-canned-sparkling-water', shop: 'https://amzn.to/4xVfDM3' },
+      { name: 'SodaStream Quick Connect CO2 cylinders', note: 'One cylinder makes about 169 cans’ worth. We keep a spare so we never run out.', article: 'sodastream-vs-canned-sparkling-water', shop: 'https://amzn.to/4xZAJsU' },
+      { name: 'Swedish dishcloths', note: 'Four of them, rotated through the week. They replaced almost all our paper towels.', article: 'paper-towels-vs-cloth' },
+      { name: 'Flour sack towels', note: 'Thin, very absorbent cotton for the big spills.', article: 'paper-towels-vs-cloth' },
+      { name: 'Beeswax wraps', note: 'For half an avocado, cheese, and leftovers. Not for raw meat.', article: 'reducing-plastic-kitchen' },
+      { name: 'Mesh produce bags', note: 'Through the wash hundreds of times, and the cashier can see through them.', article: 'reducing-plastic-kitchen' },
+      { name: 'Glass containers and reused jars', note: 'Every decent jar gets a second life for beans, spices, and frozen sofrito.', article: 'glass-vs-cans-vs-plastic' },
+      { name: 'A glass milk bottle', note: 'The rest of the carton goes in here, in the fridge door.', article: 'milk-container-environment' },
+    ],
+  },
+  {
+    title: 'Laundry',
+    items: [
+      { name: 'Tru Earth laundry strips', note: 'No plastic jugs. A pack lasts our family about two months.', article: 'greenest-way-to-do-laundry', shop: 'https://www.amazon.com/dp/B07SPVZLVQ/?tag=agreenfamily-20' },
+      { name: 'Wool dryer balls', note: 'My wife’s discovery. Same set of six for three years, and no more dryer sheets.', article: 'greenest-way-to-do-laundry' },
+      { name: 'A drying rack', note: 'Most things dry on it overnight. The dryer is for towels, bedding, and emergencies.', article: 'greenest-way-to-do-laundry' },
+      { name: 'A mesh laundry bag', note: 'For the kids’ synthetic sportswear, to catch some of the microfibers.', article: 'greenest-way-to-do-laundry' },
+    ],
+  },
+  {
+    title: 'Bathroom',
+    items: [
+      { name: 'HiBar shampoo and conditioner bars', note: 'A week or two to adjust, then our hair was fine. One bar lasts about as long as a bottle.', article: 'plastic-free-bathroom', shop: 'https://www.amazon.com/dp/B07VTXHFNX/?tag=agreenfamily-20' },
+      { name: 'A safety razor', note: 'The swap I’d recommend first. My wife switched too.', article: 'plastic-free-bathroom' },
+      { name: 'Woobamboo toothbrushes', note: 'What the kids use. They haven’t noticed or complained.', article: 'plastic-free-bathroom', shop: 'https://www.amazon.com/dp/B0949SJ3P7/?tag=agreenfamily-20' },
+      { name: 'Bar soap and bamboo cotton swabs', note: 'The easy ones. We switched and stayed switched.', article: 'plastic-free-bathroom' },
+    ],
+  },
+  {
+    title: 'Cleaning',
+    items: [
+      { name: 'Dr. Bronner’s castile soap', note: 'A teaspoon in a spray bottle of water cleans almost everything.', article: 'home-cleaning-without-the-cabinet', shop: 'https://www.amazon.com/dp/B000HK1ON0/?tag=agreenfamily-20' },
+      { name: 'White vinegar and baking soda', note: 'The other two of our three cleaning ingredients.', article: 'home-cleaning-without-the-cabinet' },
+      { name: 'Glass spray bottles', note: 'Refilled over and over instead of buying new plastic ones.', article: 'home-cleaning-without-the-cabinet' },
+    ],
+  },
+  {
+    title: 'Garden and compost',
+    items: [
+      { name: 'A counter compost bin', note: 'Lives next to the sink. Our youngest takes it out.', article: 'family-composting-guide' },
+      { name: 'A tumbling composter', note: 'Stays closed, and spinning it keeps it aerated. No smell problems.', article: 'family-composting-guide' },
+      { name: 'A three-pot self-watering planter', note: 'Basil, parsley, and a seasonal third herb on the windowsill.', article: 'grow-your-own-herb-cube' },
+      { name: 'A small grow light', note: 'Added last winter. It kept the herbs going through the cold months.', article: 'grow-your-own-herb-cube' },
+    ],
+  },
+  {
+    title: 'School and kids',
+    items: [
+      { name: 'Stainless steel bento lunchboxes', note: 'Four compartments, no bags or wrap. Same lunchboxes for three years.', article: 'eco-school-supplies' },
+      { name: 'Stainless steel water bottles', note: 'Covered in stickers, beat up, and still going.', article: 'eco-school-supplies' },
+      { name: 'Wooden pencils', note: 'One big pack at the start of the year.', article: 'eco-school-supplies' },
+      { name: 'Stainless steel straws', note: 'With a little cleaning brush. No more disposable straws.', article: 'reducing-plastic-kitchen' },
+    ],
+  },
+  {
+    title: 'Halloween',
+    items: [
+      { name: 'Canvas trick-or-treat bags', note: 'Fold flat, go in the wash, and hold more candy than the plastic buckets.', article: 'sustainable-halloween' },
+      { name: 'A skeleton-hand candy bowl', note: 'Comes out every October. The kids would never let us skip it.', article: 'sustainable-halloween' },
+      { name: 'Solar LED string lights', note: 'No outlet, no electricity bill, back in the box every November.', article: 'sustainable-halloween' },
+    ],
+  },
+  {
+    title: 'Getting rid of things',
+    items: [
+      { name: 'Ridwell', note: 'A Seattle pickup service for styrofoam, plastic film, batteries, and more. We have no affiliate deal with them.', article: 'hard-to-recycle-items-guide', site: 'https://www.ridwell.com' },
+    ],
+  },
+];
+---
+
+<Layout
+  title="What We Actually Use"
+  description="The things our family really uses day to day, from the kitchen to the laundry room, and the articles where we wrote about each one."
+>
+  <article class="max-w-2xl mx-auto px-6 py-14">
+
+    <h1 class="font-serif text-4xl text-forest mb-3">What We Actually Use</h1>
+    <p class="text-ink-muted mb-4 leading-relaxed">
+      This is the short list of things our family really uses, not things we've only read about. Most of it is
+      boring on purpose: a cloth instead of paper towels, a jar we already had, a bin by the sink. Each one links to
+      the article where we wrote about the habit behind it.
+    </p>
+    <p class="text-xs text-ink-muted bg-sky border border-sage rounded-lg px-4 py-3 mb-10">
+      <em>Some "Find it" links are Amazon affiliate links. If you buy through them, we may earn a small commission at
+      no extra cost to you. Links marked "no commission" go straight to a brand we like and earn us nothing.
+      See our <a href="/disclosure" class="underline hover:text-forest">disclosure</a>.</em>
+    </p>
+
+    {sections.map(section => (
+      <section class="mb-10">
+        <h2 class="font-serif text-2xl text-forest mb-4">{section.title}</h2>
+        <ul class="divide-y divide-stone border-y border-stone">
+          {section.items.map(item => (
+            <li class="py-4">
+              <p class="font-medium text-ink">{item.name}</p>
+              <p class="text-sm text-ink-muted mt-1 leading-relaxed">{item.note}</p>
+              <p class="text-sm mt-2 flex flex-wrap gap-x-4 gap-y-1">
+                <a href={`/articles/${item.article}/`} class="text-leaf hover:text-forest font-medium">Read the article →</a>
+                {item.shop && (
+                  <a href={item.shop} target="_blank" rel="sponsored noopener" class="text-leaf hover:text-forest font-medium">Find it on Amazon ↗</a>
+                )}
+                {item.site && (
+                  <a href={item.site} target="_blank" rel="noopener noreferrer" class="text-leaf hover:text-forest font-medium">Their site (no commission) ↗</a>
+                )}
+              </p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+  </article>
+</Layout>
