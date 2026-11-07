@@ -7,7 +7,7 @@ tags: ["holidays", "recycling", "gift wrap", "waste", "kids"]
 image: "/images/scrunch-test-wrapping-paper.jpg"
 imageAlt: "Small hands scrunching brown kraft wrapping paper into a ball next to a crumpled sheet of shiny gold foil paper that has sprung back open."
 featured: true
-draft: true
+draft: false
 actionSteps:
   - "Do the scrunch test before you buy a roll, not just after the gifts are opened."
   - "Keep a save box for ribbons, bows, and gift bags."
